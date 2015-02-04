@@ -1,0 +1,3342 @@
+8	0	IR	Crude	crude	JJ	B-NP	O	-	B-A1
+8	0	IR	oil	oil	NN	I-NP	O	-	I-A1
+8	0	IR	prices	price	NNS	E-NP	O	-	E-A1
+8	0	IR	rose	rise	VBD	S-VP	O	rose	S-V
+8	0	IR	to	to	TO	S-PP	O	-	B-A4
+8	0	IR	$	$	$	B-NP	O	-	I-A4
+8	0	IR	0	0	CD	E-NP	O	-	I-A4
+8	0	IR	per	per	IN	O	O	-	I-A4
+8	0	IR	barrel	barrel	NN	O	O	-	E-A4
+
+12	0	IR	Oracle	Oracle	NNP	S-NP	S-ORG	-	S-A0
+12	0	IR	released	release	VBD	S-VP	O	released	S-V
+12	0	IR	a	a	DT	B-NP	O	-	B-A1
+12	0	IR	confidential	confidential	JJ	I-NP	O	-	I-A1
+12	0	IR	document	document	NN	E-NP	O	-	E-A1
+
+13	1	IR	Strong	strong	JJ	B-NP	O	-
+13	1	IR	sales	sale	NNS	E-NP	O	-
+13	1	IR	for	for	IN	S-PP	O	-
+13	1	IR	iTunes	iTunes	NNS	S-NP	S-LOC	-
+13	1	IR	in	in	IN	S-PP	O	-
+13	1	IR	Europe	Europe	NNP	S-NP	S-LOC	-
+13	1	IR	.	.	.	O	O	-
+
+15	0	IR	Companies	company	NNS	S-NP	O	-	S-A0	O	B-A0
+15	0	IR	selling	sell	VBG	S-VP	O	selling	S-V	O	I-A0
+15	0	IR	genetically	genetically	RB	B-NP	O	-	B-A1	S-AM-MNR	I-A0
+15	0	IR	modified	modified	VBN	I-NP	O	modified	I-A1	S-V	I-A0
+15	0	IR	foods	food	NNS	E-NP	O	-	E-A1	S-A1	I-A0
+15	0	IR	don	don	NN	B-NP	O	-	O	O	I-A0
+15	0	IR	't	't	NN	E-NP	O	-	O	O	E-A0
+15	0	IR	need	need	VB	S-VP	O	need	O	O	S-V
+15	0	IR	labels	label	NNS	S-NP	O	-	O	O	S-A1
+15	0	IR	.	.	.	O	O	-	O	O	O
+
+19	1	IR	Coffee	coffee	NN	B-NP	O	-	B-A0
+19	1	IR	drinking	drinking	NN	E-NP	O	-	E-A0
+19	1	IR	has	have	VBZ	S-VP	O	has	S-V
+19	1	IR	health	health	NN	B-NP	O	-	B-A1
+19	1	IR	benefits	benefit	NNS	E-NP	O	-	E-A1
+19	1	IR	.	.	.	O	O	-	O
+
+20	1	IR	Fiber	fiber	NN	S-NP	O	-	S-A0
+20	1	IR	improves	improve	VBZ	S-VP	O	improves	S-V
+20	1	IR	blood	blood	NN	B-NP	O	-	B-A1
+20	1	IR	sugar	sugar	NN	I-NP	O	-	I-A1
+20	1	IR	control	control	NN	E-NP	O	-	E-A1
+20	1	IR	.	.	.	O	O	-	O
+
+46	0	IR	Dodgers	Dodgers	NNS	S-NP	S-ORG	-	S-A0
+46	0	IR	lose	lose	VBP	S-VP	O	lose	S-V
+46	0	IR	first	first	JJ	B-NP	O	-	B-A1
+46	0	IR	game	game	NN	E-NP	O	-	E-A1
+46	0	IR	ever	ever	RB	S-ADVP	O	-	S-AM-TMP
+46	0	IR	at	at	IN	S-PP	O	-	B-AM-LOC
+46	0	IR	Fenway	Fenway	NNP	S-NP	S-ORG	-	E-AM-LOC
+
+50	0	IR	Singapore	Singapore	NNP	B-NP	S-LOC	-	B-A0	O
+50	0	IR	scientists	scientist	NNS	E-NP	O	-	E-A0	O
+50	0	IR	reveal	reveal	VBP	S-VP	O	reveal	S-V	O
+50	0	IR	that	that	IN	S-SBAR	O	-	B-A1	O
+50	0	IR	SARS	SARS	NNP	B-NP	S-ORG	-	I-A1	B-A1
+50	0	IR	virus	virus	NN	E-NP	O	-	I-A1	E-A1
+50	0	IR	has	have	VBZ	B-VP	O	-	I-A1	O
+50	0	IR	undergone	undergo	VBN	E-VP	O	undergone	I-A1	S-V
+50	0	IR	genetic	genetic	JJ	B-NP	O	-	I-A1	B-A1
+50	0	IR	changes	change	NNS	E-NP	O	-	E-A1	E-A1
+50	0	IR	.	.	.	O	O	-	O	O
+
+52	1	IR	Rock	Rock	NN	B-NP	O	-	B-A0
+52	1	IR	band	band	NN	E-NP	O	-	I-A0
+52	1	IR	Phish	Phish	NNP	S-NP	S-ORG	-	E-A0
+52	1	IR	holds	hold	VBZ	S-VP	O	holds	S-V
+52	1	IR	final	final	JJ	B-NP	O	-	B-A1
+52	1	IR	concert	concert	NN	E-NP	O	-	I-A1
+52	1	IR	in	in	IN	S-PP	O	-	I-A1
+52	1	IR	Vermont	Vermont	NNP	S-NP	S-LOC	-	E-A1
+52	1	IR	.	.	.	O	O	-	O
+
+56	1	IR	Denmark	Denmark	NNP	B-NP	S-LOC	-
+56	1	IR	and	and	CC	I-NP	O	-
+56	1	IR	Sweden	Sweden	NNP	I-NP	S-LOC	-
+56	1	IR	tie	tie	NN	E-NP	O	-
+56	1	IR	.	.	.	O	O	-
+
+58	1	IR	translator	translator	NN	S-NP	O	-	S-A0
+58	1	IR	kidnapped	kidnap	VBN	S-VP	O	kidnapped	S-V
+58	1	IR	in	in	IN	S-PP	O	-	B-AM-LOC
+58	1	IR	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-AM-LOC
+
+59	0	IR	translator	translator	NN	S-NP	O	-	S-A0
+59	0	IR	kidnapped	kidnap	VBN	S-VP	O	kidnapped	S-V
+59	0	IR	in	in	IN	S-PP	O	-	B-AM-LOC
+59	0	IR	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-AM-LOC
+
+60	0	IR	Mexicans	Mexicans	NNS	S-NP	O	-	S-A0
+60	0	IR	continue	continue	VBP	B-VP	O	continue	S-V
+60	0	IR	to	to	TO	I-VP	O	-	B-A1
+60	0	IR	illegally	illegally	RB	I-VP	O	-	I-A1
+60	0	IR	cross	cross	VB	E-VP	O	-	I-A1
+60	0	IR	border	border	NN	S-NP	O	-	E-A1
+
+62	1	IR	Green	green	JJ	B-NP	O	-	B-A1
+62	1	IR	card	card	NN	E-NP	O	-	E-A1
+62	1	IR	is	be	VBZ	S-VP	O	-	O
+62	1	IR	now	now	RB	S-ADVP	O	-	O
+62	1	IR	difficult	difficult	JJ	S-ADJP	O	-	O
+62	1	IR	to	to	TO	B-VP	O	-	O
+62	1	IR	receive	receive	VB	E-VP	O	receive	S-V
+62	1	IR	.	.	.	O	O	-	O
+
+63	1	IR	British	British	JJ	B-NP	S-MISC	-	B-A0
+63	1	IR	servicemen	serviceman	NNS	E-NP	O	-	E-A0
+63	1	IR	detained	detain	VBN	S-VP	O	detained	S-V
+
+64	1	IR	It	it	PRP	S-NP	O	-	O	O
+64	1	IR	takes	take	VBZ	S-VP	O	takes	S-V	O
+64	1	IR	longer	longer	JJR	S-NP	O	-	S-AM-TMP	O
+64	1	IR	to	to	TO	B-VP	O	-	B-AM-PNC	O
+64	1	IR	get	get	VB	E-VP	O	get	I-AM-PNC	S-V
+64	1	IR	green	green	JJ	B-NP	O	-	I-AM-PNC	B-A1
+64	1	IR	card	card	NN	E-NP	O	-	E-AM-PNC	E-A1
+64	1	IR	.	.	.	O	O	-	O	O
+
+65	1	IR	Coal	coal	NN	B-NP	O	-	B-A1
+65	1	IR	stocks	stock	NNS	E-NP	O	-	E-A1
+65	1	IR	rise	rise	VBP	S-VP	O	rise	S-V
+65	1	IR	.	.	.	O	O	-	O
+
+66	1	IR	British	British	JJ	B-NP	S-MISC	-	B-A0
+66	1	IR	servicemen	serviceman	NNS	E-NP	O	-	E-A0
+66	1	IR	detained	detain	VBN	S-VP	O	detained	S-V
+
+67	0	IR	Coal	coal	NN	B-NP	O	-	B-A1
+67	0	IR	stocks	stock	NNS	E-NP	O	-	E-A1
+67	0	IR	rise	rise	VBP	S-VP	O	rise	S-V
+67	0	IR	.	.	.	O	O	-	O
+
+69	0	IR	Anorexia	anorexia	NN	S-NP	O	-	S-A1
+69	0	IR	becomes	become	VBZ	S-VP	O	becomes	S-V
+69	0	IR	common	common	JJ	S-ADJP	O	-	B-A2
+69	0	IR	in	in	IN	S-PP	O	-	I-A2
+69	0	IR	males	male	NNS	S-NP	O	-	E-A2
+69	0	IR	.	.	.	O	O	-	O
+
+73	0	IR	California	California	NNP	B-NP	S-LOC	-	B-A0
+73	0	IR	driver	driver	NN	E-NP	O	-	I-A0
+73	0	IR	's	's	POS	B-NP	O	-	I-A0
+73	0	IR	licenses	license	NNS	E-NP	O	-	E-A0
+73	0	IR	granted	grant	VBN	S-VP	O	granted	S-V
+73	0	IR	to	to	TO	S-PP	O	-	B-A2
+73	0	IR	illegal	illegal	JJ	B-NP	O	-	I-A2
+73	0	IR	immigrants	immigrant	NNS	E-NP	O	-	E-A2
+73	0	IR	.	.	.	O	O	-	O
+
+74	1	IR	South	South	NNP	B-NP	B-LOC	-	B-A0	B-A0
+74	1	IR	Korea	Korea	NNP	E-NP	E-LOC	-	E-A0	E-A0
+74	1	IR	continues	continue	VBZ	B-VP	O	continues	S-V	O
+74	1	IR	to	to	TO	I-VP	O	-	B-A1	O
+74	1	IR	send	send	VB	E-VP	O	send	I-A1	S-V
+74	1	IR	troops	troop	NNS	S-NP	O	-	E-A1	S-A1
+74	1	IR	.	.	.	O	O	-	O	O
+
+78	0	IR	Clinton	Clinton	NNP	S-NP	S-PER	-
+78	0	IR	's	's	POS	B-NP	O	-
+78	0	IR	book	book	NN	E-NP	O	-
+78	0	IR	is	be	VBZ	S-VP	O	-
+78	0	IR	a	a	DT	B-NP	O	-
+78	0	IR	big	big	JJ	I-NP	O	-
+78	0	IR	seller	seller	NN	E-NP	O	-
+78	0	IR	.	.	.	O	O	-
+
+79	1	IR	private	private	JJ	B-NP	O	-
+79	1	IR	spaceship	spaceship	NN	I-NP	O	-
+79	1	IR	launches	launch	NNS	E-NP	O	-
+
+77	0	IR	Dow	Dow	NNP	B-NP	B-MISC	-
+77	0	IR	Jones	Jones	NNP	E-NP	E-MISC	-
+77	0	IR	is	be	VBZ	S-VP	O	-
+77	0	IR	down	down	RB	S-ADVP	O	-
+77	0	IR	.	.	.	O	O	-
+
+80	0	IR	Private	private	JJ	B-NP	O	-
+80	0	IR	spaceship	spaceship	NN	I-NP	O	-
+80	0	IR	launches	launch	NNS	E-NP	O	-
+80	0	IR	.	.	.	O	O	-
+
+83	0	IR	Lakers	laker	NNS	S-NP	S-ORG	-	S-A0
+83	0	IR	win	win	VBP	S-VP	O	win	S-V
+83	0	IR	the	the	DT	B-NP	O	-	B-A1
+83	0	IR	championship	championship	NN	E-NP	O	-	E-A1
+83	0	IR	.	.	.	O	O	-	O
+
+84	1	IR	African	African	JJ	B-NP	O	-	B-A1
+84	1	IR	polio	polio	NN	I-NP	O	-	I-A1
+84	1	IR	outbreak	outbreak	NN	E-NP	O	-	E-A1
+84	1	IR	feared	fear	VBD	S-VP	O	feared	O
+
+85	1	IR	Wal-Mart	Wal-Mart	NNP	S-NP	S-ORG	-	S-A0
+85	1	IR	sued	sue	VBD	S-VP	O	sued	S-V
+85	1	IR	for	for	IN	S-PP	O	-	B-AM-PNC
+85	1	IR	sexual	sexual	JJ	B-NP	O	-	I-AM-PNC
+85	1	IR	discrimination	discrimination	NN	E-NP	O	-	E-AM-PNC
+
+86	0	IR	African	African	JJ	B-NP	O	-	B-A1
+86	0	IR	polio	polio	NN	I-NP	O	-	I-A1
+86	0	IR	outbreak	outbreak	NN	E-NP	O	-	E-A1
+86	0	IR	feared	fear	VBD	S-VP	O	feared	O
+
+96	1	IR	U.S.	U.S.	NNP	B-NP	B-ORG	-
+96	1	IR	Supreme	Supreme	NNP	I-NP	I-ORG	-
+96	1	IR	Court	Court	NNP	E-NP	E-ORG	-
+96	1	IR	in	in	IN	S-PP	O	-
+96	1	IR	favor	favor	NN	S-NP	O	-
+96	1	IR	of	of	IN	S-PP	O	-
+96	1	IR	same-sex	same-sex	JJ	B-NP	O	-
+96	1	IR	marriage	marriage	NN	E-NP	O	-
+
+97	0	IR	U.S.	U.S.	NNP	B-NP	B-ORG	-
+97	0	IR	Supreme	Supreme	NNP	I-NP	I-ORG	-
+97	0	IR	Court	Court	NNP	E-NP	E-ORG	-
+97	0	IR	in	in	IN	S-PP	O	-
+97	0	IR	favor	favor	NN	S-NP	O	-
+97	0	IR	of	of	IN	S-PP	O	-
+97	0	IR	same-sex	same-sex	JJ	B-NP	O	-
+97	0	IR	marriage	marriage	NN	E-NP	O	-
+
+98	0	IR	prime	prime	JJ	B-NP	O	-	B-A0
+98	0	IR	minister	minister	NN	E-NP	O	-	E-A0
+98	0	IR	targeted	target	VBN	S-VP	O	targeted	S-V
+98	0	IR	for	for	IN	S-PP	O	-	B-A1
+98	0	IR	assassination	assassination	NN	S-NP	O	-	E-A1
+
+99	1	IR	prime	prime	JJ	B-NP	O	-	B-A0
+99	1	IR	minister	minister	NN	E-NP	O	-	E-A0
+99	1	IR	targeted	target	VBN	S-VP	O	targeted	S-V
+99	1	IR	for	for	IN	S-PP	O	-	B-A1
+99	1	IR	assassination	assassination	NN	S-NP	O	-	E-A1
+
+110	1	IR	Wal-Mart	Wal-Mart	NNP	S-NP	S-ORG	-	S-A0
+110	1	IR	faces	face	VBZ	S-VP	O	faces	S-V
+110	1	IR	a	a	DT	B-NP	O	-	B-A1
+110	1	IR	sex	sex	NN	E-NP	O	-	I-A1
+110	1	IR	-	-	:	O	O	-	I-A1
+110	1	IR	discrimination	discrimination	NN	B-NP	O	-	I-A1
+110	1	IR	suit	suit	NN	E-NP	O	-	E-A1
+
+114	0	IR	US	us	PRP	S-NP	S-LOC	-	S-A0
+114	0	IR	withdraws	withdraw	VBZ	S-VP	O	withdraws	S-V
+114	0	IR	war	war	NN	B-NP	O	-	B-A1
+114	0	IR	crimes	crime	NNS	E-NP	O	-	E-A1
+
+117	0	IR	Iranian	Iranian	JJ	B-NP	S-MISC	-	B-A0
+117	0	IR	chemical	chemical	NN	I-NP	O	-	I-A0
+117	0	IR	weapons	weapon	NNS	E-NP	O	-	E-A0
+117	0	IR	threaten	threaten	VBP	S-VP	O	threaten	S-V
+117	0	IR	United	United	NNP	B-NP	B-ORG	-	B-A2
+117	0	IR	States.	States.	NNPS	E-NP	E-ORG	-	E-A2
+
+119	1	IR	American	American	JJ	B-NP	S-MISC	-	S-A0
+119	1	IR	accused	accuse	VBN	E-NP	O	accused	S-V
+119	1	IR	of	of	IN	S-PP	O	-	B-A2
+119	1	IR	espionage	espionage	NN	S-NP	O	-	E-A2
+
+121	1	IR	American	American	JJ	B-NP	S-MISC	-	S-A0
+121	1	IR	accused	accuse	VBN	E-NP	O	accused	S-V
+121	1	IR	of	of	IN	S-PP	O	-	B-A2
+121	1	IR	espionage	espionage	NN	S-NP	O	-	E-A2
+
+122	1	IR	Daily	daily	JJ	B-NP	O	-	B-A1
+122	1	IR	telegraph	telegraph	NN	E-NP	O	-	E-A1
+122	1	IR	is	be	VBZ	B-VP	O	-	O
+122	1	IR	sold	sell	VBN	E-VP	O	sold	S-V
+122	1	IR	.	.	.	O	O	-	O
+
+123	0	IR	Daily	daily	JJ	B-NP	O	-	B-A1
+123	0	IR	telegraph	telegraph	NN	E-NP	O	-	E-A1
+123	0	IR	is	be	VBZ	B-VP	O	-	O
+123	0	IR	sold	sell	VBN	E-VP	O	sold	S-V
+123	0	IR	.	.	.	O	O	-	O
+
+125	1	IR	baby	baby	NN	B-NP	O	-	B-A1
+125	1	IR	elephant	elephant	NN	E-NP	O	-	E-A1
+125	1	IR	born	bear	VBN	S-VP	O	born	S-V
+
+127	1	IR	baby	baby	NN	B-NP	O	-	B-A1
+127	1	IR	elephant	elephant	NN	E-NP	O	-	E-A1
+127	1	IR	born	bear	VBN	S-VP	O	born	S-V
+
+130	0	IR	skin	skin	NN	B-NP	O	-	B-A1
+130	0	IR	cancer	cancer	NN	I-NP	O	-	I-A1
+130	0	IR	numbers	number	NNS	E-NP	O	-	E-A1
+130	0	IR	increase	increase	VBP	S-VP	O	increase	S-V
+130	0	IR	.	.	.	O	O	-	O
+
+131	1	IR	bee	bee	NN	B-NP	O	-
+131	1	IR	stings	sting	NNS	E-NP	O	-
+131	1	IR	can	can	MD	B-VP	O	-
+131	1	IR	be	be	VB	E-VP	O	-
+131	1	IR	fatal	fatal	JJ	S-ADJP	O	-
+
+135	1	IR	Disneyland	Disneyland	NNP	S-NP	O	-	S-A0
+135	1	IR	has	have	VBZ	S-VP	O	has	S-V
+135	1	IR	accident	accident	NN	S-NP	O	-	S-A1
+
+561	1	QA	The	the	DT	B-NP	O	-
+561	1	QA	capital	capital	NN	E-NP	O	-
+561	1	QA	of	of	IN	S-PP	O	-
+561	1	QA	Somalia	Somalia	NNP	S-NP	S-LOC	-
+561	1	QA	is	be	VBZ	S-VP	O	-
+561	1	QA	Mogadishu	Mogadishu	NNP	S-NP	S-LOC	-
+561	1	QA	.	.	.	O	O	-
+
+562	1	QA	The	the	DT	B-NP	O	-	B-A1
+562	1	QA	Islamic	Islamic	NNP	I-NP	B-ORG	-	I-A1
+562	1	QA	Resistance	Resistance	NNP	I-NP	I-ORG	-	I-A1
+562	1	QA	Movement	Movement	NNP	E-NP	E-ORG	-	E-A1
+562	1	QA	is	be	VBZ	B-VP	O	-	O
+562	1	QA	also	also	RB	I-VP	O	-	S-AM-DIS
+562	1	QA	known	know	VBN	E-VP	O	known	S-V
+562	1	QA	as	as	IN	S-PP	O	-	B-A2
+562	1	QA	Hamas	Hamas	NNP	S-NP	S-ORG	-	E-A2
+562	1	QA	.	.	.	O	O	-	O
+
+563	0	QA	Hebron	Hebron	NNP	S-NP	S-LOC	-	S-A1
+563	0	QA	is	be	VBZ	B-VP	O	-	O
+563	0	QA	located	locate	VBN	E-VP	O	located	S-V
+563	0	QA	0	0	CD	B-NP	O	-	B-AM-LOC
+563	0	QA	miles	mile	NNS	E-NP	O	-	I-AM-LOC
+563	0	QA	south	south	RB	S-ADVP	O	-	I-AM-LOC
+563	0	QA	of	of	IN	S-PP	O	-	I-AM-LOC
+563	0	QA	Jerusalem	Jerusalem	NNP	S-NP	S-LOC	-	E-AM-LOC
+563	0	QA	.	.	.	O	O	-	O
+
+564	0	QA	The	the	DT	B-NP	O	-	B-A1
+564	0	QA	Soviet	Soviet	NNP	I-NP	B-ORG	-	I-A1
+564	0	QA	Union	Union	NNP	E-NP	E-ORG	-	E-A1
+564	0	QA	collapsed	collapse	VBD	S-VP	O	collapsed	S-V
+564	0	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+564	0	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+565	1	QA	La	La	NNP	B-NP	B-ORG	-	B-A1
+565	1	QA	Scala	Scala	NNP	I-NP	E-ORG	-	I-A1
+565	1	QA	opera	opera	NN	I-NP	O	-	I-A1
+565	1	QA	house	house	NN	E-NP	O	-	E-A1
+565	1	QA	is	be	VBZ	B-VP	O	-	O
+565	1	QA	located	locate	VBN	E-VP	O	located	S-V
+565	1	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+565	1	QA	Milan	Milan	NNP	S-NP	S-LOC	-	I-AM-LOC
+565	1	QA	,	,	,	O	O	-	I-AM-LOC
+565	1	QA	Italy	Italy	NNP	S-NP	S-LOC	-	E-AM-LOC
+565	1	QA	.	.	.	O	O	-	O
+
+566	0	QA	"	"	SYM	S-NP	O	-	O
+566	0	QA	Smells	smell	VBZ	S-VP	B-MISC	Smells	S-V
+566	0	QA	Like	like	IN	S-PP	I-MISC	-	B-AM-MNR
+566	0	QA	Teen	Teen	NNP	B-NP	I-MISC	-	I-AM-MNR
+566	0	QA	Spirit	Spirit	NNP	I-NP	E-MISC	-	E-AM-MNR
+566	0	QA	"	"	WDT	E-NP	O	-	O
+566	0	QA	is	be	VBZ	S-VP	O	-	O
+566	0	QA	a	a	DT	B-NP	O	-	O
+566	0	QA	song	song	NN	E-NP	O	-	O
+566	0	QA	by	by	IN	S-PP	O	-	O
+566	0	QA	Nirvana	Nirvana	NNP	S-NP	S-MISC	-	O
+566	0	QA	.	.	.	O	O	-	O
+
+567	1	QA	The	the	DT	B-NP	O	-
+567	1	QA	Italian	Italian	JJ	I-NP	S-MISC	-
+567	1	QA	Prime	Prime	NNP	I-NP	O	-
+567	1	QA	Minister	Minister	NNP	E-NP	O	-
+567	1	QA	is	be	VBZ	S-VP	O	-
+567	1	QA	Silvio	Silvio	NNP	B-NP	B-PER	-
+567	1	QA	Berlusconi	Berlusconi	NNP	E-NP	E-PER	-
+567	1	QA	.	.	.	O	O	-
+
+568	1	QA	Edvard	Edvard	NNP	B-NP	B-PER	-	B-A0
+568	1	QA	Munch	Munch	NNP	E-NP	E-PER	-	E-A0
+568	1	QA	painted	paint	VBD	S-VP	O	painted	S-V
+568	1	QA	"	"	RP	O	O	-	B-A1
+568	1	QA	The	the	DT	B-NP	B-MISC	-	I-A1
+568	1	QA	Scream	Scream	NN	I-NP	E-MISC	-	I-A1
+568	1	QA	"	"	NN	E-NP	O	-	E-A1
+568	1	QA	.	.	.	O	O	-	O
+
+569	1	QA	The	the	DT	B-NP	O	-	B-A1
+569	1	QA	abbreviation	abbreviation	NN	I-NP	O	-	I-A1
+569	1	QA	GIA	GIA	NNP	E-NP	S-ORG	-	E-A1
+569	1	QA	stands	stand	VBZ	S-VP	O	stands	S-V
+569	1	QA	for	for	IN	S-PP	O	-	B-A2
+569	1	QA	Armed	Armed	NNP	B-NP	B-ORG	-	I-A2
+569	1	QA	Islamic	Islamic	NNP	I-NP	I-ORG	-	I-A2
+569	1	QA	Group	Group	NNP	E-NP	E-ORG	-	E-A2
+569	1	QA	.	.	.	O	O	-	O
+
+570	1	QA	John	John	NNP	B-NP	B-PER	-	B-A1	O
+570	1	QA	J.	J.	NNP	I-NP	I-PER	-	I-A1	O
+570	1	QA	Famalaro	Famalaro	NNP	E-NP	E-PER	-	E-A1	O
+570	1	QA	is	be	VBZ	B-VP	O	-	O	O
+570	1	QA	accused	accuse	VBN	E-VP	O	accused	S-V	O
+570	1	QA	of	of	IN	S-PP	O	-	B-A2	O
+570	1	QA	having	have	VBG	B-VP	O	-	I-A2	O
+570	1	QA	killed	kill	VBN	E-VP	O	killed	I-A2	S-V
+570	1	QA	Denise	Denise	NNP	B-NP	B-PER	-	I-A2	B-A1
+570	1	QA	A.	A.	NNP	I-NP	I-PER	-	I-A2	I-A1
+570	1	QA	Huber	Huber	NNP	E-NP	E-PER	-	E-A2	E-A1
+570	1	QA	.	.	.	O	O	-	O	O
+
+571	0	QA	Ross	Ross	NNP	B-NP	B-PER	-	B-A0
+571	0	QA	Perot	Perot	NNP	E-NP	E-PER	-	E-A0
+571	0	QA	ran	run	VBD	S-VP	O	ran	S-V
+571	0	QA	for	for	IN	S-PP	O	-	B-A1
+571	0	QA	president	president	NN	S-NP	O	-	E-A1
+571	0	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+571	0	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+572	0	QA	The	the	DT	B-NP	O	-
+572	0	QA	Japanese	Japanese	NNP	I-NP	S-MISC	-
+572	0	QA	Prime	Prime	NNP	I-NP	O	-
+572	0	QA	Minister	Minister	NNP	E-NP	O	-
+572	0	QA	is	be	VBZ	S-VP	O	-
+572	0	QA	Morihiro	Morihiro	NNP	B-NP	B-PER	-
+572	0	QA	Hosokawa	Hosokawa	NNP	E-NP	E-PER	-
+572	0	QA	.	.	.	O	O	-
+
+573	1	QA	Bovine	bovine	JJ	B-NP	O	-
+573	1	QA	spongiform	spongiform	NN	I-NP	O	-
+573	1	QA	encephalopathy	encephalopathy	NN	E-NP	O	-
+573	1	QA	is	be	VBZ	S-VP	O	-
+573	1	QA	another	another	DT	B-NP	O	-
+573	1	QA	name	name	NN	E-NP	O	-
+573	1	QA	for	for	IN	S-PP	O	-
+573	1	QA	the	the	DT	B-NP	O	-
+573	1	QA	"	"	JJ	I-NP	O	-
+573	1	QA	mad	mad	JJ	I-NP	O	-
+573	1	QA	cow	cow	NN	I-NP	O	-
+573	1	QA	disease	disease	NN	I-NP	O	-
+573	1	QA	"	"	NN	E-NP	O	-
+573	1	QA	.	.	.	O	O	-
+
+574	1	QA	Ayrton	Ayrton	NNP	B-NP	B-PER	-	B-A0	O
+574	1	QA	Senna	Senna	NNP	E-NP	E-PER	-	E-A0	O
+574	1	QA	had	have	VBD	S-VP	O	had	S-V	O
+574	1	QA	the	the	DT	B-NP	O	-	B-A1	B-A0
+574	1	QA	accident	accident	NN	E-NP	O	-	I-A1	E-A0
+574	1	QA	that	that	WDT	S-NP	O	-	I-A1	S-R-A0
+574	1	QA	caused	cause	VBD	S-VP	O	caused	I-A1	S-V
+574	1	QA	his	his	PRP$	B-NP	O	-	I-A1	B-A1
+574	1	QA	death	death	NN	E-NP	O	-	I-A1	E-A1
+574	1	QA	at	at	IN	S-PP	O	-	I-A1	B-AM-LOC
+574	1	QA	the	the	DT	B-NP	O	-	I-A1	I-AM-LOC
+574	1	QA	San	San	NNP	I-NP	B-LOC	-	I-A1	I-AM-LOC
+574	1	QA	Marino	Marino	NNP	I-NP	E-LOC	-	I-A1	I-AM-LOC
+574	1	QA	Grand	Grand	NNP	I-NP	B-MISC	-	I-A1	I-AM-LOC
+574	1	QA	Prix	Prix	NNP	E-NP	E-MISC	-	E-A1	E-AM-LOC
+574	1	QA	.	.	.	O	O	-	O	O
+
+575	1	QA	Elijah	Elijah	NNP	B-NP	B-PER	-	B-A0
+575	1	QA	Muhammad	Muhammad	NNP	E-NP	E-PER	-	E-A0
+575	1	QA	founded	found	VBD	S-VP	O	founded	S-V
+575	1	QA	the	the	DT	B-NP	O	-	B-A1
+575	1	QA	Nation	nation	NNP	E-NP	B-ORG	-	I-A1
+575	1	QA	of	of	IN	S-PP	I-ORG	-	I-A1
+575	1	QA	Islam	Islam	NNP	S-NP	E-ORG	-	E-A1
+575	1	QA	.	.	.	O	O	-	O
+
+577	1	QA	The	the	DT	B-NP	O	-	B-A1
+577	1	QA	Gulf	Gulf	NNP	I-NP	B-MISC	-	I-A1
+577	1	QA	War	War	NNP	E-NP	E-MISC	-	E-A1
+577	1	QA	was	be	VBD	B-VP	O	-	O
+577	1	QA	fought	fight	VBN	E-VP	O	fought	S-V
+577	1	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+577	1	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+578	1	QA	Charlton	Charlton	NNP	B-NP	B-ORG	-	B-A0
+578	1	QA	Heston	Heston	NNP	E-NP	E-ORG	-	E-A0
+578	1	QA	played	play	VBD	S-VP	O	played	S-V
+578	1	QA	the	the	DT	B-NP	O	-	B-A1
+578	1	QA	title	title	NN	I-NP	O	-	I-A1
+578	1	QA	role	role	NN	E-NP	O	-	E-A1
+578	1	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+578	1	QA	the	the	DT	B-NP	O	-	I-AM-LOC
+578	1	QA	movie	movie	NN	I-NP	O	-	I-AM-LOC
+578	1	QA	"	"	IN	I-NP	O	-	I-AM-LOC
+578	1	QA	Ben	Ben	NNP	I-NP	B-MISC	-	I-AM-LOC
+578	1	QA	-	-	:	I-NP	I-MISC	-	I-AM-LOC
+578	1	QA	Hur	Hur	NNP	I-NP	E-MISC	-	I-AM-LOC
+578	1	QA	"	"	NN	E-NP	O	-	E-AM-LOC
+578	1	QA	.	.	.	O	O	-	O
+
+579	1	QA	Shapour	Shapour	NNP	B-NP	B-PER	-	B-A1
+579	1	QA	Bakhtiar	Bakhtiar	NNP	E-NP	E-PER	-	E-A1
+579	1	QA	died	die	VBD	S-VP	O	died	S-V
+579	1	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+579	1	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+580	1	QA	"	"	SYM	B-NP	O	-
+580	1	QA	Beatrice	Beatrice	NNP	I-NP	S-PER	-
+580	1	QA	and	and	CC	I-NP	O	-
+580	1	QA	Benedict	Benedict	NNP	I-NP	S-PER	-
+580	1	QA	"	"	WDT	E-NP	O	-
+580	1	QA	is	be	VBZ	S-VP	O	-
+580	1	QA	an	an	DT	B-NP	O	-
+580	1	QA	overture	overture	NN	E-NP	O	-
+580	1	QA	by	by	IN	S-PP	O	-
+580	1	QA	Berlioz	Berlioz	NNP	S-NP	S-PER	-
+580	1	QA	.	.	.	O	O	-
+
+581	1	QA	Larry	Larry	NNP	B-NP	B-PER	-
+581	1	QA	Lawrence	Lawrence	NNP	E-NP	E-PER	-
+581	1	QA	is	be	VBZ	S-VP	O	-
+581	1	QA	the	the	DT	B-NP	O	-
+581	1	QA	head	head	NN	E-NP	O	-
+581	1	QA	of	of	IN	S-PP	O	-
+581	1	QA	the	the	DT	B-NP	O	-
+581	1	QA	U.S.	U.S.	NNP	I-NP	S-LOC	-
+581	1	QA	Embassy	Embassy	NNP	E-NP	S-MISC	-
+581	1	QA	in	in	IN	S-PP	O	-
+581	1	QA	Switzerland	Switzerland	NNP	S-NP	S-LOC	-
+581	1	QA	.	.	.	O	O	-
+
+582	1	QA	Deng	Deng	NNP	B-NP	B-PER	-
+582	1	QA	Xiaoping	Xiaoping	NNP	E-NP	E-PER	-
+582	1	QA	is	be	VBZ	S-VP	O	-
+582	1	QA	0	0	CD	B-NP	O	-
+582	1	QA	years	year	NNS	E-NP	O	-
+582	1	QA	old	old	JJ	S-ADJP	O	-
+582	1	QA	.	.	.	O	O	-
+
+583	0	QA	Grozny	Grozny	NNP	S-NP	S-LOC	-
+583	0	QA	is	be	VBZ	S-VP	O	-
+583	0	QA	the	the	DT	B-NP	O	-
+583	0	QA	capital	capital	NN	E-NP	O	-
+583	0	QA	of	of	IN	S-PP	O	-
+583	0	QA	Chechnya	Chechnya	NNP	S-NP	S-LOC	-
+583	0	QA	.	.	.	O	O	-
+
+585	1	QA	Vitas	Vitas	NNP	B-NP	B-PER	-	B-A1
+585	1	QA	Gerulaitis	Gerulaitis	NNP	E-NP	E-PER	-	E-A1
+585	1	QA	died	die	VBD	S-VP	O	died	S-V
+585	1	QA	of	of	IN	S-PP	O	-	B-A3
+585	1	QA	carbon	carbon	NN	B-NP	O	-	I-A3
+585	1	QA	monoxide	monoxide	NN	I-NP	O	-	I-A3
+585	1	QA	poisoning	poisoning	NN	E-NP	O	-	E-A3
+585	1	QA	.	.	.	O	O	-	O
+
+586	1	QA	Cardinal	Cardinal	NNP	B-NP	O	-	B-A1
+586	1	QA	Juan	Juan	NNP	I-NP	B-PER	-	I-A1
+586	1	QA	Jesus	Jesus	NNP	I-NP	I-PER	-	I-A1
+586	1	QA	Posadas	Posadas	NNP	I-NP	I-PER	-	I-A1
+586	1	QA	Ocampo	Ocampo	NNP	E-NP	E-PER	-	E-A1
+586	1	QA	died	die	VBD	S-VP	O	died	S-V
+586	1	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+586	1	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+587	1	QA	The	the	DT	B-NP	O	-	B-A1
+587	1	QA	Pribilof	Pribilof	NNP	I-NP	B-LOC	-	I-A1
+587	1	QA	Islands	Islands	NNPS	E-NP	E-LOC	-	E-A1
+587	1	QA	are	be	VBP	B-VP	O	-	O
+587	1	QA	located	locate	VBN	E-VP	O	located	S-V
+587	1	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+587	1	QA	the	the	DT	B-NP	O	-	I-AM-LOC
+587	1	QA	Bering	Bering	NNP	I-NP	B-LOC	-	I-AM-LOC
+587	1	QA	Sea	Sea	NNP	E-NP	E-LOC	-	E-AM-LOC
+587	1	QA	.	.	.	O	O	-	O
+
+589	1	QA	Clinton	Clinton	NNP	S-NP	S-PER	-	B-A1
+589	1	QA	's	's	POS	B-NP	O	-	I-A1
+589	1	QA	wife	wife	NN	E-NP	O	-	E-A1
+589	1	QA	is	be	VBZ	B-VP	O	-	O
+589	1	QA	called	call	VBN	E-VP	O	called	S-V
+589	1	QA	Hillary	Hillary	NNP	B-NP	B-PER	-	B-A2
+589	1	QA	Rodham	Rodham	NNP	I-NP	I-PER	-	I-A2
+589	1	QA	Clinton	Clinton	NNP	E-NP	E-PER	-	E-A2
+589	1	QA	.	.	.	O	O	-	O
+
+590	1	QA	The	the	DT	B-NP	O	-
+590	1	QA	previous	previous	JJ	I-NP	O	-
+590	1	QA	name	name	NN	E-NP	O	-
+590	1	QA	of	of	IN	S-PP	O	-
+590	1	QA	Ho	Ho	NNP	B-NP	B-LOC	-
+590	1	QA	Chi	Chi	NNP	I-NP	I-LOC	-
+590	1	QA	Minh	Minh	NNP	I-NP	I-LOC	-
+590	1	QA	City	City	NNP	E-NP	E-LOC	-
+590	1	QA	was	be	VBD	S-VP	O	-
+590	1	QA	Saigon	Saigon	NNP	S-NP	S-LOC	-
+590	1	QA	.	.	.	O	O	-
+
+591	1	QA	Jack	Jack	NNP	B-NP	B-PER	-
+591	1	QA	Kevorkian	Kevorkian	NNP	E-NP	E-PER	-
+591	1	QA	is	be	VBZ	S-VP	O	-
+591	1	QA	the	the	DT	B-NP	O	-
+591	1	QA	real	real	JJ	I-NP	O	-
+591	1	QA	name	name	NN	E-NP	O	-
+591	1	QA	of	of	IN	S-PP	O	-
+591	1	QA	"	"	JJ	B-NP	O	-
+591	1	QA	Dr.	Dr.	NNP	I-NP	B-MISC	-
+591	1	QA	Death	Death	NNP	I-NP	E-MISC	-
+591	1	QA	"	"	NN	E-NP	O	-
+591	1	QA	.	.	.	O	O	-
+
+592	1	QA	The	the	DT	B-NP	O	-	B-A1
+592	1	QA	UCLA	UCLA	NNP	I-NP	S-LOC	-	I-A1
+592	1	QA	/	/	:	I-NP	O	-	I-A1
+592	1	QA	Hammer	Hammer	NNP	I-NP	B-ORG	-	I-A1
+592	1	QA	Museum	Museum	NNP	E-NP	E-ORG	-	E-A1
+592	1	QA	is	be	VBZ	B-VP	O	-	O
+592	1	QA	directed	direct	VBN	E-VP	O	directed	S-V
+592	1	QA	by	by	IN	S-PP	O	-	B-A0
+592	1	QA	Henry	Henry	NNP	B-NP	B-PER	-	I-A0
+592	1	QA	Hopkins	Hopkins	NNP	E-NP	E-PER	-	E-A0
+592	1	QA	.	.	.	O	O	-	O
+
+593	1	QA	Gene	Gene	NNP	B-NP	B-PER	-	B-A0
+593	1	QA	Bartow	Bartow	NNP	E-NP	E-PER	-	E-A0
+593	1	QA	coaches	coach	VBZ	S-VP	O	coaches	S-V
+593	1	QA	Alabama	Alabama	NNP	S-NP	B-ORG	-	B-A1
+593	1	QA	Birmingham	Birmingham	NNP	S-NP	E-ORG	-	E-A1
+593	1	QA	.	.	.	O	O	-	O
+
+594	1	QA	Tom	Tom	NNP	B-NP	B-PER	-	B-A0
+594	1	QA	Glavine	Glavine	NNP	E-NP	E-PER	-	E-A0
+594	1	QA	plays	play	VBZ	S-VP	O	plays	S-V
+594	1	QA	for	for	IN	S-PP	O	-	B-A1
+594	1	QA	the	the	DT	B-NP	O	-	I-A1
+594	1	QA	Atlanta	Atlanta	NNP	I-NP	B-ORG	-	I-A1
+594	1	QA	Braves	Braves	NNPS	E-NP	E-ORG	-	E-A1
+594	1	QA	.	.	.	O	O	-	O
+
+601	0	QA	"	"	``	O	O	-	S-A0
+601	0	QA	Smash	smash	VB	S-VP	O	Smash	S-V
+601	0	QA	"	"	NN	S-NP	O	-	S-A1
+601	0	QA	is	be	VBZ	S-VP	O	-	O
+601	0	QA	the	the	DT	B-NP	O	-	O
+601	0	QA	title	title	NN	E-NP	O	-	O
+601	0	QA	of	of	IN	S-PP	O	-	O
+601	0	QA	the	the	DT	B-NP	O	-	O
+601	0	QA	third	third	JJ	I-NP	O	-	O
+601	0	QA	album	album	NN	E-NP	O	-	O
+601	0	QA	of	of	IN	S-PP	O	-	O
+601	0	QA	the	the	DT	B-NP	O	-	O
+601	0	QA	Offspring	offspring	NN	E-NP	S-MISC	-	O
+601	0	QA	.	.	.	O	O	-	O
+
+602	0	QA	Stalin	Stalin	NNP	S-NP	S-PER	-	S-A0
+602	0	QA	deported	deport	VBD	S-VP	O	deported	S-V
+602	0	QA	0	0	CD	B-NP	O	-	B-A1
+602	0	QA	Chechens	Chechens	NNPS	E-NP	S-MISC	-	E-A1
+602	0	QA	.	.	.	O	O	-	O
+
+603	0	QA	Rudolph	Rudolph	NNP	B-NP	B-PER	-
+603	0	QA	Scharping	Scharping	NNP	E-NP	E-PER	-
+603	0	QA	is	be	VBZ	S-VP	O	-
+603	0	QA	a	a	DT	B-NP	O	-
+603	0	QA	member	member	NN	E-NP	O	-
+603	0	QA	of	of	IN	S-PP	O	-
+603	0	QA	the	the	DT	B-NP	O	-
+603	0	QA	Social	Social	NNP	I-NP	B-MISC	-
+603	0	QA	Democrats	Democrats	NNPS	E-NP	E-MISC	-
+603	0	QA	.	.	.	O	O	-
+
+606	0	QA	The	the	DT	B-NP	O	-	B-A1
+606	0	QA	film	film	NN	I-NP	O	-	I-A1
+606	0	QA	"	"	``	I-NP	O	-	I-A1
+606	0	QA	WarGames	WarGames	NNS	I-NP	S-MISC	-	I-A1
+606	0	QA	"	"	WDT	E-NP	O	-	E-A1
+606	0	QA	was	be	VBD	B-VP	O	-	O
+606	0	QA	shot	shoot	VBN	E-VP	O	shot	S-V
+606	0	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+606	0	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+609	0	QA	The	the	DT	B-NP	O	-
+609	0	QA	coastline	coastline	NN	E-NP	O	-
+609	0	QA	of	of	IN	S-PP	O	-
+609	0	QA	Santa	Santa	NNP	B-NP	B-LOC	-
+609	0	QA	Monica	Monica	NNP	I-NP	I-LOC	-
+609	0	QA	Bay	Bay	NNP	E-NP	E-LOC	-
+609	0	QA	is	be	VBZ	S-VP	O	-
+609	0	QA	0	0	CD	B-NP	O	-
+609	0	QA	miles	mile	NNS	E-NP	O	-
+609	0	QA	long	long	RB	S-ADVP	O	-
+609	0	QA	.	.	.	O	O	-
+
+611	0	QA	The	the	DT	B-NP	O	-	B-A1
+611	0	QA	Declaration	Declaration	NNP	E-NP	O	-	I-A1
+611	0	QA	of	of	IN	S-PP	O	-	I-A1
+611	0	QA	Independence	Independence	NNP	S-NP	S-LOC	-	E-A1
+611	0	QA	was	be	VBD	B-VP	O	-	O
+611	0	QA	signed	sign	VBN	E-VP	O	signed	S-V
+611	0	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+611	0	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+613	0	QA	Rick	Rick	NNP	B-NP	B-PER	-
+613	0	QA	Dinon	Dinon	NNP	E-NP	E-PER	-
+613	0	QA	is	be	VBZ	S-VP	O	-
+613	0	QA	the	the	DT	B-NP	O	-
+613	0	QA	senior	senior	JJ	I-NP	O	-
+613	0	QA	vice	vice	NN	I-NP	O	-
+613	0	QA	president	president	NN	E-NP	O	-
+613	0	QA	of	of	IN	S-PP	O	-
+613	0	QA	0th	0th	JJ	B-NP	O	-
+613	0	QA	Century	Century	NNP	I-NP	B-ORG	-
+613	0	QA	Insurance	Insurance	NNP	I-NP	I-ORG	-
+613	0	QA	Co.	Co.	NNP	E-NP	E-ORG	-
+
+614	0	QA	Guillermo	Guillermo	NNP	B-NP	B-PER	-	B-A1
+614	0	QA	Ortiz	Ortiz	NNP	E-NP	E-PER	-	E-A1
+614	0	QA	was	be	VBD	B-VP	O	-	O
+614	0	QA	born	bear	VBN	E-VP	O	born	S-V
+614	0	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+614	0	QA	Mexico	Mexico	NNP	S-NP	S-LOC	-	E-AM-LOC
+614	0	QA	.	.	.	O	O	-	O
+
+616	0	QA	Chuck	Chuck	NNP	B-NP	B-PER	-	B-A0
+616	0	QA	Yeager	Yeager	NNP	E-NP	E-PER	-	E-A0
+616	0	QA	broke	break	VBD	S-VP	O	broke	S-V
+616	0	QA	the	the	DT	B-NP	O	-	B-A1
+616	0	QA	sound	sound	JJ	I-NP	O	-	I-A1
+616	0	QA	barrier	barrier	NN	E-NP	O	-	E-A1
+616	0	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+616	0	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+619	0	QA	Giovanni	Giovanni	NNP	B-NP	B-PER	-
+619	0	QA	Agnelli	Agnelli	NNP	E-NP	E-PER	-
+619	0	QA	is	be	VBZ	S-VP	O	-
+619	0	QA	the	the	DT	B-NP	O	-
+619	0	QA	president	president	NN	E-NP	O	-
+619	0	QA	of	of	IN	S-PP	O	-
+619	0	QA	Fiat	Fiat	NNP	S-NP	S-ORG	-
+619	0	QA	.	.	.	O	O	-
+
+620	0	QA	Bosnia	Bosnia	NNP	S-NP	S-LOC	-	S-A1
+620	0	QA	is	be	VBZ	B-VP	O	-	O
+620	0	QA	located	locate	VBN	E-VP	O	located	S-V
+620	0	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+620	0	QA	the	the	DT	B-NP	O	-	I-AM-LOC
+620	0	QA	former	former	JJ	I-NP	O	-	I-AM-LOC
+620	0	QA	Yugoslavia	Yugoslavia	NNP	E-NP	S-LOC	-	E-AM-LOC
+620	0	QA	.	.	.	O	O	-	O
+
+623	0	QA	Radovan	Radovan	NNP	B-NP	B-PER	-
+623	0	QA	Karadzic	Karadzic	NNP	E-NP	E-PER	-
+623	0	QA	is	be	VBZ	S-VP	O	-
+623	0	QA	the	the	DT	B-NP	O	-
+623	0	QA	leader	leader	NN	E-NP	O	-
+623	0	QA	of	of	IN	S-PP	O	-
+623	0	QA	Bosnia	Bosnia	NNP	S-NP	S-LOC	-
+623	0	QA	.	.	.	O	O	-
+
+625	0	QA	Pyongyang	Pyongyang	NNP	S-NP	S-LOC	-
+625	0	QA	is	be	VBZ	S-VP	O	-
+625	0	QA	the	the	DT	B-NP	O	-
+625	0	QA	capital	capital	NN	E-NP	O	-
+625	0	QA	of	of	IN	S-PP	O	-
+625	0	QA	North	North	NNP	B-NP	B-LOC	-
+625	0	QA	Korea	Korea	NNP	E-NP	E-LOC	-
+625	0	QA	.	.	.	O	O	-
+
+626	0	QA	Kim	Kim	NNP	B-NP	B-PER	-	B-A1
+626	0	QA	Il	Il	NNP	I-NP	I-PER	-	I-A1
+626	0	QA	Sung	Sung	NNP	E-NP	E-PER	-	I-A1
+626	0	QA	's	's	POS	B-NP	O	-	I-A1
+626	0	QA	son	son	NN	E-NP	O	-	E-A1
+626	0	QA	is	be	VBZ	B-VP	O	-	O
+626	0	QA	called	call	VBN	E-VP	O	called	S-V
+626	0	QA	Kim	Kim	NNP	B-NP	B-ORG	-	B-A2
+626	0	QA	Jong	Jong	NNP	I-NP	I-ORG	-	I-A2
+626	0	QA	Il	Il	NNP	E-NP	E-ORG	-	E-A2
+626	0	QA	.	.	.	O	O	-	O
+
+627	0	QA	Luc	Luc	NNP	B-NP	B-PER	-
+627	0	QA	Jouret	Jouret	NNP	E-NP	E-PER	-
+627	0	QA	was	be	VBD	S-VP	O	-
+627	0	QA	the	the	DT	B-NP	O	-
+627	0	QA	leader	leader	NN	E-NP	O	-
+627	0	QA	of	of	IN	S-PP	O	-
+627	0	QA	the	the	DT	B-NP	O	-
+627	0	QA	Order	order	NNP	E-NP	O	-
+627	0	QA	of	of	IN	S-PP	O	-
+627	0	QA	the	the	DT	B-NP	O	-
+627	0	QA	Solar	Solar	NNP	I-NP	B-LOC	-
+627	0	QA	Temple	Temple	NNP	E-NP	E-LOC	-
+627	0	QA	.	.	.	O	O	-
+
+629	0	QA	The	the	DT	B-NP	O	-	B-A1
+629	0	QA	International	International	NNP	I-NP	B-ORG	-	I-A1
+629	0	QA	Conference	Conference	NNP	E-NP	E-ORG	-	I-A1
+629	0	QA	on	on	IN	S-PP	O	-	I-A1
+629	0	QA	Population	Population	NNP	B-NP	O	-	I-A1
+629	0	QA	and	and	CC	I-NP	O	-	I-A1
+629	0	QA	Development	Development	NNP	E-NP	O	-	E-A1
+629	0	QA	was	be	VBD	B-VP	O	-	O
+629	0	QA	held	hold	VBN	E-VP	O	held	S-V
+629	0	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+629	0	QA	Cairo	Cairo	NNP	S-NP	S-LOC	-	E-AM-LOC
+629	0	QA	.	.	.	O	O	-	O
+
+632	0	QA	GATT	GATT	NNP	S-NP	S-ORG	-	S-A1
+632	0	QA	was	be	VBD	B-VP	O	-	O
+632	0	QA	formed	form	VBN	E-VP	O	formed	S-V
+632	0	QA	in	in	IN	S-PP	O	-	B-AM-TMP
+632	0	QA	0.	@ord@	.	O	O	-	E-AM-TMP
+
+639	0	QA	0	0	CD	B-NP	O	-	B-A1
+639	0	QA	passengers	passenger	NNS	E-NP	O	-	E-A1
+639	0	QA	died	die	VBD	S-VP	O	died	S-V
+639	0	QA	in	in	IN	S-PP	O	-	B-AM-LOC
+639	0	QA	the	the	DT	B-NP	O	-	I-AM-LOC
+639	0	QA	"	"	JJ	I-NP	O	-	I-AM-LOC
+639	0	QA	Estonia	Estonia	NNP	E-NP	S-LOC	-	I-AM-LOC
+639	0	QA	"	"	IN	S-PP	O	-	I-AM-LOC
+639	0	QA	shipwreck	shipwreck	NN	S-NP	O	-	E-AM-LOC
+639	0	QA	.	.	.	O	O	-	O
+
+641	0	QA	The	the	DT	B-NP	O	-	B-A1
+641	0	QA	Estonia	Estonia	NNP	E-NP	S-LOC	-	E-A1
+641	0	QA	sank	sink	VBD	S-VP	O	sank	S-V
+641	0	QA	south	south	RB	S-ADVP	O	-	B-A2
+641	0	QA	of	of	IN	S-PP	O	-	I-A2
+641	0	QA	Uto	Uto	NNP	B-NP	S-LOC	-	I-A2
+641	0	QA	island	island	NN	E-NP	O	-	E-A2
+641	0	QA	.	.	.	O	O	-	O
+
+21	0	PP	Last	last	JJ	B-NP	O	-
+21	0	PP	year	year	NN	E-NP	O	-
+21	0	PP	,	,	,	O	O	-
+21	0	PP	the	the	DT	B-NP	O	-
+21	0	PP	tally	tally	NN	E-NP	O	-
+21	0	PP	was	be	VBD	S-VP	O	-
+21	0	PP	0	0	CD	S-NP	O	-
+
+140	1	RC	A	a	DT	B-NP	O	-	B-A1
+140	1	RC	body	body	NN	E-NP	O	-	E-A1
+140	1	RC	has	have	VBZ	B-VP	O	-	O
+140	1	RC	been	be	VBN	I-VP	O	-	O
+140	1	RC	found	find	VBN	E-VP	O	found	S-V
+140	1	RC	by	by	IN	S-PP	O	-	B-A0
+140	1	RC	U.	U.	NNP	B-NP	B-PER	-	I-A0
+140	1	RC	S.	S.	NNP	I-NP	E-PER	-	I-A0
+140	1	RC	military	military	JJ	I-NP	O	-	I-A0
+140	1	RC	police	police	NN	E-NP	O	-	E-A0
+140	1	RC	.	.	.	O	O	-	O
+
+143	1	RC	Fallujah	Fallujah	NNP	B-NP	S-LOC	-
+143	1	RC	and	and	CC	I-NP	O	-
+143	1	RC	Baqubah	Baqubah	NNP	E-NP	S-LOC	-
+143	1	RC	are	be	VBP	S-VP	O	-
+143	1	RC	Iraqi	Iraqi	JJ	B-NP	S-MISC	-
+143	1	RC	cities	city	NNS	E-NP	O	-
+143	1	RC	.	.	.	O	O	-
+
+144	1	RC	Ghazi	Ghazi	NNP	B-NP	B-PER	-
+144	1	RC	al-	al-	FW	I-NP	I-PER	-
+144	1	RC	Yawar	Yawar	NNP	E-NP	E-PER	-
+144	1	RC	is	be	VBZ	S-VP	O	-
+144	1	RC	Iraq	Iraq	NNP	S-NP	S-LOC	-
+144	1	RC	's	's	POS	B-NP	O	-
+144	1	RC	new	new	JJ	I-NP	O	-
+144	1	RC	president	president	NN	E-NP	O	-
+144	1	RC	.	.	.	O	O	-
+
+145	1	RC	Arroyo	Arroyo	NNP	S-NP	S-PER	-	S-A0
+145	1	RC	has	have	VBZ	B-VP	O	has	S-V
+145	1	RC	experience	experience	NN	E-VP	O	-	B-A1
+145	1	RC	as	as	IN	S-PP	O	-	I-A1
+145	1	RC	an	an	DT	B-NP	O	-	I-A1
+145	1	RC	economist	economist	NN	E-NP	O	-	I-A1
+145	1	RC	and	and	CC	S-PP	O	-	I-A1
+145	1	RC	as	as	IN	S-PP	O	-	I-A1
+145	1	RC	a	a	DT	B-NP	O	-	I-A1
+145	1	RC	government	government	NN	I-NP	O	-	I-A1
+145	1	RC	manager	manager	NN	E-NP	O	-	E-A1
+145	1	RC	.	.	.	O	O	-	O
+
+147	1	RC	The	the	DT	B-NP	O	-	B-A1
+147	1	RC	Philippine	Philippine	NNP	I-NP	B-ORG	-	I-A1
+147	1	RC	Stock	Stock	NNP	I-NP	I-ORG	-	I-A1
+147	1	RC	Exchange	Exchange	NNP	I-NP	I-ORG	-	I-A1
+147	1	RC	Composite	Composite	NNP	I-NP	I-ORG	-	I-A1
+147	1	RC	Index	Index	NNP	E-NP	E-ORG	-	E-A1
+147	1	RC	rose	rise	VBD	S-VP	O	rose	S-V
+147	1	RC	.	.	.	O	O	-	O
+
+148	0	RC	The	the	DT	B-NP	O	-	B-A1
+148	0	RC	Philippine	Philippine	NNP	I-NP	B-ORG	-	I-A1
+148	0	RC	Stock	Stock	NNP	I-NP	I-ORG	-	I-A1
+148	0	RC	Exchange	Exchange	NNP	I-NP	I-ORG	-	I-A1
+148	0	RC	Composite	Composite	NNP	I-NP	I-ORG	-	I-A1
+148	0	RC	Index	Index	NNP	E-NP	E-ORG	-	E-A1
+148	0	RC	dropped	drop	VBD	S-VP	O	dropped	S-V
+148	0	RC	.	.	.	O	O	-	O
+
+150	1	RC	Ingushetia	Ingushetia	NNP	S-NP	S-LOC	-
+150	1	RC	's	's	POS	B-NP	O	-
+150	1	RC	capital	capital	NN	E-NP	O	-
+150	1	RC	is	be	VBZ	S-VP	O	-
+150	1	RC	Nazran	Nazran	NNP	S-NP	S-LOC	-
+150	1	RC	.	.	.	O	O	-
+
+152	0	RC	0	0	CD	S-NP	O	-
+152	0	RC	of	of	IN	S-PP	O	-
+152	0	RC	the	the	DT	B-NP	O	-
+152	0	RC	dead	dead	JJ	E-NP	O	-
+152	0	RC	were	be	VBD	S-VP	O	-
+152	0	RC	civilians	civilian	NNS	S-NP	O	-
+152	0	RC	.	.	.	O	O	-
+
+153	1	RC	The	the	DT	B-NP	O	-
+153	1	RC	Mona	Mona	NNP	I-NP	B-PER	-
+153	1	RC	Lisa	Lisa	NNP	E-NP	E-PER	-
+153	1	RC	is	be	VBZ	S-VP	O	-
+153	1	RC	in	in	IN	S-PP	O	-
+153	1	RC	France	France	NNP	S-NP	S-LOC	-
+153	1	RC	.	.	.	O	O	-
+
+154	1	RC	A	a	DT	B-NP	O	-	B-A0
+154	1	RC	gorilla	gorilla	NN	E-NP	O	-	E-A0
+154	1	RC	escaped	escape	VBD	S-VP	O	escaped	S-V
+154	1	RC	from	from	IN	S-PP	O	-	B-A3
+154	1	RC	his	his	PRP$	B-NP	O	-	I-A3
+154	1	RC	cage	cage	NN	E-NP	O	-	E-A3
+154	1	RC	in	in	IN	S-PP	O	-	B-AM-LOC
+154	1	RC	a	a	DT	B-NP	O	-	I-AM-LOC
+154	1	RC	zoo	zoo	NN	E-NP	O	-	I-AM-LOC
+154	1	RC	in	in	IN	S-PP	O	-	I-AM-LOC
+154	1	RC	Germany	Germany	NNP	S-NP	S-LOC	-	E-AM-LOC
+154	1	RC	.	.	.	O	O	-	O
+
+155	1	RC	Clonaid	Clonaid	NNP	S-NP	S-ORG	-	S-A0
+155	1	RC	has	have	VBZ	B-VP	O	-	O
+155	1	RC	cloned	clon	VBN	E-VP	O	cloned	S-V
+155	1	RC	0	0	CD	B-NP	O	-	B-A1
+155	1	RC	babies	baby	NNS	E-NP	O	-	E-A1
+155	1	RC	.	.	.	O	O	-	O
+
+157	1	RC	George	George	NNP	B-NP	O	-	B-A0
+157	1	RC	W.	W.	NNP	I-NP	B-PER	-	I-A0
+157	1	RC	Bush	Bush	NNP	E-NP	E-PER	-	E-A0
+157	1	RC	entered	enter	VBD	S-VP	O	entered	S-V
+157	1	RC	the	the	DT	B-NP	O	-	B-A1
+157	1	RC	US	US	NNP	I-NP	S-LOC	-	I-A1
+157	1	RC	presidency	presidency	NN	E-NP	O	-	E-A1
+157	1	RC	0	0	CD	B-NP	O	-	B-AM-TMP
+157	1	RC	years	year	NNS	E-NP	O	-	I-AM-TMP
+157	1	RC	ago	ago	RB	S-ADVP	O	-	E-AM-TMP
+157	1	RC	.	.	.	O	O	-	O
+
+160	1	RC	Scientists	scientist	NNS	S-NP	O	-	S-A0	O
+160	1	RC	can	can	MD	B-VP	O	-	S-AM-MOD	O
+160	1	RC	determine	determine	VB	E-VP	O	determine	S-V	O
+160	1	RC	whether	whether	IN	S-SBAR	O	-	B-A1	O
+160	1	RC	an	an	DT	B-NP	O	-	I-A1	B-A0
+160	1	RC	embryo	embryo	NN	E-NP	O	-	I-A1	E-A0
+160	1	RC	has	have	VBZ	S-VP	O	has	I-A1	S-V
+160	1	RC	genetic	genetic	JJ	B-NP	O	-	I-A1	B-A1
+160	1	RC	illnesses	illness	NNS	E-NP	O	-	I-A1	E-A1
+160	1	RC	or	or	CC	O	O	-	I-A1	O
+160	1	RC	is	be	VBZ	S-VP	O	-	I-A1	O
+160	1	RC	a	a	DT	B-NP	O	-	I-A1	O
+160	1	RC	carrier	carrier	NN	E-NP	O	-	I-A1	O
+160	1	RC	of	of	IN	S-PP	O	-	I-A1	O
+160	1	RC	them.	them.	NN	S-NP	O	-	E-A1	O
+
+162	0	RC	There	there	EX	S-NP	O	-
+162	0	RC	have	have	VBP	B-VP	O	-
+162	0	RC	been	be	VBN	E-VP	O	-
+162	0	RC	many	many	JJ	B-NP	O	-
+162	0	RC	new	new	JJ	I-NP	O	-
+162	0	RC	subscribers	subscriber	NNS	E-NP	O	-
+162	0	RC	to	to	TO	S-PP	O	-
+162	0	RC	Vodafone	Vodafone	NNP	S-NP	S-ORG	-
+162	0	RC	in	in	IN	S-PP	O	-
+162	0	RC	Japan	Japan	NNP	S-NP	S-LOC	-
+162	0	RC	in	in	IN	S-PP	O	-
+162	0	RC	the	the	DT	B-NP	O	-
+162	0	RC	past	past	JJ	I-NP	O	-
+162	0	RC	few	few	JJ	I-NP	O	-
+162	0	RC	months	month	NNS	E-NP	O	-
+162	0	RC	.	.	.	O	O	-
+
+163	0	RC	There	there	EX	S-NP	O	-	O
+163	0	RC	is	be	VBZ	S-VP	O	-	O
+163	0	RC	a	a	DT	B-NP	O	-	B-A0
+163	0	RC	new	new	JJ	I-NP	O	-	I-A0
+163	0	RC	U.	U.	NNP	I-NP	B-MISC	-	I-A0
+163	0	RC	S.	S.	NNP	I-NP	E-MISC	-	I-A0
+163	0	RC	law	law	NN	E-NP	O	-	E-A0
+163	0	RC	that	that	WDT	S-NP	O	-	S-R-A0
+163	0	RC	bans	ban	VBZ	S-VP	O	bans	S-V
+163	0	RC	e-mail	e-mail	NN	S-NP	O	-	S-A1
+163	0	RC	.	.	.	O	O	-	O
+
+167	1	RC	Peter	Peter	NNP	B-NP	B-PER	-	B-A0
+167	1	RC	Voser	Voser	NNP	E-NP	E-PER	-	E-A0
+167	1	RC	has	have	VBZ	B-VP	O	-	O
+167	1	RC	worked	work	VBN	E-VP	O	worked	S-V
+167	1	RC	for	for	IN	S-PP	O	-	B-A2
+167	1	RC	Shell	Shell	NNP	S-NP	S-ORG	-	E-A2
+167	1	RC	in	in	IN	S-PP	O	-	B-AM-TMP
+167	1	RC	the	the	DT	B-NP	O	-	I-AM-TMP
+167	1	RC	past	past	NN	E-NP	O	-	E-AM-TMP
+167	1	RC	.	.	.	O	O	-	O
+
+170	0	RC	Turkey	Turkey	NNP	S-NP	S-LOC	-	S-A0
+170	0	RC	plays	play	VBZ	S-VP	O	plays	S-V
+170	0	RC	host	host	NN	S-NP	O	-	B-A1
+170	0	RC	to	to	TO	S-PP	O	-	I-A1
+170	0	RC	suicide	suicide	NN	B-NP	O	-	I-A1
+170	0	RC	bombers	bomber	NNS	E-NP	O	-	E-A1
+170	0	RC	.	.	.	O	O	-	O
+
+171	0	RC	Terrorist	terrorist	NNP	S-NP	O	-	S-A0
+171	0	RC	kidnaps	kidnap	VBZ	S-VP	O	kidnaps	S-V
+171	0	RC	dozens	dozen	NNS	S-NP	O	-	B-A1
+171	0	RC	of	of	IN	S-PP	O	-	I-A1
+171	0	RC	Iraqis	Iraqi	NNPS	S-NP	S-MISC	-	E-A1
+171	0	RC	.	.	.	O	O	-	O
+
+173	0	RC	Some	some	DT	S-NP	O	-	B-A0
+173	0	RC	of	of	IN	S-PP	O	-	I-A0
+173	0	RC	the	the	DT	B-NP	O	-	I-A0
+173	0	RC	gunmen	gunman	NNS	E-NP	O	-	E-A0
+173	0	RC	showed	show	VBD	S-VP	O	showed	S-V
+173	0	RC	loyalty	loyalty	NN	S-NP	O	-	B-A1
+173	0	RC	to	to	TO	S-PP	O	-	I-A1
+173	0	RC	Baquba	Baquba	NNP	S-NP	S-PER	-	I-A1
+173	0	RC	's	's	POS	B-NP	O	-	I-A1
+173	0	RC	group	group	NN	E-NP	O	-	E-A1
+173	0	RC	.	.	.	O	O	-	O
+
+175	0	RC	Roh	Roh	NNP	B-NP	B-PER	-	B-A0	O
+175	0	RC	Moo	Moo	NNP	I-NP	E-PER	-	I-A0	O
+175	0	RC	-	-	:	I-NP	O	-	I-A0	O
+175	0	RC	hyun	Hyun	NN	E-NP	O	-	E-A0	O
+175	0	RC	asked	ask	VBD	S-VP	O	asked	S-V	O
+175	0	RC	the	the	DT	B-NP	O	-	B-A2	B-A0
+175	0	RC	BAI	Bai	NNP	E-NP	S-PER	-	E-A2	E-A0
+175	0	RC	to	to	TO	B-VP	O	-	B-A1	O
+175	0	RC	kidnap	kidnap	VB	E-VP	O	kidnap	I-A1	S-V
+175	0	RC	a	a	DT	B-NP	O	-	I-A1	B-A1
+175	0	RC	South	South	JJ	I-NP	B-MISC	-	I-A1	I-A1
+175	0	RC	Korean	Korean	JJ	E-NP	E-MISC	-	I-A1	E-A1
+175	0	RC	in	in	IN	S-PP	O	-	I-A1	B-AM-LOC
+175	0	RC	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-A1	E-AM-LOC
+175	0	RC	.	.	.	O	O	-	O	O
+
+176	1	RC	A	a	DT	B-NP	O	-	B-A1
+176	1	RC	South	South	JJ	I-NP	B-MISC	-	I-A1
+176	1	RC	Korean	Korean	JJ	E-NP	E-MISC	-	I-A1
+176	1	RC	in	in	IN	S-PP	O	-	I-A1
+176	1	RC	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-A1
+176	1	RC	was	be	VBD	B-VP	O	-	O
+176	1	RC	killed	kill	VBN	E-VP	O	killed	S-V
+176	1	RC	by	by	IN	S-PP	O	-	B-A0
+176	1	RC	Muslim	Muslim	JJ	B-NP	S-MISC	-	I-A0
+176	1	RC	militants	militant	NNS	E-NP	O	-	E-A0
+176	1	RC	.	.	.	O	O	-	O
+
+177	0	RC	Microsoft	Microsoft	NNP	S-NP	S-ORG	-	S-A0	B-A0
+177	0	RC	won	win	VBD	S-VP	O	won	S-V	I-A0
+177	0	RC	't	't	NN	B-NP	O	-	B-A1	I-A0
+177	0	RC	offer	offer	NN	E-NP	O	-	E-A1	E-A0
+177	0	RC	increased	increase	VBD	S-VP	O	increased	O	S-V
+177	0	RC	storage	storage	NN	S-NP	O	-	O	S-A1
+177	0	RC	to	to	TO	S-PP	O	-	O	B-A4
+177	0	RC	its	its	PRP$	B-NP	O	-	O	I-A4
+177	0	RC	users	user	NNS	E-NP	O	-	O	E-A4
+177	0	RC	.	.	.	O	O	-	O	O
+
+178	1	RC	Microsoft	Microsoft	NNP	S-NP	S-ORG	-	S-A0
+178	1	RC	will	will	MD	B-VP	O	-	S-AM-MOD
+178	1	RC	provide	provide	VB	E-VP	O	provide	S-V
+178	1	RC	free	free	JJ	B-NP	O	-	B-A1
+178	1	RC	anti-virus	anti-virus	NN	I-NP	O	-	I-A1
+178	1	RC	protection	protection	NN	E-NP	O	-	E-A1
+178	1	RC	.	.	.	O	O	-	O
+
+189	0	RC	Shareholders	shareholder	NNS	S-NP	O	-	S-A0
+189	0	RC	approved	approve	VBD	S-VP	O	approved	S-V
+189	0	RC	expansion	expansion	NN	S-NP	O	-	S-A1
+189	0	RC	for	for	IN	S-PP	O	-	B-AM-TMP
+189	0	RC	one	one	CD	B-NP	O	-	I-AM-TMP
+189	0	RC	year.	year.	NN	E-NP	O	-	E-AM-TMP
+
+192	0	RC	Workers	worker	NNS	S-NP	O	-	S-A0
+192	0	RC	strike	strike	VBP	S-VP	O	strike	S-V
+192	0	RC	in	in	IN	S-PP	O	-	B-AM-CAU
+192	0	RC	response	response	NN	S-NP	O	-	I-AM-CAU
+192	0	RC	to	to	TO	S-PP	O	-	I-AM-CAU
+192	0	RC	Norwegian	Norwegian	JJ	B-NP	S-MISC	-	I-AM-CAU
+192	0	RC	employers	employer	NNS	E-NP	O	-	I-AM-CAU
+192	0	RC	'	'	POS	B-NP	O	-	I-AM-CAU
+192	0	RC	threats	threat	NNS	E-NP	O	-	E-AM-CAU
+192	0	RC	.	.	.	O	O	-	O
+
+193	1	RC	Wal-Mart	Wal-Mart	NNP	S-NP	S-ORG	-	S-A0
+193	1	RC	faces	face	VBZ	S-VP	O	faces	S-V
+193	1	RC	allegations	allegation	NNS	S-NP	O	-	B-A1
+193	1	RC	for	for	IN	S-PP	O	-	I-A1
+193	1	RC	underpaying	underpay	VBG	B-NP	O	-	I-A1
+193	1	RC	employees	employee	NNS	E-NP	O	-	E-A1
+193	1	RC	.	.	.	O	O	-	O
+
+195	0	RC	Ashley	Ashley	NNP	B-NP	B-PER	-	B-A0
+195	0	RC	Olsen	Olsen	NNP	E-NP	E-PER	-	E-A0
+195	0	RC	plans	plan	VBZ	S-VP	O	plans	S-V
+195	0	RC	a	a	DT	B-NP	O	-	B-A1
+195	0	RC	trip	trip	NN	E-NP	O	-	I-A1
+195	0	RC	to	to	TO	S-PP	O	-	I-A1
+195	0	RC	Australia	Australia	NNP	S-NP	S-LOC	-	E-A1
+195	0	RC	with	with	IN	S-PP	O	-	B-AM-MNR
+195	0	RC	Mary	Mary	NNP	S-NP	S-PER	-	I-AM-MNR
+195	0	RC	-	-	:	O	O	-	I-AM-MNR
+195	0	RC	Kate	Kate	NNP	S-NP	S-PER	-	E-AM-MNR
+195	0	RC	.	.	.	O	O	-	O
+
+196	1	RC	The	the	DT	B-NP	O	-	B-A1
+196	1	RC	Olsen	Olsen	NNP	I-NP	S-PER	-	I-A1
+196	1	RC	twins	twin	NNS	E-NP	O	-	E-A1
+196	1	RC	star	star	VBP	S-VP	O	star	S-V
+196	1	RC	in	in	IN	S-PP	O	-	B-A2
+196	1	RC	"	"	JJ	B-NP	O	-	I-A2
+196	1	RC	New	New	NNP	I-NP	B-LOC	-	I-A2
+196	1	RC	York	York	NNP	I-NP	E-LOC	-	I-A2
+196	1	RC	Minute	Minute	NNP	E-NP	O	-	E-A2
+196	1	RC	.	.	.	O	O	-	O
+196	1	RC	"	"	.	O	O	-	O
+
+199	0	RC	Most	most	JJS	B-NP	O	-	B-A0
+199	0	RC	tours	tour	NNS	E-NP	O	-	E-A0
+199	0	RC	only	only	RB	S-ADVP	O	-	S-AM-ADV
+199	0	RC	sell	sell	VBP	S-VP	O	sell	S-V
+199	0	RC	0	0	CD	B-NP	O	-	B-A1
+199	0	RC	percent	percent	NN	E-NP	O	-	I-A1
+199	0	RC	of	of	IN	S-PP	O	-	I-A1
+199	0	RC	the	the	DT	B-NP	O	-	I-A1
+199	0	RC	tickets	ticket	NNS	E-NP	O	-	E-A1
+199	0	RC	.	.	.	O	O	-	O
+
+201	0	RC	A	a	DT	B-NP	O	-	B-A0	B-A0
+201	0	RC	woman	woman	NN	E-NP	O	-	E-A0	E-A0
+201	0	RC	passionately	passionately	RB	S-ADVP	O	-	S-AM-MNR	O
+201	0	RC	wanted	want	VBD	B-VP	O	wanted	S-V	O
+201	0	RC	to	to	TO	I-VP	O	-	B-A1	O
+201	0	RC	watch	watch	VB	E-VP	O	watch	I-A1	S-V
+201	0	RC	the	the	DT	B-NP	O	-	I-A1	B-A1
+201	0	RC	soccer	soccer	NN	I-NP	O	-	I-A1	I-A1
+201	0	RC	championship	championship	NN	E-NP	O	-	E-A1	E-A1
+201	0	RC	.	.	.	O	O	-	O	O
+
+202	1	RC	A	a	DT	B-NP	O	-	B-A1
+202	1	RC	man	man	NN	E-NP	O	-	E-A1
+202	1	RC	was	be	VBD	B-VP	O	-	O
+202	1	RC	stabbed	stab	VBN	E-VP	O	stabbed	S-V
+202	1	RC	because	because	RB	B-PP	O	-	B-AM-CAU
+202	1	RC	of	of	IN	E-PP	O	-	I-AM-CAU
+202	1	RC	a	a	DT	B-NP	O	-	I-AM-CAU
+202	1	RC	soccer	soccer	NN	E-NP	O	-	I-AM-CAU
+202	1	RC	game.	game.	.	O	O	-	E-AM-CAU
+
+203	0	RC	Draft	draft	NN	B-NP	O	-	B-A0
+203	0	RC	experts	expert	NNS	E-NP	O	-	E-A0
+203	0	RC	draft	draft	VBP	S-VP	O	draft	S-V
+203	0	RC	eight	eight	CD	B-NP	O	-	B-A1
+203	0	RC	international	international	JJ	I-NP	O	-	I-A1
+203	0	RC	players	player	NNS	E-NP	O	-	E-A1
+203	0	RC	.	.	.	O	O	-	O
+
+205	0	RC	Michael	Michael	NNP	B-NP	B-PER	-	B-A0
+205	0	RC	Melvill	Melvill	NNP	E-NP	E-PER	-	E-A0
+205	0	RC	guided	guide	VBD	S-VP	O	guided	S-V
+205	0	RC	more	more	JJR	B-NP	O	-	B-A2
+205	0	RC	than	than	IN	I-NP	O	-	I-A2
+205	0	RC	0	0	CD	I-NP	O	-	I-A2
+205	0	RC	rocket	rocket	NN	I-NP	O	-	I-A2
+205	0	RC	-	-	:	I-NP	O	-	I-A2
+205	0	RC	ships	ship	NNS	E-NP	O	-	I-A2
+205	0	RC	above	above	IN	S-PP	O	-	I-A2
+205	0	RC	the	the	DT	B-NP	O	-	I-A2
+205	0	RC	Earth	earth	NN	E-NP	S-LOC	-	E-A2
+205	0	RC	.	.	.	O	O	-	O
+
+209	0	RC	Two	Two	CD	B-NP	O	-	B-A0
+209	0	RC	conservation	conservation	NN	I-NP	O	-	I-A0
+209	0	RC	groups	group	NNS	E-NP	O	-	E-A0
+209	0	RC	have	have	VBP	B-VP	O	-	O
+209	0	RC	increased	increase	VBN	E-VP	O	increased	S-V
+209	0	RC	the	the	DT	B-NP	O	-	B-A1
+209	0	RC	black	black	JJ	I-NP	O	-	I-A1
+209	0	RC	rhino	rhino	NN	I-NP	O	-	I-A1
+209	0	RC	population.	population.	.	E-NP	O	-	E-A1
+
+211	0	RC	The	the	DT	B-NP	O	-	B-A0
+211	0	RC	team	team	NN	I-NP	O	-	I-A0
+211	0	RC	studies	study	NNS	E-NP	O	-	E-A0
+211	0	RC	hibernating	hibernate	VBG	S-VP	O	hibernating	S-V
+211	0	RC	mammals	mammal	NNS	S-NP	O	-	S-A1
+211	0	RC	in	in	IN	S-PP	O	-	B-AM-LOC
+211	0	RC	Germany	Germany	NNP	S-NP	S-LOC	-	E-AM-LOC
+211	0	RC	.	.	.	O	O	-	O
+
+213	0	RC	Comdex	Comdex	NNP	S-NP	O	-	S-A0
+213	0	RC	launches	launch	VBZ	S-VP	O	launches	S-V
+213	0	RC	trade	trade	NN	B-NP	O	-	B-A1
+213	0	RC	shows	show	NNS	E-NP	O	-	E-A1
+213	0	RC	for	for	IN	S-PP	O	-	B-AM-PNC
+213	0	RC	0	0	CD	B-NP	O	-	I-AM-PNC
+213	0	RC	years.	years.	NNS	E-NP	O	-	E-AM-PNC
+
+214	1	RC	Los	Los	NNP	B-NP	B-PER	-	B-A0
+214	1	RC	Vegas	Vegas	NNP	E-NP	E-PER	-	E-A0
+214	1	RC	hosted	host	VBD	S-VP	O	hosted	S-V
+214	1	RC	the	the	DT	B-NP	O	-	B-A1
+214	1	RC	Comdex	Comdex	NNP	I-NP	S-MISC	-	I-A1
+214	1	RC	trade	trade	NN	I-NP	O	-	I-A1
+214	1	RC	show	show	NN	E-NP	O	-	E-A1
+214	1	RC	for	for	IN	S-PP	O	-	B-AM-PNC
+214	1	RC	0	0	CD	B-NP	O	-	I-AM-PNC
+214	1	RC	years.	years.	NNS	E-NP	O	-	E-AM-PNC
+
+217	1	RC	The	the	DT	B-NP	O	-	B-A0	O
+217	1	RC	patent	patent	NN	I-NP	O	-	I-A0	O
+217	1	RC	abstract	abstract	NN	E-NP	O	-	E-A0	O
+217	1	RC	shows	show	VBZ	S-VP	O	shows	S-V	O
+217	1	RC	a	a	DT	B-NP	O	-	B-A1	O
+217	1	RC	number	number	NN	E-NP	O	-	I-A1	O
+217	1	RC	of	of	IN	S-PP	O	-	I-A1	O
+217	1	RC	devices	device	NNS	S-NP	O	-	E-A1	S-A0
+217	1	RC	using	use	VBG	S-VP	O	using	B-AM-MNR	S-V
+217	1	RC	a	a	DT	B-NP	O	-	I-AM-MNR	B-A1
+217	1	RC	single	single	JJ	I-NP	O	-	I-AM-MNR	I-A1
+217	1	RC	source	source	NN	E-NP	O	-	E-AM-MNR	E-A1
+217	1	RC	.	.	.	O	O	-	O	O
+
+220	0	RC	Linksys	Linksys	NNP	B-NP	S-ORG	-	B-A0
+220	0	RC	and	and	CC	I-NP	O	-	I-A0
+220	0	RC	Aironet	Aironet	NNP	E-NP	S-PER	-	E-A0
+220	0	RC	begin	begin	VBP	S-VP	O	begin	S-V
+220	0	RC	legal	legal	JJ	B-NP	O	-	B-A1
+220	0	RC	action	action	NN	E-NP	O	-	I-A1
+220	0	RC	against	against	IN	S-PP	O	-	I-A1
+220	0	RC	a	a	DT	B-NP	O	-	I-A1
+220	0	RC	Canadian	Canadian	JJ	I-NP	S-MISC	-	I-A1
+220	0	RC	company.	company.	NN	E-NP	O	-	E-A1
+
+221	1	RC	Users	user	NNS	S-NP	O	-
+221	1	RC	were	be	VBD	S-VP	O	-
+221	1	RC	unaware	unaware	JJ	S-ADJP	O	-
+221	1	RC	of	of	IN	S-PP	O	-
+221	1	RC	the	the	DT	B-NP	O	-
+221	1	RC	modem	modem	NN	I-NP	O	-
+221	1	RC	connections	connection	NNS	E-NP	O	-
+221	1	RC	'	'	POS	B-NP	O	-
+221	1	RC	redirection	redirection	NN	E-NP	O	-
+221	1	RC	.	.	.	O	O	-
+
+222	0	RC	Complaints	complaint	NNS	S-NP	O	-	S-A1	O
+222	0	RC	arose	arise	VBD	S-VP	O	arose	S-V	O
+222	0	RC	in	in	IN	S-PP	O	-	B-AM-LOC	O
+222	0	RC	the	the	DT	B-NP	O	-	I-AM-LOC	O
+222	0	RC	organisation	organisation	NN	E-NP	O	-	I-AM-LOC	O
+222	0	RC	about	about	IN	S-PP	O	-	I-AM-LOC	O
+222	0	RC	users	user	NNS	S-NP	O	-	I-AM-LOC	S-A0
+222	0	RC	who	who	WP	S-NP	O	-	I-AM-LOC	S-R-A0
+222	0	RC	redirect	redirect	VBP	S-VP	O	redirect	I-AM-LOC	S-V
+222	0	RC	their	their	PRP$	B-NP	O	-	I-AM-LOC	B-A1
+222	0	RC	modem	modem	NN	I-NP	O	-	I-AM-LOC	I-A1
+222	0	RC	connections	connection	NNS	E-NP	O	-	E-AM-LOC	E-A1
+222	0	RC	.	.	.	O	O	-	O	O
+
+227	0	RC	The	the	DT	B-NP	O	-	B-A0	O
+227	0	RC	Supreme	Supreme	NNP	I-NP	B-ORG	-	I-A0	O
+227	0	RC	Court	Court	NNP	E-NP	E-ORG	-	E-A0	O
+227	0	RC	decided	decide	VBD	S-VP	O	decided	S-V	O
+227	0	RC	that	that	IN	S-SBAR	O	-	B-A1	O
+227	0	RC	only	only	JJ	B-NP	O	-	I-A1	B-A0
+227	0	RC	judges	judge	NNS	E-NP	O	-	I-A1	E-A0
+227	0	RC	can	can	MD	B-VP	O	-	I-A1	S-AM-MOD
+227	0	RC	impose	impose	VB	E-VP	O	impose	I-A1	S-V
+227	0	RC	the	the	DT	B-NP	O	-	I-A1	B-A1
+227	0	RC	death	death	NN	I-NP	O	-	I-A1	I-A1
+227	0	RC	sentence	sentence	NN	E-NP	O	-	E-A1	E-A1
+227	0	RC	.	.	.	O	O	-	O	O
+
+230	0	RC	In	in	IN	S-PP	O	-	B-AM-LOC	O
+230	0	RC	Johannesburg	Johannesburg	NNP	S-NP	S-LOC	-	E-AM-LOC	O
+230	0	RC	,	,	,	O	O	-	O	O
+230	0	RC	activists	activist	NNS	S-NP	O	-	S-A0	O
+230	0	RC	complained	complain	VBD	S-VP	O	complained	S-V	O
+230	0	RC	that	that	IN	S-SBAR	O	-	B-A1	O
+230	0	RC	Bush	Bush	NNP	S-NP	S-PER	-	I-A1	S-A0
+230	0	RC	spent	spend	VBD	S-VP	O	spent	I-A1	S-V
+230	0	RC	billions	billion	NNS	S-NP	O	-	I-A1	B-A3
+230	0	RC	of	of	IN	S-PP	O	-	I-A1	I-A3
+230	0	RC	dollars	dollar	NNS	S-NP	O	-	I-A1	E-A3
+230	0	RC	on	on	IN	S-PP	O	-	I-A1	B-A2
+230	0	RC	the	the	DT	B-NP	O	-	I-A1	I-A2
+230	0	RC	global	global	JJ	I-NP	O	-	I-A1	I-A2
+230	0	RC	fight	fight	NN	E-NP	O	-	I-A1	I-A2
+230	0	RC	against	against	IN	S-PP	O	-	I-A1	I-A2
+230	0	RC	AIDS	AIDS	NNP	S-NP	S-MISC	-	I-A1	I-A2
+230	0	RC	instead	instead	RB	B-PP	O	-	I-A1	I-A2
+230	0	RC	of	of	IN	E-PP	O	-	I-A1	I-A2
+230	0	RC	on	on	IN	S-PP	O	-	I-A1	I-A2
+230	0	RC	war.	war.	NN	S-NP	O	-	E-A1	E-A2
+
+231	1	RC	Over	over	IN	B-NP	O	-	B-A1
+231	1	RC	0	0	CD	I-NP	O	-	I-A1
+231	1	RC	million	million	CD	I-NP	O	-	I-A1
+231	1	RC	people	people	NNS	E-NP	O	-	E-A1
+231	1	RC	died	die	VBD	S-VP	O	died	S-V
+231	1	RC	of	of	IN	S-PP	O	-	B-A2
+231	1	RC	AIDS	AIDS	NNP	S-NP	S-MISC	-	E-A2
+231	1	RC	last	last	JJ	B-NP	O	-	B-AM-TMP
+231	1	RC	year.	year.	NN	E-NP	O	-	E-AM-TMP
+
+232	1	RC	Breast	breast	NN	B-NP	O	-	B-A0	B-A0
+232	1	RC	milk	milk	NN	E-NP	O	-	E-A0	E-A0
+232	1	RC	may	may	MD	B-VP	O	-	S-AM-MOD	O
+232	1	RC	help	help	VB	I-VP	O	help	S-V	O
+232	1	RC	fight	fight	VB	E-VP	O	fight	B-A1	S-V
+232	1	RC	cervical	cervical	JJ	B-NP	O	-	I-A1	B-A1
+232	1	RC	cancer	cancer	NN	E-NP	O	-	E-A1	E-A1
+232	1	RC	.	.	.	O	O	-	O	O
+
+234	1	RC	Microsoft	Microsoft	NNP	S-NP	S-ORG	-	B-A0
+234	1	RC	's	's	POS	B-NP	O	-	I-A0
+234	1	RC	Hotmail	Hotmail	NNP	E-NP	S-ORG	-	E-A0
+234	1	RC	has	have	VBZ	B-VP	O	-	O
+234	1	RC	raised	raise	VBN	E-VP	O	raised	S-V
+234	1	RC	its	its	PRP$	B-NP	O	-	B-A1
+234	1	RC	storage	storage	NN	I-NP	O	-	I-A1
+234	1	RC	capacity	capacity	NN	E-NP	O	-	E-A1
+234	1	RC	to	to	TO	S-PP	O	-	B-A4
+234	1	RC	0MB	0MB	NNP	S-NP	O	-	E-A4
+234	1	RC	.	.	.	O	O	-	O
+
+235	0	RC	Saddam	Saddam	NNP	B-NP	B-PER	-	B-A1
+235	0	RC	Hussein	Hussein	NNP	E-NP	E-PER	-	E-A1
+235	0	RC	was	be	VBD	B-VP	O	-	O
+235	0	RC	being	be	VBG	I-VP	O	-	O
+235	0	RC	treated	treat	VBN	E-VP	O	treated	S-V
+235	0	RC	as	as	IN	S-PP	O	-	B-A2
+235	0	RC	a	a	DT	B-NP	O	-	I-A2
+235	0	RC	dignitary	dignitary	NN	E-NP	O	-	E-A2
+235	0	RC	.	.	.	O	O	-	O
+
+240	0	RC	Salesforce	Salesforce	NNP	B-NP	S-ORG	-
+240	0	RC	shares	share	NNS	E-NP	O	-
+240	0	RC	were	be	VBD	S-VP	O	-
+240	0	RC	more	more	JJR	B-NP	O	-
+240	0	RC	than	than	IN	I-NP	O	-
+240	0	RC	0	0	CD	I-NP	O	-
+240	0	RC	%	%	NN	E-NP	O	-
+240	0	RC	above	above	IN	S-PP	O	-
+240	0	RC	their	their	PRP$	B-NP	O	-
+240	0	RC	offering	offering	NN	I-NP	O	-
+240	0	RC	price	price	NN	E-NP	O	-
+240	0	RC	of	of	IN	S-PP	O	-
+240	0	RC	$	$	$	B-NP	O	-
+240	0	RC	0.	@ord@	CD	E-NP	O	-
+
+241	1	RC	Salesforce	Salesforce	NNP	B-NP	S-MISC	-	B-A0	B-A0
+241	1	RC	.com	.com	NN	E-NP	O	-	E-A0	E-A0
+241	1	RC	started	start	VBD	B-VP	O	started	S-V	O
+241	1	RC	trading	trading	VBG	E-VP	O	trading	B-C-A1	S-V
+241	1	RC	under	under	IN	S-PP	O	-	I-C-A1	B-AM-MNR
+241	1	RC	the	the	DT	B-NP	O	-	I-C-A1	I-AM-MNR
+241	1	RC	symbol	symbol	NN	E-NP	O	-	I-C-A1	I-AM-MNR
+241	1	RC	"	"	``	O	O	-	I-C-A1	I-AM-MNR
+241	1	RC	CRM	CRM	NNP	S-NP	S-ORG	-	E-C-A1	E-AM-MNR
+241	1	RC	.	.	.	O	O	-	O	O
+241	1	RC	"	"	.	O	O	-	O	O
+
+244	1	RC	Young	young	JJ	B-NP	O	-	B-A0	O
+244	1	RC	women	woman	NNS	E-NP	O	-	E-A0	O
+244	1	RC	are	be	VBP	S-VP	O	-	O	O
+244	1	RC	binge	binge	NN	S-NP	O	-	O	O
+244	1	RC	drinking	drinking	VBG	S-VP	O	drinking	S-V	O
+244	1	RC	more	more	RBR	S-ADVP	O	-	S-AM-MNR	O
+244	1	RC	,	,	,	O	O	-	O	O
+244	1	RC	which	which	WDT	S-NP	O	-	O	S-R-A0
+244	1	RC	can	can	MD	B-VP	O	-	O	S-AM-MOD
+244	1	RC	lead	lead	VB	E-VP	O	lead	O	S-V
+244	1	RC	to	to	TO	S-PP	O	-	O	B-A2
+244	1	RC	the	the	DT	B-NP	O	-	O	I-A2
+244	1	RC	health	health	NN	I-NP	O	-	O	I-A2
+244	1	RC	risk	risk	NN	E-NP	O	-	O	I-A2
+244	1	RC	of	of	IN	S-PP	O	-	O	I-A2
+244	1	RC	fetal	fetal	JJ	B-NP	O	-	O	I-A2
+244	1	RC	alcohol	alcohol	NN	I-NP	O	-	O	I-A2
+244	1	RC	syndrome	syndrome	NN	E-NP	O	-	O	E-A2
+244	1	RC	.	.	.	O	O	-	O	O
+
+249	1	RC	Zebras	zebra	NNS	S-NP	O	-	S-A0
+249	1	RC	depend	depend	VBP	S-VP	O	depend	S-V
+249	1	RC	on	on	IN	S-PP	O	-	B-A1
+249	1	RC	the	the	DT	B-NP	O	-	I-A1
+249	1	RC	Ugab	Ugab	JJ	I-NP	S-LOC	-	I-A1
+249	1	RC	wetlands	wetland	NNS	E-NP	O	-	E-A1
+249	1	RC	.	.	.	O	O	-	O
+
+762	1	CD	A	a	DT	B-NP	O	-	B-A1	B-A1
+762	1	CD	two-day	two-day	JJ	I-NP	O	-	I-A1	I-A1
+762	1	CD	auction	auction	NN	E-NP	O	-	I-A1	I-A1
+762	1	CD	of	of	IN	S-PP	O	-	I-A1	I-A1
+762	1	CD	property	property	NN	S-NP	O	-	E-A1	I-A1
+762	1	CD	belonging	belong	VBG	S-VP	O	belonging	S-V	I-A1
+762	1	CD	to	to	TO	S-PP	O	-	B-A1	I-A1
+762	1	CD	actress	actress	NN	B-NP	O	-	I-A1	I-A1
+762	1	CD	Katharine	Katharine	NNP	I-NP	B-PER	-	I-A1	I-A1
+762	1	CD	Hepburn	Hepburn	NNP	E-NP	E-PER	-	I-A1	E-A1
+762	1	CD	brought	bring	VBD	S-VP	O	brought	I-A1	S-V
+762	1	CD	in	in	RP	B-ADVP	O	-	I-A1	B-AM-LOC
+762	1	CD	0m.	0m.	RB	E-ADVP	O	-	E-A1	E-AM-LOC
+
+763	1	CD	A	a	DT	B-NP	O	-	B-A1	B-A1
+763	1	CD	two-day	two-day	JJ	I-NP	O	-	I-A1	I-A1
+763	1	CD	auction	auction	NN	E-NP	O	-	I-A1	I-A1
+763	1	CD	of	of	IN	S-PP	O	-	I-A1	I-A1
+763	1	CD	property	property	NN	S-NP	O	-	E-A1	I-A1
+763	1	CD	belonging	belong	VBG	S-VP	O	belonging	S-V	I-A1
+763	1	CD	to	to	TO	S-PP	O	-	B-A1	I-A1
+763	1	CD	actress	actress	NN	B-NP	O	-	I-A1	I-A1
+763	1	CD	Katharine	Katharine	NNP	I-NP	B-PER	-	I-A1	I-A1
+763	1	CD	Hepburn	Hepburn	NNP	E-NP	E-PER	-	I-A1	E-A1
+763	1	CD	brought	bring	VBD	S-VP	O	brought	I-A1	S-V
+763	1	CD	in	in	IN	S-PP	O	-	I-A1	B-A3
+763	1	CD	0	0	CD	B-NP	O	-	I-A1	I-A3
+763	1	CD	million	million	CD	I-NP	O	-	I-A1	I-A3
+763	1	CD	pounds	pound	NNS	E-NP	O	-	E-A1	E-A3
+763	1	CD	.	.	.	O	O	-	O	O
+
+764	1	CD	Proceeds	Proceed	NNS	S-NP	O	-	S-A1
+764	1	CD	go	go	VBP	S-VP	O	go	S-V
+764	1	CD	to	to	TO	S-PP	O	-	B-A4
+764	1	CD	Hepburn	Hepburn	NNP	S-NP	S-PER	-	I-A4
+764	1	CD	's	's	POS	B-NP	O	-	I-A4
+764	1	CD	family	family	NN	E-NP	O	-	E-A4
+764	1	CD	.	.	.	O	O	-	O
+
+765	1	CD	Proceeds	Proceed	NNS	S-NP	O	-	S-A1
+765	1	CD	go	go	VBP	S-VP	O	go	S-V
+765	1	CD	to	to	TO	S-PP	O	-	B-A4
+765	1	CD	Hepburn	Hepburn	NNP	S-NP	S-PER	-	I-A4
+765	1	CD	's	's	POS	B-NP	O	-	I-A4
+765	1	CD	family	family	NN	E-NP	O	-	E-A4
+765	1	CD	.	.	.	O	O	-	O
+
+766	1	CD	A	a	DT	B-NP	O	-	B-A0
+766	1	CD	small	small	JJ	I-NP	O	-	I-A0
+766	1	CD	bronze	bronze	NN	I-NP	O	-	I-A0
+766	1	CD	bust	bust	NN	E-NP	O	-	I-A0
+766	1	CD	of	of	IN	S-PP	O	-	I-A0
+766	1	CD	Spencer	Spencer	NNP	B-NP	B-PER	-	I-A0
+766	1	CD	Tracy	Tracy	NNP	E-NP	E-PER	-	E-A0
+766	1	CD	made	make	VBD	S-VP	O	made	S-V
+766	1	CD	0.	@ord@	.	S-ADJP	O	-	S-A1
+
+767	1	CD	Hepburn	Hepburn	NNP	S-NP	S-PER	-	S-A0	B-A1	O
+767	1	CD	,	,	,	O	O	-	O	I-A1	O
+767	1	CD	who	who	WP	S-NP	O	-	S-R-A0	I-A1	O
+767	1	CD	won	win	VBD	S-VP	O	won	S-V	I-A1	O
+767	1	CD	four	four	CD	B-NP	O	-	B-A1	I-A1	O
+767	1	CD	Oscars	Oscar	NNS	E-NP	S-MISC	-	E-A1	I-A1	O
+767	1	CD	,	,	,	O	O	-	O	E-A1	O
+767	1	CD	died	die	VBD	S-VP	O	died	O	S-V	O
+767	1	CD	last	last	JJ	B-NP	O	-	O	B-AM-TMP	O
+767	1	CD	June	June	NNP	I-NP	O	-	O	I-AM-TMP	O
+767	1	CD	aged	age	VBN	I-NP	O	aged	O	I-AM-TMP	S-V
+767	1	CD	0.	@ord@	.	E-NP	O	-	O	E-AM-TMP	S-A1
+
+768	0	CD	A	a	DT	B-NP	O	-	B-A0
+768	0	CD	small	small	JJ	I-NP	O	-	I-A0
+768	0	CD	bronze	bronze	NN	I-NP	O	-	I-A0
+768	0	CD	bust	bust	NN	E-NP	O	-	I-A0
+768	0	CD	of	of	IN	S-PP	O	-	I-A0
+768	0	CD	Spencer	Spencer	NNP	B-NP	B-PER	-	I-A0
+768	0	CD	Tracy	Tracy	NNP	E-NP	E-PER	-	E-A0
+768	0	CD	made	make	VBD	S-VP	O	made	S-V
+768	0	CD	0.	@ord@	.	S-ADJP	O	-	S-A1
+
+769	1	CD	The	the	DT	B-NP	O	-	O
+769	1	CD	highest	high	JJS	I-NP	O	-	O
+769	1	CD	-	-	:	I-NP	O	-	O
+769	1	CD	selling	sell	VBG	I-NP	O	-	O
+769	1	CD	item	item	NN	E-NP	O	-	O
+769	1	CD	was	be	VBD	S-VP	O	-	O
+769	1	CD	a	a	DT	B-NP	O	-	B-A1
+769	1	CD	bronze	bronze	NN	I-NP	O	-	I-A1
+769	1	CD	bust	bust	NN	E-NP	O	-	E-A1
+769	1	CD	made	make	VBN	S-VP	O	made	S-V
+769	1	CD	by	by	IN	S-PP	O	-	B-A0
+769	1	CD	Hepburn	Hepburn	NNP	S-NP	S-PER	-	I-A0
+769	1	CD	in	in	IN	S-PP	O	-	I-A0
+769	1	CD	the	the	DT	B-NP	O	-	I-A0
+769	1	CD	0s	0s	CD	E-NP	O	-	I-A0
+769	1	CD	of	of	IN	S-PP	O	-	I-A0
+769	1	CD	her	her	PRP$	B-NP	O	-	I-A0
+769	1	CD	actor	actor	NN	I-NP	O	-	I-A0
+769	1	CD	lover	lover	NN	E-NP	O	-	I-A0
+769	1	CD	Spencer	Spencer	NNP	B-NP	B-PER	-	I-A0
+769	1	CD	Tracy	Tracy	NNP	E-NP	E-PER	-	E-A0
+769	1	CD	.	.	.	O	O	-	O
+
+770	1	CD	Hepburn	Hepburn	NNP	S-NP	S-PER	-	B-A0
+770	1	CD	's	's	POS	B-NP	O	-	I-A0
+770	1	CD	diamond	diamond	NN	I-NP	O	-	I-A0
+770	1	CD	and	and	CC	I-NP	O	-	I-A0
+770	1	CD	sapphire	sapphire	NN	I-NP	O	-	I-A0
+770	1	CD	brooch	brooch	NN	E-NP	O	-	E-A0
+770	1	CD	fetched	fetch	VBD	S-VP	O	fetched	S-V
+770	1	CD	$	$	$	B-NP	O	-	B-A1
+770	1	CD	0.	@ord@	CD	E-NP	O	-	E-A1
+
+771	0	CD	Nichols	Nichols	NNP	S-NP	S-PER	-	S-A1
+771	0	CD	was	be	VBD	B-VP	O	-	O
+771	0	CD	sentenced	sentence	VBN	E-VP	O	sentenced	S-V
+771	0	CD	to	to	TO	S-PP	O	-	B-A2
+771	0	CD	life	life	NN	S-NP	O	-	E-A2
+771	0	CD	in	in	IN	S-PP	O	-	B-AM-LOC
+771	0	CD	prison	prison	NN	S-NP	O	-	E-AM-LOC
+771	0	CD	for	for	IN	S-PP	O	-	B-AM-TMP
+771	0	CD	the	the	DT	B-NP	O	-	I-AM-TMP
+771	0	CD	April	April	NNP	I-NP	O	-	I-AM-TMP
+771	0	CD	0	0	CD	I-NP	O	-	I-AM-TMP
+771	0	CD	,	,	,	I-NP	O	-	I-AM-TMP
+771	0	CD	0	0	CD	I-NP	O	-	I-AM-TMP
+771	0	CD	,	,	,	I-NP	O	-	I-AM-TMP
+771	0	CD	bombing	bombing	NN	E-NP	O	-	I-AM-TMP
+771	0	CD	of	of	IN	S-PP	O	-	I-AM-TMP
+771	0	CD	the	the	DT	B-NP	O	-	I-AM-TMP
+771	0	CD	Oklahoma	Oklahoma	NNP	I-NP	B-LOC	-	I-AM-TMP
+771	0	CD	City	City	NNP	I-NP	E-LOC	-	I-AM-TMP
+771	0	CD	federal	federal	JJ	I-NP	O	-	I-AM-TMP
+771	0	CD	building	building	NN	E-NP	O	-	E-AM-TMP
+771	0	CD	.	.	.	O	O	-	O
+
+772	1	CD	The	the	DT	B-NP	O	-
+772	1	CD	state	state	NN	I-NP	O	-
+772	1	CD	charges	charge	NNS	E-NP	O	-
+772	1	CD	against	against	IN	S-PP	O	-
+772	1	CD	Nichols	Nichols	NNP	S-NP	S-PER	-
+772	1	CD	are	be	VBP	S-VP	O	-
+772	1	CD	for	for	IN	S-PP	O	-
+772	1	CD	0	0	CD	B-NP	O	-
+772	1	CD	victims	victim	NNS	E-NP	O	-
+772	1	CD	and	and	CC	O	O	-
+772	1	CD	one	one	CD	B-NP	O	-
+772	1	CD	victim	victim	NN	E-NP	O	-
+772	1	CD	's	's	POS	B-NP	O	-
+772	1	CD	fetus	fetus	NN	E-NP	O	-
+772	1	CD	.	.	.	O	O	-
+
+775	1	CD	A	a	DT	B-NP	O	-	B-A0	B-A1	O
+775	1	CD	U.S.	U.S.	NNP	I-NP	S-LOC	-	I-A0	I-A1	O
+775	1	CD	citizen	citizen	NN	E-NP	O	-	E-A0	I-A1	O
+775	1	CD	working	work	VBG	S-VP	O	working	S-V	I-A1	O
+775	1	CD	in	in	IN	S-PP	O	-	B-AM-LOC	I-A1	O
+775	1	CD	Riyadh	Riyadh	NNP	S-NP	S-LOC	-	E-AM-LOC	E-A1	O
+775	1	CD	has	have	VBZ	B-VP	O	-	O	O	O
+775	1	CD	been	be	VBN	I-VP	O	-	O	O	O
+775	1	CD	kidnapped	kidnap	VBN	E-VP	O	kidnapped	O	S-V	O
+775	1	CD	after	after	IN	S-PP	O	-	O	B-AM-TMP	O
+775	1	CD	a	a	DT	B-NP	O	-	O	I-AM-TMP	B-A1
+775	1	CD	colleague	colleague	NN	E-NP	O	-	O	I-AM-TMP	I-A1
+775	1	CD	in	in	IN	S-PP	O	-	O	I-AM-TMP	I-A1
+775	1	CD	the	the	DT	B-NP	O	-	O	I-AM-TMP	I-A1
+775	1	CD	same	same	JJ	I-NP	O	-	O	I-AM-TMP	I-A1
+775	1	CD	company	company	NN	E-NP	O	-	O	I-AM-TMP	E-A1
+775	1	CD	was	be	VBD	B-VP	O	-	O	I-AM-TMP	O
+775	1	CD	shot	shoot	VBN	E-VP	O	shot	O	I-AM-TMP	S-V
+775	1	CD	dead	dead	JJ	S-ADJP	O	-	O	I-AM-TMP	S-A2
+775	1	CD	yesterday	yesterday	NN	S-NP	O	-	O	E-AM-TMP	S-AM-TMP
+775	1	CD	.	.	.	O	O	-	O	O	O
+
+778	1	CD	Apathy	apathy	NN	S-NP	O	-	S-A0
+778	1	CD	clouds	cloud	VBZ	S-VP	O	clouds	S-V
+778	1	CD	EU	EU	NNP	B-NP	S-ORG	-	B-A1
+778	1	CD	voting	voting	NN	E-NP	O	-	E-A1
+778	1	CD	.	.	.	O	O	-	O
+
+779	0	CD	Nearly	nearly	RB	B-NP	O	-	B-A0	O
+779	0	CD	0	0	CD	I-NP	O	-	I-A0	O
+779	0	CD	million	million	CD	I-NP	O	-	I-A0	O
+779	0	CD	people	people	NNS	E-NP	O	-	E-A0	O
+779	0	CD	were	be	VBD	S-VP	O	-	O	O
+779	0	CD	eligible	eligible	JJ	S-ADJP	O	-	O	O
+779	0	CD	to	to	TO	B-VP	O	-	O	O
+779	0	CD	vote	vote	VB	E-VP	O	vote	S-V	O
+779	0	CD	since	since	IN	S-PP	O	-	O	O
+779	0	CD	the	the	DT	B-NP	O	-	O	B-A0
+779	0	CD	EU	EU	NNP	E-NP	S-ORG	-	O	E-A0
+779	0	CD	took	take	VBD	S-VP	O	took	O	B-V
+779	0	CD	in	in	IN	S-PP	O	-	O	E-V
+779	0	CD	0	0	CD	B-NP	O	-	O	B-A1
+779	0	CD	new	new	JJ	I-NP	O	-	O	I-A1
+779	0	CD	members	member	NNS	E-NP	O	-	O	E-A1
+779	0	CD	on	on	IN	S-PP	O	-	O	B-AM-TMP
+779	0	CD	May	May	NNP	S-NP	O	-	O	E-AM-TMP
+779	0	CD	0.	@ord@	.	O	O	-	O	O
+
+781	1	CD	Voting	vote	VBG	S-VP	O	Voting	S-V	B-A1
+781	1	CD	for	for	IN	S-PP	O	-	B-A1	I-A1
+781	1	CD	a	a	DT	B-NP	O	-	I-A1	I-A1
+781	1	CD	new	new	JJ	I-NP	O	-	I-A1	I-A1
+781	1	CD	European	European	NNP	I-NP	S-MISC	-	I-A1	I-A1
+781	1	CD	Parliament	Parliament	NNP	E-NP	O	-	E-A1	E-A1
+781	1	CD	has	have	VBZ	B-VP	O	-	O	O
+781	1	CD	been	be	VBN	I-VP	O	-	O	O
+781	1	CD	clouded	cloud	VBN	E-VP	O	clouded	O	S-V
+781	1	CD	by	by	IN	S-PP	O	-	O	B-A0
+781	1	CD	apathy	apathy	NN	S-NP	O	-	O	E-A0
+781	1	CD	.	.	.	O	O	-	O	O
+
+783	1	CD	On	on	IN	S-PP	O	-	B-AM-TMP
+783	1	CD	Friday	Friday	NNP	S-NP	O	-	E-AM-TMP
+783	1	CD	,	,	,	O	O	-	O
+783	1	CD	Sharon	Sharon	NNP	S-NP	S-PER	-	S-A0
+783	1	CD	fired	fire	VBD	S-VP	O	fired	S-V
+783	1	CD	Benny	Benny	NNP	B-NP	B-PER	-	B-A1
+783	1	CD	Elon	Elon	NNP	E-NP	E-PER	-	I-A1
+783	1	CD	and	and	CC	O	O	-	I-A1
+783	1	CD	Avigdor	Avigdor	NNP	B-NP	B-PER	-	I-A1
+783	1	CD	Lieberman	Lieberman	NNP	E-NP	E-PER	-	E-A1
+783	1	CD	.	.	.	O	O	-	O
+
+785	1	CD	The	the	DT	B-NP	O	-	B-A0	O
+785	1	CD	U.S.	U.S.	NNP	I-NP	B-ORG	-	I-A0	O
+785	1	CD	Army	Army	NNP	E-NP	E-ORG	-	E-A0	O
+785	1	CD	agreed	agree	VBD	S-VP	O	agreed	S-V	O
+785	1	CD	to	to	TO	S-PP	O	-	B-A1	O
+785	1	CD	a	a	DT	B-NP	O	-	I-A1	O
+785	1	CD	request	request	NN	E-NP	O	-	I-A1	O
+785	1	CD	from	from	IN	S-PP	O	-	I-A1	O
+785	1	CD	the	the	DT	B-NP	O	-	I-A1	O
+785	1	CD	local	local	JJ	I-NP	O	-	I-A1	O
+785	1	CD	governor	governor	NN	E-NP	O	-	I-A1	O
+785	1	CD	to	to	TO	B-VP	O	-	I-A1	O
+785	1	CD	keep	keep	VB	E-VP	O	keep	I-A1	S-V
+785	1	CD	US	US	PRP	B-NP	S-LOC	-	I-A1	B-A1
+785	1	CD	troops	troop	NNS	E-NP	O	-	I-A1	E-A1
+785	1	CD	away	away	RB	S-ADVP	O	-	I-A1	B-A2
+785	1	CD	from	from	IN	S-PP	O	-	I-A1	I-A2
+785	1	CD	the	the	DT	B-NP	O	-	I-A1	I-A2
+785	1	CD	Imam	Imam	NNP	I-NP	B-LOC	-	I-A1	I-A2
+785	1	CD	Ali	Ali	NNP	I-NP	I-LOC	-	I-A1	I-A2
+785	1	CD	Shrine	Shrine	NNP	E-NP	E-LOC	-	I-A1	I-A2
+785	1	CD	in	in	IN	S-PP	O	-	I-A1	I-A2
+785	1	CD	Najaf	Najaf	NNP	S-NP	S-LOC	-	E-A1	E-A2
+785	1	CD	.	.	.	O	O	-	O	O
+
+786	1	CD	Assailants	assailant	NNS	S-NP	O	-	S-A0
+786	1	CD	also	also	RB	S-ADVP	O	-	S-AM-DIS
+786	1	CD	ambushed	ambush	VBD	S-VP	O	ambushed	S-V
+786	1	CD	two	two	CD	B-NP	O	-	B-A1
+786	1	CD	civilian	civilian	JJ	I-NP	O	-	I-A1
+786	1	CD	sport	sport	NN	I-NP	O	-	I-A1
+786	1	CD	utility	utility	NN	I-NP	O	-	I-A1
+786	1	CD	vehicles	vehicle	NNS	E-NP	O	-	I-A1
+786	1	CD	on	on	IN	S-PP	O	-	I-A1
+786	1	CD	the	the	DT	B-NP	O	-	I-A1
+786	1	CD	road	road	NN	E-NP	O	-	I-A1
+786	1	CD	to	to	TO	S-PP	O	-	I-A1
+786	1	CD	Baghdad	Baghdad	NNP	S-NP	S-LOC	-	I-A1
+786	1	CD	's	's	POS	B-NP	O	-	I-A1
+786	1	CD	international	international	JJ	I-NP	O	-	I-A1
+786	1	CD	airport	airport	NN	E-NP	O	-	E-A1
+786	1	CD	.	.	.	O	O	-	O
+
+787	1	CD	Five	Five	CD	B-NP	O	-	B-A1
+787	1	CD	US	US	PRP	I-NP	S-MISC	-	I-A1
+787	1	CD	soldiers	soldier	NNS	E-NP	O	-	E-A1
+787	1	CD	were	be	VBD	B-VP	O	-	O
+787	1	CD	killed	kill	VBN	E-VP	O	killed	S-V
+787	1	CD	and	and	CC	O	O	-	O
+787	1	CD	five	five	CD	B-NP	O	-	O
+787	1	CD	wounded	wound	VBN	E-NP	O	-	O
+787	1	CD	on	on	IN	S-PP	O	-	O
+787	1	CD	Friday	Friday	NNP	S-NP	O	-	O
+787	1	CD	in	in	IN	S-PP	O	-	B-AM-LOC
+787	1	CD	an	an	DT	B-NP	O	-	I-AM-LOC
+787	1	CD	ambush	ambush	NN	E-NP	O	-	I-AM-LOC
+787	1	CD	near	near	IN	S-PP	O	-	I-AM-LOC
+787	1	CD	the	the	DT	B-NP	O	-	I-AM-LOC
+787	1	CD	Shi'ite	Shi'ite	JJ	I-NP	S-MISC	-	I-AM-LOC
+787	1	CD	neighbourhood	neighbourhood	NN	I-NP	O	-	I-AM-LOC
+787	1	CD	Sadr	Sadr	NNP	I-NP	B-LOC	-	I-AM-LOC
+787	1	CD	City.	City.	NNP	E-NP	E-LOC	-	E-AM-LOC
+
+790	0	CD	Out	out	IN	S-PP	O	-	B-AM-ADV	O
+790	0	CD	of	of	IN	S-PP	O	-	I-AM-ADV	O
+790	0	CD	an	an	DT	B-NP	O	-	I-AM-ADV	O
+790	0	CD	old	old	JJ	I-NP	O	-	I-AM-ADV	O
+790	0	CD	bulldozer	bulldozer	NN	E-NP	O	-	E-AM-ADV	O
+790	0	CD	,	,	,	O	O	-	O	O
+790	0	CD	Heemeyer	Heemeyer	NNP	S-NP	S-PER	-	S-A0	O
+790	0	CD	built	build	VBD	S-VP	O	built	S-V	O
+790	0	CD	a	a	DT	B-NP	O	-	B-A1	B-A1
+790	0	CD	concrete	concrete	JJ	I-NP	O	-	I-A1	I-A1
+790	0	CD	box	box	NN	E-NP	O	-	I-A1	E-A1
+790	0	CD	that	that	IN	S-SBAR	O	-	I-A1	S-R-A1
+790	0	CD	no	no	DT	B-NP	O	-	I-A1	B-A0
+790	0	CD	police	police	NN	I-NP	O	-	I-A1	I-A0
+790	0	CD	bullet	bullet	NN	E-NP	O	-	I-A1	E-A0
+790	0	CD	could	could	MD	B-VP	O	-	I-A1	S-AM-MOD
+790	0	CD	penetrate	penetrate	VB	E-VP	O	penetrate	E-A1	S-V
+790	0	CD	.	.	.	O	O	-	O	O
+
+791	0	CD	Police	Police	NNS	S-NP	O	-	S-A0
+791	0	CD	found	find	VBD	S-VP	O	found	S-V
+791	0	CD	four	four	CD	B-NP	O	-	B-A1
+791	0	CD	weapons	weapon	NNS	E-NP	O	-	I-A1
+791	0	CD	-	-	:	O	O	-	I-A1
+791	0	CD	a	a	DT	B-NP	O	-	I-A1
+791	0	CD	0-calibre	0-calibre	JJ	I-NP	O	-	I-A1
+791	0	CD	rifle	rifle	NN	E-NP	O	-	I-A1
+791	0	CD	,	,	,	O	O	-	I-A1
+791	0	CD	two	two	CD	B-NP	O	-	I-A1
+791	0	CD	military	military	JJ	I-NP	O	-	I-A1
+791	0	CD	style	style	NN	I-NP	O	-	I-A1
+791	0	CD	assault	assault	NN	I-NP	O	-	I-A1
+791	0	CD	rifles	rifle	NNS	E-NP	O	-	I-A1
+791	0	CD	and	and	CC	O	O	-	I-A1
+791	0	CD	a	a	DT	B-NP	O	-	I-A1
+791	0	CD	handgun	handgun	NN	E-NP	O	-	I-A1
+791	0	CD	in	in	IN	S-PP	O	-	I-A1
+791	0	CD	the	the	DT	B-NP	O	-	I-A1
+791	0	CD	vehicle	vehicle	NN	E-NP	O	-	E-A1
+791	0	CD	.	.	.	O	O	-	O
+
+793	1	CD	Heemeyer	Heemeyer	NNP	S-NP	S-PER	-	S-A0	O	O	O
+793	1	CD	had	have	VBD	B-VP	O	-	O	O	O	O
+793	1	CD	installed	install	VBN	E-VP	O	installed	S-V	O	O	O
+793	1	CD	television	television	NN	B-NP	O	-	B-A1	B-A1	O	O
+793	1	CD	cameras	camera	NNS	E-NP	O	-	I-A1	E-A1	O	O
+793	1	CD	connected	connect	VBN	S-VP	O	connected	I-A1	S-V	O	O
+793	1	CD	to	to	TO	S-PP	O	-	I-A1	B-A1	O	O
+793	1	CD	three	three	CD	B-NP	O	-	I-A1	I-A1	O	O
+793	1	CD	monitors	monitor	NNS	E-NP	O	-	E-A1	E-A1	O	O
+793	1	CD	so	so	IN	S-SBAR	O	-	B-AM-PNC	O	O	O
+793	1	CD	he	he	PRP	S-NP	O	-	I-AM-PNC	O	S-A0	O
+793	1	CD	could	could	MD	B-VP	O	-	I-AM-PNC	O	S-AM-MOD	O
+793	1	CD	see	see	VB	E-VP	O	see	I-AM-PNC	O	S-V	O
+793	1	CD	where	where	WRB	S-ADVP	O	-	I-AM-PNC	O	B-A1	O
+793	1	CD	he	he	PRP	S-NP	O	-	I-AM-PNC	O	I-A1	S-A1
+793	1	CD	was	be	VBD	B-VP	O	-	I-AM-PNC	O	I-A1	O
+793	1	CD	going	go	VBG	E-VP	O	going	E-AM-PNC	O	E-A1	S-V
+793	1	CD	.	.	.	O	O	-	O	O	O	O
+
+794	1	CD	Stanford	Stanford	NNP	B-NP	B-PER	-	B-A1
+794	1	CD	Cardinal	Cardinal	NNP	E-NP	E-PER	-	E-A1
+794	1	CD	were	be	VBD	B-VP	O	-	O
+794	1	CD	defeated	defeat	VBN	E-VP	O	defeated	S-V
+794	1	CD	by	by	IN	S-PP	O	-	B-A0
+794	1	CD	Long	Long	NNP	B-NP	B-LOC	-	I-A0
+794	1	CD	Beach	Beach	NNP	I-NP	I-LOC	-	I-A0
+794	1	CD	State	State	NNP	E-NP	E-LOC	-	I-A0
+794	1	CD	,	,	,	O	O	-	I-A0
+794	1	CD	00.	@ord@	.	O	O	-	E-A0
+
+795	1	CD	The	the	DT	B-NP	O	-	B-A1
+795	1	CD	two	two	CD	I-NP	O	-	I-A1
+795	1	CD	presidents	president	NNS	I-NP	O	-	I-A1
+795	1	CD	,	,	,	I-NP	O	-	I-A1
+795	1	CD	Bush	Bush	NNP	I-NP	S-PER	-	I-A1
+795	1	CD	and	and	CC	I-NP	O	-	I-A1
+795	1	CD	Chirac	Chirac	NNP	E-NP	S-PER	-	I-A1
+795	1	CD	,	,	,	O	O	-	E-A1
+795	1	CD	were	be	VBD	B-VP	O	-	O
+795	1	CD	honoured	honour	VBN	E-VP	O	honoured	S-V
+795	1	CD	with	with	IN	S-PP	O	-	B-AM-MNR
+795	1	CD	a	a	DT	B-NP	O	-	I-AM-MNR
+795	1	CD	0-gun	0-gun	JJ	I-NP	O	-	I-AM-MNR
+795	1	CD	salute	salute	NN	E-NP	O	-	E-AM-MNR
+795	1	CD	.	.	.	O	O	-	O
+
+799	0	CD	Reagan	Reagan	NNP	S-NP	S-PER	-	S-A1	O
+799	0	CD	died	die	VBD	S-VP	O	died	S-V	O
+799	0	CD	of	of	IN	S-PP	O	-	B-A3	O
+799	0	CD	pneumonia	pneumonia	NN	S-NP	O	-	I-A3	S-A1
+799	0	CD	complicated	complicate	VBN	S-VP	O	complicated	I-A3	S-V
+799	0	CD	by	by	IN	S-PP	O	-	I-A3	B-A0
+799	0	CD	Alzheimer	Alzheimer	NNP	S-NP	S-PER	-	I-A3	I-A0
+799	0	CD	's	's	POS	B-NP	O	-	I-A3	I-A0
+799	0	CD	disease	disease	NN	E-NP	O	-	E-A3	E-A0
+
+800	1	CD	Reagan	Reagan	NNP	S-NP	S-PER	-	S-A0	O
+800	1	CD	survived	survive	VBD	S-VP	O	survived	S-V	O
+800	1	CD	an	an	DT	B-NP	O	-	B-A1	O
+800	1	CD	attempted	attempted	VBN	I-NP	O	attempted	I-A1	S-V
+800	1	CD	assassin	assassin	NN	E-NP	O	-	I-A1	B-A1
+800	1	CD	's	's	POS	B-NP	O	-	I-A1	I-A1
+800	1	CD	bullets	bullet	NNS	E-NP	O	-	E-A1	E-A1
+800	1	CD	.	.	.	O	O	-	O	O
+
+801	0	CD	John	John	NNP	B-NP	B-PER	-	B-A0
+801	0	CD	W.	W.	NNP	I-NP	I-PER	-	I-A0
+801	0	CD	Hinckley	Hinckley	NNP	I-NP	I-PER	-	I-A0
+801	0	CD	Jr.	Jr.	NNP	E-NP	E-PER	-	E-A0
+801	0	CD	shot	shoot	VBD	S-VP	O	shot	S-V
+801	0	CD	Reagan	Reagan	NNP	S-NP	S-PER	-	S-A1
+801	0	CD	in	in	IN	S-PP	O	-	B-AM-LOC
+801	0	CD	the	the	DT	B-NP	O	-	I-AM-LOC
+801	0	CD	chest	chest	NN	E-NP	O	-	E-AM-LOC
+801	0	CD	.	.	.	O	O	-	O
+
+805	0	CD	Desko	Desko	NNP	S-NP	S-PER	-
+805	0	CD	's	's	POS	B-NP	O	-
+805	0	CD	Orange	Orange	NNP	E-NP	S-LOC	-
+805	0	CD	beat	beat	VBD	S-VP	O	-
+805	0	CD	Navy	Navy	NNP	S-NP	S-ORG	-
+805	0	CD	00	@card@	CD	S-ADVP	O	-
+805	0	CD	on	on	IN	S-PP	O	-
+805	0	CD	Monday	Monday	NNP	S-NP	O	-
+805	0	CD	for	for	IN	S-PP	O	-
+805	0	CD	the	the	DT	B-NP	O	-
+805	0	CD	Division	Division	NNP	I-NP	B-MISC	-
+805	0	CD	I	I	NNP	I-NP	E-MISC	-
+805	0	CD	title	title	NN	E-NP	O	-
+805	0	CD	in	in	IN	S-PP	O	-
+805	0	CD	men	man	NNS	S-NP	O	-
+805	0	CD	's	's	POS	B-NP	O	-
+805	0	CD	lacrosse	lacrosse	NN	E-NP	O	-
+805	0	CD	.	.	.	O	O	-
+
+811	0	CD	Monica	Monica	NNP	B-NP	B-PER	-	B-A1	B-A0
+811	0	CD	Meadows	Meadows	NNP	E-NP	E-PER	-	I-A1	I-A0
+811	0	CD	,	,	,	O	O	-	I-A1	I-A0
+811	0	CD	0	0	CD	S-NP	O	-	I-A1	I-A0
+811	0	CD	,	,	,	O	O	-	E-A1	E-A0
+811	0	CD	was	be	VBD	B-VP	O	-	O	O
+811	0	CD	shot	shoot	VBN	E-VP	O	shot	S-V	O
+811	0	CD	in	in	IN	S-PP	O	-	B-AM-MNR	O
+811	0	CD	shoulder	shoulder	NN	S-NP	O	-	E-AM-MNR	O
+811	0	CD	while	while	IN	S-SBAR	O	-	B-AM-TMP	O
+811	0	CD	riding	ride	VBG	S-VP	O	riding	I-AM-TMP	S-V
+811	0	CD	a	a	DT	B-NP	O	-	I-AM-TMP	B-A1
+811	0	CD	subway	subway	NN	I-NP	O	-	I-AM-TMP	I-A1
+811	0	CD	car	car	NN	E-NP	O	-	I-AM-TMP	E-A1
+811	0	CD	in	in	IN	S-PP	O	-	I-AM-TMP	B-AM-LOC
+811	0	CD	New	New	NNP	B-NP	B-LOC	-	I-AM-TMP	I-AM-LOC
+811	0	CD	York	York	NNP	I-NP	I-LOC	-	I-AM-TMP	I-AM-LOC
+811	0	CD	City	City	NNP	E-NP	E-LOC	-	E-AM-TMP	E-AM-LOC
+
+812	0	CD	Oil	oil	NN	B-NP	O	-	B-A1
+812	0	CD	prices	price	NNS	E-NP	O	-	E-A1
+812	0	CD	this	this	DT	B-NP	O	-	B-AM-TMP
+812	0	CD	Tuesday	Tuesday	NNP	E-NP	O	-	E-AM-TMP
+812	0	CD	surged	surge	VBD	S-VP	O	surged	S-V
+812	0	CD	to	to	TO	S-PP	O	-	B-A4
+812	0	CD	an	an	DT	B-NP	O	-	I-A4
+812	0	CD	all-time	all-time	JJ	I-NP	O	-	I-A4
+812	0	CD	high	high	NN	E-NP	O	-	I-A4
+812	0	CD	in	in	IN	S-PP	O	-	I-A4
+812	0	CD	New	New	NNP	B-NP	B-LOC	-	I-A4
+812	0	CD	York	York	NNP	E-NP	E-LOC	-	I-A4
+812	0	CD	,	,	,	O	O	-	I-A4
+812	0	CD	at	at	IN	S-PP	O	-	I-A4
+812	0	CD	0	0	CD	B-NP	O	-	I-A4
+812	0	CD	dollars	dollar	NNS	E-NP	O	-	I-A4
+812	0	CD	a	a	DT	B-NP	O	-	I-A4
+812	0	CD	barrel	barrel	NN	E-NP	O	-	I-A4
+812	0	CD	,	,	,	O	O	-	I-A4
+812	0	CD	0	0	CD	B-NP	O	-	I-A4
+812	0	CD	dollars	dollar	NNS	E-NP	O	-	I-A4
+812	0	CD	a	a	DT	B-NP	O	-	I-A4
+812	0	CD	barrel	barrel	NN	E-NP	O	-	I-A4
+812	0	CD	more	more	RBR	S-ADVP	O	-	I-A4
+812	0	CD	than	than	IN	S-PP	O	-	I-A4
+812	0	CD	last	last	JJ	B-NP	O	-	I-A4
+812	0	CD	Friday	Friday	NNP	E-NP	O	-	E-A4
+812	0	CD	.	.	.	O	O	-	O
+
+814	0	CD	Crude	crude	JJ	B-NP	O	-	B-A1
+814	0	CD	oil	oil	NN	I-NP	O	-	I-A1
+814	0	CD	futures	future	NNS	E-NP	O	-	E-A1
+814	0	CD	surged	surge	VBD	S-VP	O	surged	S-V
+814	0	CD	to	to	TO	S-PP	O	-	B-A4
+814	0	CD	an	an	DT	B-NP	O	-	I-A4
+814	0	CD	all-time	all-time	JJ	I-NP	O	-	I-A4
+814	0	CD	high	high	NN	E-NP	O	-	I-A4
+814	0	CD	in	in	IN	S-PP	O	-	I-A4
+814	0	CD	New	New	NNP	B-NP	B-LOC	-	I-A4
+814	0	CD	York	York	NNP	E-NP	E-LOC	-	E-A4
+814	0	CD	Tuesday	Tuesday	NNP	S-NP	O	-	S-AM-TMP
+814	0	CD	,	,	,	O	O	-	O
+814	0	CD	at	at	IN	S-PP	O	-	B-AM-MNR
+814	0	CD	0	0	CD	B-NP	O	-	I-AM-MNR
+814	0	CD	dollars	dollar	NNS	E-NP	O	-	I-AM-MNR
+814	0	CD	a	a	DT	B-NP	O	-	I-AM-MNR
+814	0	CD	barrel	barrel	NN	E-NP	O	-	E-AM-MNR
+814	0	CD	.	.	.	O	O	-	O
+
+667	1	CD	Gamelan	gamelan	NN	B-NP	S-ORG	-	O
+667	1	CD	music	music	NN	E-NP	O	-	O
+667	1	CD	,	,	,	O	O	-	O
+667	1	CD	in	in	IN	S-PP	O	-	O
+667	1	CD	which	which	WDT	B-NP	O	-	O
+667	1	CD	percussion	percussion	NN	I-NP	O	-	O
+667	1	CD	instruments	instrument	NNS	E-NP	O	-	O
+667	1	CD	are	be	VBP	S-VP	O	-	O
+667	1	CD	key	key	JJ	S-ADJP	O	-	O
+667	1	CD	,	,	,	O	O	-	O
+667	1	CD	and	and	CC	O	O	-	O
+667	1	CD	shadow	shadow	VB	S-VP	O	shadow	S-V
+667	1	CD	-	-	:	O	O	-	O
+667	1	CD	puppet	puppet	NN	B-NP	O	-	B-A1
+667	1	CD	shows	show	NNS	E-NP	O	-	I-A1
+667	1	CD	are	be	VBP	S-VP	O	-	I-A1
+667	1	CD	popular	popular	JJ	S-ADJP	O	-	I-A1
+667	1	CD	in	in	IN	S-PP	O	-	I-A1
+667	1	CD	Jakarta	Jakarta	NNP	S-NP	S-LOC	-	E-A1
+667	1	CD	.	.	.	O	O	-	O
+
+668	1	CD	The	the	DT	B-NP	O	-
+668	1	CD	city	city	NN	I-NP	O	-
+668	1	CD	hall	hall	NN	E-NP	O	-
+668	1	CD	is	be	VBZ	S-VP	O	-
+668	1	CD	a	a	DT	B-NP	O	-
+668	1	CD	museum	museum	NN	E-NP	O	-
+668	1	CD	now	now	RB	S-ADVP	O	-
+668	1	CD	.	.	.	O	O	-
+
+670	0	CD	In	in	IN	S-PP	O	-
+670	0	CD	the	the	DT	B-NP	O	-
+670	0	CD	Old	Old	NNP	I-NP	B-LOC	-
+670	0	CD	City	City	NNP	E-NP	E-LOC	-
+670	0	CD	are	be	VBP	S-VP	O	-
+670	0	CD	the	the	DT	B-NP	O	-
+670	0	CD	old	old	JJ	I-NP	O	-
+670	0	CD	port	port	NN	E-NP	O	-
+670	0	CD	,	,	,	O	O	-
+670	0	CD	the	the	DT	B-NP	O	-
+670	0	CD	Dutch	Dutch	JJ	I-NP	S-MISC	-
+670	0	CD	town	town	NN	I-NP	O	-
+670	0	CD	hall	hall	NN	E-NP	O	-
+670	0	CD	,	,	,	O	O	-
+670	0	CD	and	and	CC	O	O	-
+670	0	CD	a	a	DT	B-NP	O	-
+670	0	CD	square	square	NN	E-NP	O	-
+670	0	CD	.	.	.	O	O	-
+
+671	1	CD	The	the	DT	B-NP	O	-
+671	1	CD	Kota	Kota	NNP	E-NP	S-LOC	-
+671	1	CD	is	be	VBZ	S-VP	O	-
+671	1	CD	the	the	DT	B-NP	O	-
+671	1	CD	country	country	NN	E-NP	O	-
+671	1	CD	's	's	POS	B-NP	O	-
+671	1	CD	business	business	NN	I-NP	O	-
+671	1	CD	center	center	NN	E-NP	O	-
+671	1	CD	.	.	.	O	O	-
+
+673	1	CD	The	the	DT	B-NP	O	-
+673	1	CD	Istiqlal	Istiqlal	NNP	I-NP	B-LOC	-
+673	1	CD	Mosque	Mosque	NNP	E-NP	E-LOC	-
+673	1	CD	is	be	VBZ	S-VP	O	-
+673	1	CD	one	one	CD	S-NP	O	-
+673	1	CD	of	of	IN	S-PP	O	-
+673	1	CD	the	the	DT	B-NP	O	-
+673	1	CD	largest	large	JJS	I-NP	O	-
+673	1	CD	mosques	mosque	NNS	E-NP	O	-
+673	1	CD	in	in	IN	S-PP	O	-
+673	1	CD	Southeast	Southeast	NNP	B-NP	B-LOC	-
+673	1	CD	Asia	Asia	NNP	E-NP	E-LOC	-
+673	1	CD	.	.	.	O	O	-
+
+674	1	CD	The	the	DT	B-NP	O	-
+674	1	CD	parts	part	NNS	E-NP	O	-
+674	1	CD	of	of	IN	S-PP	O	-
+674	1	CD	Jakarta	Jakarta	NNP	S-NP	S-LOC	-
+674	1	CD	away	away	RB	S-ADVP	O	-
+674	1	CD	from	from	IN	S-PP	O	-
+674	1	CD	the	the	DT	B-NP	O	-
+674	1	CD	coast	coast	NN	E-NP	O	-
+674	1	CD	are	be	VBP	S-VP	O	-
+674	1	CD	on	on	IN	S-PP	O	-
+674	1	CD	slightly	slightly	RB	B-NP	O	-
+674	1	CD	higher	high	JJR	I-NP	O	-
+674	1	CD	land	land	NN	E-NP	O	-
+674	1	CD	.	.	.	O	O	-
+
+675	1	CD	Jakarta	Jakarta	NNP	S-NP	S-LOC	-	S-A1
+675	1	CD	is	be	VBZ	B-VP	O	-	O
+675	1	CD	easily	easily	RB	I-VP	O	-	S-AM-MNR
+675	1	CD	flooded	flood	VBN	E-VP	O	flooded	S-V
+675	1	CD	during	during	IN	S-PP	O	-	B-AM-TMP
+675	1	CD	the	the	DT	B-NP	O	-	I-AM-TMP
+675	1	CD	rainy	rainy	JJ	I-NP	O	-	I-AM-TMP
+675	1	CD	season.	season.	NN	E-NP	O	-	E-AM-TMP
+
+677	0	CD	Formerly	formerly	RB	S-ADVP	O	-
+677	0	CD	(	(	-LRB-	O	O	-
+677	0	CD	until	until	IN	S-PP	O	-
+677	0	CD	0	0	CD	S-NP	O	-
+677	0	CD	)	)	-RRB-	O	O	-
+677	0	CD	Batavia	Batavia	NNP	S-NP	S-LOC	-
+677	0	CD	,	,	,	O	O	-
+677	0	CD	Jakarta	Jakarta	NNP	S-NP	S-LOC	-
+677	0	CD	is	be	VBZ	S-VP	O	-
+677	0	CD	largest	large	JJS	B-NP	O	-
+677	0	CD	city	city	NN	I-NP	O	-
+677	0	CD	and	and	CC	I-NP	O	-
+677	0	CD	capital	capital	NN	E-NP	O	-
+677	0	CD	of	of	IN	S-PP	O	-
+677	0	CD	Indonesia	Indonesia	NNP	S-NP	S-LOC	-
+677	0	CD	.	.	.	O	O	-
+
+684	0	CD	Warsaw	Warsaw	NNP	S-NP	S-LOC	-	S-A1
+684	0	CD	remained	remain	VBD	S-VP	O	remained	S-V
+684	0	CD	Poland	Poland	NNP	S-NP	S-LOC	-	B-A3
+684	0	CD	's	's	POS	B-NP	O	-	I-A3
+684	0	CD	capital	capital	NN	E-NP	O	-	E-A3
+684	0	CD	after	after	IN	S-PP	O	-	B-AM-TMP
+684	0	CD	the	the	DT	B-NP	O	-	I-AM-TMP
+684	0	CD	war.	war.	NN	E-NP	O	-	E-AM-TMP
+
+686	0	CD	Disease	Disease	NN	S-NP	O	-	O	O	B-A1
+686	0	CD	,	,	,	O	O	-	O	O	I-A1
+686	0	CD	starvation	starvation	NN	S-NP	O	-	O	O	I-A1
+686	0	CD	,	,	,	O	O	-	O	O	I-A1
+686	0	CD	and	and	CC	O	O	-	O	O	I-A1
+686	0	CD	overcrowding	overcrowd	NN	S-NP	O	-	S-A0	O	I-A1
+686	0	CD	caused	cause	VBD	S-VP	O	caused	S-V	O	I-A1
+686	0	CD	thousands	thousand	NNS	S-NP	O	-	B-A1	S-A0	I-A1
+686	0	CD	to	to	TO	B-VP	O	-	I-A1	O	I-A1
+686	0	CD	perish	perish	VB	E-VP	O	perish	E-A1	S-V	I-A1
+686	0	CD	before	before	IN	S-SBAR	O	-	B-AM-TMP	O	I-A1
+686	0	CD	deportations	deportation	NNS	S-NP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	to	to	TO	S-PP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	the	the	DT	B-NP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	Nazi	Nazi	JJ	I-NP	S-MISC	-	I-AM-TMP	O	I-A1
+686	0	CD	death	death	NN	I-NP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	camps	camp	NNS	E-NP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	,	,	,	O	O	-	I-AM-TMP	O	I-A1
+686	0	CD	especially	especially	RB	S-ADVP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	to	to	TO	S-PP	O	-	I-AM-TMP	O	I-A1
+686	0	CD	Treblinka	Treblinka	NNP	S-NP	S-LOC	-	I-AM-TMP	O	I-A1
+686	0	CD	,	,	,	O	O	-	I-AM-TMP	O	E-A1
+686	0	CD	began	begin	VBD	S-VP	O	began	I-AM-TMP	O	S-V
+686	0	CD	in	in	IN	S-PP	O	-	I-AM-TMP	O	B-AM-TMP
+686	0	CD	late	late	JJ	B-NP	O	-	I-AM-TMP	O	I-AM-TMP
+686	0	CD	0.	@ord@	.	E-NP	O	-	E-AM-TMP	O	E-AM-TMP
+
+695	0	CD	In	in	IN	S-PP	O	-	B-AM-TMP	O
+695	0	CD	0	0	CD	S-NP	O	-	E-AM-TMP	O
+695	0	CD	the	the	DT	B-NP	O	-	B-A0	O
+695	0	CD	king	king	NN	E-NP	O	-	I-A0	O
+695	0	CD	and	and	CC	O	O	-	I-A0	O
+695	0	CD	his	his	PRP$	B-NP	O	-	I-A0	O
+695	0	CD	court	court	NN	E-NP	O	-	E-A0	O
+695	0	CD	finally	finally	RB	S-ADVP	O	-	S-AM-TMP	O
+695	0	CD	moved	move	VBD	S-VP	O	moved	S-V	O
+695	0	CD	from	from	IN	S-PP	O	-	B-AM-DIR	O
+695	0	CD	Krakow	Krakow	NNP	S-NP	S-LOC	-	I-AM-DIR	O
+695	0	CD	(	(	-LRB-	O	O	-	I-AM-DIR	O
+695	0	CD	Cracow	Cracow	NNP	S-NP	S-LOC	-	I-AM-DIR	O
+695	0	CD	)	)	-RRB-	O	O	-	E-AM-DIR	O
+695	0	CD	to	to	TO	S-PP	O	-	B-A2	O
+695	0	CD	Warsaw	Warsaw	NNP	S-NP	S-LOC	-	E-A2	O
+695	0	CD	,	,	,	O	O	-	O	O
+695	0	CD	making	make	VBG	S-VP	O	making	B-AM-ADV	S-V
+695	0	CD	it	it	PRP	S-NP	O	-	I-AM-ADV	S-A1
+695	0	CD	the	the	DT	B-NP	O	-	I-AM-ADV	B-A2
+695	0	CD	capital	capital	NN	E-NP	O	-	I-AM-ADV	I-A2
+695	0	CD	of	of	IN	S-PP	O	-	I-AM-ADV	I-A2
+695	0	CD	the	the	DT	B-NP	O	-	I-AM-ADV	I-A2
+695	0	CD	Polish	Polish	JJ	I-NP	S-MISC	-	I-AM-ADV	I-A2
+695	0	CD	state.	state.	NNS	E-NP	O	-	E-AM-ADV	E-A2
+
+698	0	CD	In	in	IN	S-PP	O	-	O	O
+698	0	CD	the	the	DT	B-NP	O	-	O	O
+698	0	CD	Old	Old	NNP	I-NP	B-LOC	-	O	O
+698	0	CD	Town	Town	NNP	E-NP	E-LOC	-	O	O
+698	0	CD	,	,	,	O	O	-	O	O
+698	0	CD	the	the	DT	B-NP	O	-	O	B-A1
+698	0	CD	Gothic	Gothic	NNP	I-NP	B-ORG	-	O	I-A1
+698	0	CD	St	St	NNP	E-NP	E-ORG	-	O	I-A1
+698	0	CD	.	.	.	O	O	-	O	I-A1
+698	0	CD	John	John	NNP	S-NP	B-ORG	-	O	I-A1
+698	0	CD	's	's	POS	B-NP	I-ORG	-	O	I-A1
+698	0	CD	Cathedral	cathedral	NNP	E-NP	E-ORG	-	O	I-A1
+698	0	CD	and	and	CC	O	O	-	O	I-A1
+698	0	CD	the	the	DT	B-NP	O	-	O	I-A1
+698	0	CD	red	red	JJ	I-NP	O	-	O	I-A1
+698	0	CD	-	-	:	I-NP	O	-	O	I-A1
+698	0	CD	brick	brick	NN	I-NP	O	-	B-A1	I-A1
+698	0	CD	fortifications	fortification	NNS	E-NP	O	-	E-A1	I-A1
+698	0	CD	known	know	VBN	S-VP	O	known	S-V	I-A1
+698	0	CD	as	as	IN	S-PP	O	-	B-A2	I-A1
+698	0	CD	the	the	DT	B-NP	O	-	I-A2	I-A1
+698	0	CD	Barbican	Barbican	NNP	E-NP	S-ORG	-	E-A2	E-A1
+698	0	CD	remain	remain	VBP	S-VP	O	remain	O	S-V
+698	0	CD	from	from	IN	S-PP	O	-	O	B-A3
+698	0	CD	the	the	DT	B-NP	O	-	O	I-A3
+698	0	CD	medieval	medieval	JJ	I-NP	O	-	O	I-A3
+698	0	CD	period	period	NN	E-NP	O	-	O	E-A3
+698	0	CD	.	.	.	O	O	-	O	O
+
+700	0	CD	Sigismund	Sigismund	NNP	S-NP	S-PER	-	S-A0
+700	0	CD	made	make	VBD	S-VP	O	made	S-V
+700	0	CD	Warsaw	Warsaw	NNP	S-NP	S-LOC	-	S-A1
+700	0	CD	the	the	DT	B-NP	O	-	B-A2
+700	0	CD	capital	capital	NN	E-NP	O	-	I-A2
+700	0	CD	of	of	IN	S-PP	O	-	I-A2
+700	0	CD	Poland	Poland	NNP	S-NP	S-LOC	-	E-A2
+700	0	CD	in	in	IN	S-PP	O	-	B-AM-TMP
+700	0	CD	0.	@ord@	.	S-NP	O	-	E-AM-TMP
+
+707	0	CD	One	One	CD	S-NP	O	-	O
+707	0	CD	of	of	IN	S-PP	O	-	O
+707	0	CD	the	the	DT	B-NP	O	-	O
+707	0	CD	first	first	JJ	I-NP	O	-	O
+707	0	CD	organized	organized	VBN	I-NP	O	organized	S-V
+707	0	CD	settlements	settlement	NNS	E-NP	O	-	S-A1
+707	0	CD	on	on	IN	S-PP	O	-	O
+707	0	CD	the	the	DT	B-NP	O	-	O
+707	0	CD	site	site	NN	E-NP	O	-	O
+707	0	CD	,	,	,	O	O	-	O
+707	0	CD	though	though	RB	S-ADVP	O	-	O
+707	0	CD	,	,	,	O	O	-	O
+707	0	CD	was	be	VBD	S-VP	O	-	O
+707	0	CD	the	the	DT	B-NP	O	-	O
+707	0	CD	Roman	Roman	JJ	I-NP	S-MISC	-	O
+707	0	CD	fortress	fortress	NN	E-NP	O	-	O
+707	0	CD	of	of	IN	S-PP	O	-	O
+707	0	CD	Aquincum	Aquincum	NNP	S-NP	S-LOC	-	O
+707	0	CD	.	.	.	O	O	-	O
+
+709	0	CD	There	there	EX	S-NP	O	-	O	O	O
+709	0	CD	are	be	VBP	S-VP	O	-	O	O	O
+709	0	CD	numerous	numerous	JJ	B-NP	O	-	B-A0	O	O
+709	0	CD	underground	underground	JJ	I-NP	O	-	I-A0	O	O
+709	0	CD	hot	hot	JJ	I-NP	O	-	I-A0	O	O
+709	0	CD	springs	spring	NNS	E-NP	O	-	E-A0	O	O
+709	0	CD	that	that	WDT	S-NP	O	-	S-R-A0	O	O
+709	0	CD	contain	contain	VBP	S-VP	O	contain	S-V	O	O
+709	0	CD	radium	radium	NN	S-NP	O	-	B-A1	O	O
+709	0	CD	and	and	CC	O	O	-	I-A1	O	O
+709	0	CD	other	other	JJ	B-NP	O	-	I-A1	O	O
+709	0	CD	minerals	mineral	NNS	E-NP	O	-	E-A1	O	O
+709	0	CD	,	,	,	O	O	-	O	O	O
+709	0	CD	and	and	CC	O	O	-	O	O	O
+709	0	CD	,	,	,	O	O	-	O	O	O
+709	0	CD	since	since	IN	S-PP	O	-	O	B-AM-TMP	O
+709	0	CD	Roman	Roman	JJ	B-NP	S-MISC	-	O	I-AM-TMP	O
+709	0	CD	times	time	NNS	E-NP	O	-	O	E-AM-TMP	O
+709	0	CD	,	,	,	O	O	-	O	O	O
+709	0	CD	bathers	bather	NNS	S-NP	O	-	O	S-A0	O
+709	0	CD	have	have	VBP	B-VP	O	-	O	O	O
+709	0	CD	sought	seek	VBN	E-VP	O	sought	O	S-V	O
+709	0	CD	them	them	PRP	S-NP	O	-	O	S-A1	O
+709	0	CD	out	out	RP	S-PRT	O	-	O	S-C-V	O
+709	0	CD	for	for	IN	S-PP	O	-	O	B-AM-PNC	O
+709	0	CD	their	their	PRP$	B-NP	O	-	O	I-AM-PNC	O
+709	0	CD	supposed	suppose	VBN	I-NP	O	supposed	O	I-AM-PNC	S-V
+709	0	CD	healing	healing	NN	I-NP	O	-	O	I-AM-PNC	B-A1
+709	0	CD	properties	property	NNS	E-NP	O	-	O	E-AM-PNC	E-A1
+709	0	CD	.	.	.	O	O	-	O	O	O
+
+712	0	CD	To	To	TO	S-PP	O	-	O
+712	0	CD	the	the	DT	B-NP	O	-	O
+712	0	CD	south	south	NN	E-NP	O	-	O
+712	0	CD	is	be	VBZ	S-VP	O	-	O
+712	0	CD	Gellert	Gellert	NNP	B-NP	B-PER	-	B-A0
+712	0	CD	Hill	Hill	NNP	E-NP	E-PER	-	E-A0
+712	0	CD	,	,	,	O	O	-	O
+712	0	CD	which	which	WDT	S-NP	O	-	S-R-A0
+712	0	CD	features	feature	VBZ	S-VP	O	features	S-V
+712	0	CD	the	the	DT	B-NP	O	-	B-A1
+712	0	CD	0th-century	0th-century	JJ	I-NP	O	-	I-A1
+712	0	CD	Citadel	Citadel	NNP	E-NP	S-ORG	-	E-A1
+712	0	CD	.	.	.	O	O	-	O
+
+717	0	CD	Pest	pest	NN	S-NP	O	-
+717	0	CD	is	be	VBZ	S-VP	O	-
+717	0	CD	on	on	IN	S-PP	O	-
+717	0	CD	the	the	DT	B-NP	O	-
+717	0	CD	opposite	opposite	JJ	I-NP	O	-
+717	0	CD	,	,	,	I-NP	O	-
+717	0	CD	east	east	JJ	I-NP	O	-
+717	0	CD	bank	bank	NN	E-NP	O	-
+717	0	CD	.	.	.	O	O	-
+
+718	0	CD	Buda	Buda	NNP	S-NP	S-LOC	-	S-A1
+718	0	CD	is	be	VBZ	B-VP	O	-	O
+718	0	CD	located	locate	VBN	E-VP	O	located	S-V
+718	0	CD	on	on	IN	S-PP	O	-	B-AM-LOC
+718	0	CD	the	the	DT	B-NP	O	-	I-AM-LOC
+718	0	CD	west	west	JJ	I-NP	O	-	I-AM-LOC
+718	0	CD	bank	bank	NN	E-NP	O	-	I-AM-LOC
+718	0	CD	of	of	IN	S-PP	O	-	I-AM-LOC
+718	0	CD	the	the	DT	B-NP	O	-	I-AM-LOC
+718	0	CD	Danube	Danube	NNP	E-NP	S-LOC	-	E-AM-LOC
+718	0	CD	.	.	.	O	O	-	O
+
+720	0	CD	Budapest	Budapest	NNP	S-NP	S-LOC	-	S-A1	O
+720	0	CD	consists	consist	VBZ	S-VP	O	consists	S-V	O
+720	0	CD	of	of	IN	S-PP	O	-	B-A2	O
+720	0	CD	two	two	CD	B-NP	O	-	I-A2	B-A1
+720	0	CD	principal	principal	JJ	I-NP	O	-	I-A2	I-A1
+720	0	CD	parts	part	NNS	E-NP	O	-	I-A2	E-A1
+720	0	CD	that	that	WDT	S-NP	O	-	I-A2	S-R-A1
+720	0	CD	were	be	VBD	B-VP	O	-	I-A2	O
+720	0	CD	merged	merge	VBN	E-VP	O	merged	I-A2	S-V
+720	0	CD	in	in	IN	S-PP	O	-	I-A2	B-AM-TMP
+720	0	CD	0.	@ord@	.	O	O	-	E-A2	E-AM-TMP
+
+268	1	IE	Aristide	Aristide	NNP	S-NP	S-PER	-	S-A1
+268	1	IE	became	become	VBD	S-VP	O	became	S-V
+268	1	IE	president	president	NN	S-NP	O	-	B-A2
+268	1	IE	of	of	IN	S-PP	O	-	I-A2
+268	1	IE	Haiti	Haiti	NNP	S-NP	S-LOC	-	E-A2
+268	1	IE	in	in	IN	S-PP	O	-	B-AM-TMP
+268	1	IE	0.	@ord@	.	O	O	-	E-AM-TMP
+
+271	0	IE	Aristide	Aristide	NNP	S-NP	S-PER	-
+271	0	IE	is	be	VBZ	S-VP	O	-
+271	0	IE	the	the	DT	B-NP	O	-
+271	0	IE	mayor	mayor	NN	E-NP	O	-
+271	0	IE	of	of	IN	S-PP	O	-
+271	0	IE	Port-au-Prince	Port-au-Prince	NNP	S-NP	S-LOC	-
+
+273	0	IE	Aristide	Aristide	NNP	S-NP	S-PER	-	S-A0
+273	0	IE	seized	seize	VBD	S-VP	O	seized	S-V
+273	0	IE	power	power	NN	S-NP	O	-	S-A1
+273	0	IE	in	in	IN	S-PP	O	-	B-AM-TMP
+273	0	IE	0.	@ord@	.	O	O	-	E-AM-TMP
+
+274	1	IE	Port-au-Prince	Port-au-Prince	NNP	S-NP	S-LOC	-
+274	1	IE	is	be	VBZ	S-VP	O	-
+274	1	IE	in	in	IN	S-PP	O	-
+274	1	IE	Haiti	Haiti	NNP	S-NP	S-LOC	-
+274	1	IE	.	.	.	O	O	-
+
+941	1	IE	Transfer	transfer	NN	S-NP	O	-
+941	1	IE	of	of	IN	S-PP	O	-
+941	1	IE	power	power	NN	S-NP	O	-
+941	1	IE	in	in	IN	S-PP	O	-
+941	1	IE	Iraq	Iraq	NNP	S-NP	S-LOC	-
+941	1	IE	on	on	IN	S-PP	O	-
+941	1	IE	June	June	NNP	B-NP	O	-
+941	1	IE	0.	@ord@	.	E-NP	O	-
+
+942	0	IE	The	the	DT	B-NP	O	-	B-A0
+942	0	IE	United	United	NNP	I-NP	B-ORG	-	I-A0
+942	0	IE	Nations	Nations	NNPS	E-NP	E-ORG	-	E-A0
+942	0	IE	officialy	officialy	RB	S-ADVP	O	-	S-AM-MNR
+942	0	IE	transferred	transfer	VBD	S-VP	O	transferred	S-V
+942	0	IE	power	power	NN	S-NP	O	-	S-A1
+942	0	IE	to	to	TO	S-PP	O	-	B-A2
+942	0	IE	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-A2
+942	0	IE	.	.	.	O	O	-	O
+
+943	1	IE	The	the	DT	B-NP	O	-	B-A1
+943	1	IE	transfer	transfer	NN	E-NP	O	-	I-A1
+943	1	IE	of	of	IN	S-PP	O	-	I-A1
+943	1	IE	power	power	NN	S-NP	O	-	E-A1
+943	1	IE	took	take	VBD	S-VP	O	took	S-V
+943	1	IE	place	place	NN	S-NP	O	-	S-A2
+943	1	IE	in	in	IN	S-PP	O	-	B-AM-LOC
+943	1	IE	Baghdad	Baghdad	NNP	S-NP	S-LOC	-	E-AM-LOC
+943	1	IE	.	.	.	O	O	-	O
+
+945	1	IE	Guerrillas	guerrilla	NNS	S-NP	O	-	S-A0
+945	1	IE	killed	kill	VBD	S-VP	O	killed	S-V
+945	1	IE	a	a	DT	B-NP	O	-	B-A1
+945	1	IE	civilian	civilian	JJ	E-NP	O	-	E-A1
+
+946	0	IE	0	0	CD	B-NP	O	-	B-A1
+946	0	IE	people	people	NNS	E-NP	O	-	E-A1
+946	0	IE	were	be	VBD	B-VP	O	-	O
+946	0	IE	injured	injure	VBN	E-VP	O	injured	O
+
+947	1	IE	police	police	NN	B-NP	O	-	B-A1
+947	1	IE	officer	officer	NN	E-NP	O	-	E-A1
+947	1	IE	killed	kill	VBD	S-VP	O	killed	S-V
+
+948	0	IE	Guerrillas	guerrilla	NNS	S-NP	O	-	S-A0
+948	0	IE	attacked	attack	VBD	S-VP	O	attacked	S-V
+948	0	IE	government	government	NN	B-NP	O	-	B-A1
+948	0	IE	buildings	building	NNS	E-NP	O	-	E-A1
+948	0	IE	.	.	.	O	O	-	O
+
+949	0	IE	Movil	Movil	NNP	B-NP	O	-	B-A0
+949	0	IE	Access	Access	NNP	E-NP	O	-	E-A0
+949	0	IE	appoints	appoint	VBZ	S-VP	O	appoints	S-V
+949	0	IE	Gustavo	Gustavo	NNP	B-NP	B-PER	-	B-A1
+949	0	IE	Guzman	Guzman	NNP	E-NP	E-PER	-	E-A1
+949	0	IE	as	as	IN	S-PP	O	-	B-A2
+949	0	IE	CFO	CFO	NNP	S-NP	S-ORG	-	E-A2
+949	0	IE	.	.	.	O	O	-	O
+
+950	1	IE	Movil	Movil	NNP	B-NP	O	-	B-A0
+950	1	IE	Access	Access	NNP	E-NP	O	-	E-A0
+950	1	IE	appoints	appoint	VBZ	S-VP	O	appoints	S-V
+950	1	IE	Jose	Jose	NNP	B-NP	B-PER	-	B-A1
+950	1	IE	Luis	Luis	NNP	I-NP	I-PER	-	I-A1
+950	1	IE	Riera	Riera	NNP	E-NP	E-PER	-	E-A1
+950	1	IE	as	as	IN	S-PP	O	-	B-A2
+950	1	IE	CFO	CFO	NNP	S-NP	S-ORG	-	E-A2
+950	1	IE	.	.	.	O	O	-	O
+
+951	1	IE	Sachin	Sachin	NNP	B-NP	B-PER	-
+951	1	IE	Lawande	Lawande	NNP	I-NP	E-PER	-
+951	1	IE	Named	Named	NNP	I-NP	O	-
+951	1	IE	VP	VP	NNP	E-NP	S-ORG	-
+951	1	IE	of	of	IN	S-PP	O	-
+951	1	IE	Engineering	Engineering	NNP	B-NP	B-ORG	-
+951	1	IE	Services	Services	NNPS	E-NP	E-ORG	-
+951	1	IE	at	at	IN	S-PP	O	-
+951	1	IE	QNX	QNX	NNP	S-NP	S-ORG	-
+
+952	0	IE	The	the	DT	B-NP	O	-	B-A0
+952	0	IE	Massachusetts	Massachusetts	NNP	I-NP	B-ORG	-	I-A0
+952	0	IE	Institute	Institute	NNP	E-NP	I-ORG	-	I-A0
+952	0	IE	of	of	IN	S-PP	I-ORG	-	I-A0
+952	0	IE	Technology	Technology	NNP	S-NP	E-ORG	-	I-A0
+952	0	IE	(	(	-LRB-	O	O	-	I-A0
+952	0	IE	MIT	MIT	NNP	S-NP	S-ORG	-	I-A0
+952	0	IE	)	)	-RRB-	O	O	-	E-A0
+952	0	IE	appoints	appoint	VBZ	S-VP	O	appoints	S-V
+952	0	IE	Stefano	Stefano	NNP	B-NP	B-PER	-	B-A1
+952	0	IE	Falconi	Falconi	NNP	E-NP	E-PER	-	E-A1
+952	0	IE	as	as	IN	S-PP	O	-	B-A2
+952	0	IE	chief	chief	JJ	B-NP	O	-	I-A2
+952	0	IE	financial	financial	JJ	I-NP	O	-	I-A2
+952	0	IE	officer	officer	NN	E-NP	O	-	E-A2
+952	0	IE	.	.	.	O	O	-	O
+
+953	1	IE	Brent	Brent	NNP	B-NP	B-PER	-	B-A0
+953	1	IE	Frei	Frei	NNP	E-NP	E-PER	-	E-A0
+953	1	IE	quits	quit	VBZ	S-VP	O	quits	S-V
+953	1	IE	ceo	ceo	NN	B-NP	O	-	B-A1
+953	1	IE	position	position	NN	E-NP	O	-	E-A1
+953	1	IE	.	.	.	O	O	-	O
+
+954	0	IE	Mark	Mark	NNP	B-NP	B-PER	-	B-A1
+954	0	IE	Allen	Allen	NNP	E-NP	E-PER	-	E-A1
+954	0	IE	is	be	VBZ	B-VP	O	-	O
+954	0	IE	appointed	appoint	VBN	E-VP	O	appointed	S-V
+954	0	IE	as	as	IN	S-PP	O	-	B-A2
+954	0	IE	chief	chief	NN	B-NP	O	-	I-A2
+954	0	IE	operating	operate	VBG	I-NP	O	-	I-A2
+954	0	IE	officer	officer	NN	E-NP	O	-	E-A2
+954	0	IE	.	.	.	O	O	-	O
+
+955	1	IE	C	C	NNP	B-NP	B-ORG	-	B-A0
+955	1	IE	&	&	CC	I-NP	I-ORG	-	I-A0
+955	1	IE	D	D	NNP	I-NP	I-ORG	-	I-A0
+955	1	IE	Technologies	Technologies	NNPS	E-NP	E-ORG	-	E-A0
+955	1	IE	acquired	acquire	VBD	S-VP	O	acquired	S-V
+955	1	IE	Datel	Datel	NNP	B-NP	B-ORG	-	B-A1
+955	1	IE	Inc.	Inc.	NNP	E-NP	E-ORG	-	E-A1
+
+956	0	IE	Datel	Datel	NNP	S-NP	S-PER	-	S-A0
+956	0	IE	acquired	acquire	VBD	S-VP	O	acquired	S-V
+956	0	IE	C	C	NNP	B-NP	B-ORG	-	B-A1
+956	0	IE	&	&	CC	I-NP	I-ORG	-	I-A1
+956	0	IE	D	D	NNP	I-NP	I-ORG	-	I-A1
+956	0	IE	Technologies	Technologies	NNPS	E-NP	E-ORG	-	E-A1
+
+957	0	IE	Asian	Asian	JJ	B-NP	S-MISC	-	B-A0
+957	0	IE	financial	financial	JJ	I-NP	O	-	I-A0
+957	0	IE	crisis	crisis	NN	E-NP	O	-	E-A0
+957	0	IE	takes	take	VBZ	S-VP	O	takes	B-V
+957	0	IE	over	over	IN	S-PP	O	-	E-V
+957	0	IE	Ssangyong	Ssangyong	NNP	B-NP	B-ORG	-	B-A1
+957	0	IE	Motor	Motor	NNP	E-NP	E-ORG	-	E-A1
+
+350	1	MT	The	the	DT	B-NP	O	-	B-A0	O	O
+350	1	MT	Pentagon	Pentagon	NNP	E-NP	S-ORG	-	E-A0	O	O
+350	1	MT	reported	report	VBD	S-VP	O	reported	S-V	O	O
+350	1	MT	today	today	NN	S-NP	O	-	S-AM-TMP	O	O
+350	1	MT	,	,	,	O	O	-	O	O	O
+350	1	MT	that	that	IN	S-SBAR	O	-	B-A1	O	O
+350	1	MT	the	the	DT	B-NP	O	-	I-A1	B-A0	O
+350	1	MT	bombing	bombing	NN	I-NP	O	-	I-A1	I-A0	O
+350	1	MT	runs	run	NNS	E-NP	O	-	I-A1	I-A0	O
+350	1	MT	against	against	IN	S-PP	O	-	I-A1	I-A0	O
+350	1	MT	Iraq	Iraq	NNP	S-NP	S-LOC	-	I-A1	E-A0	O
+350	1	MT	are	be	VBP	B-VP	O	-	I-A1	O	O
+350	1	MT	being	be	VBG	I-VP	O	-	I-A1	O	O
+350	1	MT	especially	especially	RB	I-VP	O	-	I-A1	S-AM-MNR	O
+350	1	MT	carried	carry	VBD	E-VP	O	carried	I-A1	B-V	O
+350	1	MT	out	out	RP	S-PRT	O	-	I-A1	E-V	O
+350	1	MT	via	via	IN	S-PP	O	-	I-A1	O	O
+350	1	MT	cruise	cruise	NN	B-NP	O	-	I-A1	O	B-A1
+350	1	MT	missiles	missile	NNS	E-NP	O	-	I-A1	O	E-A1
+350	1	MT	launched	launch	VBN	S-VP	O	launched	I-A1	O	S-V
+350	1	MT	from	from	IN	S-PP	O	-	I-A1	O	B-A3
+350	1	MT	American	American	JJ	B-NP	S-MISC	-	I-A1	O	I-A3
+350	1	MT	aircrafts	aircraft	NNS	E-NP	O	-	E-A1	O	E-A3
+350	1	MT	.	.	.	O	O	-	O	O	O
+
+352	0	MT	An	an	DT	B-NP	O	-	B-A0	O
+352	0	MT	official	official	JJ	I-NP	O	-	I-A0	O
+352	0	MT	source	source	NN	E-NP	O	-	I-A0	O
+352	0	MT	in	in	IN	S-PP	O	-	I-A0	O
+352	0	MT	the	the	DT	B-NP	O	-	I-A0	O
+352	0	MT	American	American	NNP	I-NP	B-ORG	-	I-A0	O
+352	0	MT	Ministry	Ministry	NNP	E-NP	I-ORG	-	I-A0	O
+352	0	MT	of	of	IN	S-PP	I-ORG	-	I-A0	O
+352	0	MT	Foreign	Foreign	NNP	B-NP	I-ORG	-	I-A0	O
+352	0	MT	Affairs	Affairs	NNP	E-NP	E-ORG	-	E-A0	O
+352	0	MT	announced	announce	VBD	S-VP	O	announced	S-V	O
+352	0	MT	that	that	IN	S-SBAR	O	-	B-A1	O
+352	0	MT	Russia	Russia	NNP	S-NP	S-LOC	-	I-A1	S-A0
+352	0	MT	called	call	VBD	S-VP	O	called	I-A1	S-V
+352	0	MT	the	the	DT	B-NP	O	-	I-A1	B-A2
+352	0	MT	United	United	NNP	I-NP	B-LOC	-	I-A1	I-A2
+352	0	MT	States	States	NNPS	E-NP	E-LOC	-	I-A1	E-A2
+352	0	MT	"	"	VBP	S-VP	O	-	I-A1	O
+352	0	MT	for	for	IN	S-PP	O	-	I-A1	O
+352	0	MT	consultation	consultation	NN	B-NP	O	-	I-A1	B-A2
+352	0	MT	"	"	NN	E-NP	O	-	I-A1	E-A2
+352	0	MT	because	because	IN	B-PP	O	-	I-A1	B-AM-CAU
+352	0	MT	of	of	IN	E-PP	O	-	I-A1	I-AM-CAU
+352	0	MT	the	the	DT	B-NP	O	-	I-A1	I-AM-CAU
+352	0	MT	bombings	bombing	NNS	E-NP	O	-	I-A1	I-AM-CAU
+352	0	MT	on	on	IN	S-PP	O	-	I-A1	I-AM-CAU
+352	0	MT	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-A1	E-AM-CAU
+352	0	MT	.	.	.	O	O	-	O	O
+
+353	0	MT	An	an	DT	B-NP	O	-	B-A0	O	O
+353	0	MT	official	official	JJ	I-NP	O	-	I-A0	O	O
+353	0	MT	source	source	NN	E-NP	O	-	I-A0	O	O
+353	0	MT	for	for	IN	S-PP	O	-	I-A0	O	O
+353	0	MT	Caritas	Caritas	NNP	S-NP	S-ORG	-	E-A0	O	O
+353	0	MT	announced	announce	VBD	S-VP	O	announced	S-V	O	O
+353	0	MT	today	today	NN	S-NP	O	-	S-AM-TMP	O	O
+353	0	MT	in	in	IN	S-PP	O	-	B-AM-LOC	O	O
+353	0	MT	Germany	Germany	NNP	S-NP	S-LOC	-	E-AM-LOC	O	O
+353	0	MT	,	,	,	O	O	-	O	O	O
+353	0	MT	that	that	IN	S-SBAR	O	-	B-A1	O	O
+353	0	MT	several	several	JJ	B-NP	O	-	I-A1	O	B-A1
+353	0	MT	Iraqi	Iraqi	JJ	I-NP	S-MISC	-	I-A1	O	I-A1
+353	0	MT	hospitals	hospital	NNS	E-NP	O	-	I-A1	O	I-A1
+353	0	MT	,	,	,	O	O	-	I-A1	O	I-A1
+353	0	MT	(	(	-LRB-	O	O	-	I-A1	O	I-A1
+353	0	MT	excluding	exclude	VBG	S-PP	O	excluding	I-A1	S-V	I-A1
+353	0	MT	Saddam	Saddam	NNP	B-NP	B-LOC	-	I-A1	B-A1	I-A1
+353	0	MT	Hospital	Hospital	NNP	E-NP	E-LOC	-	I-A1	E-A1	I-A1
+353	0	MT	,	,	,	O	O	-	I-A1	O	I-A1
+353	0	MT	which	which	WDT	S-NP	O	-	I-A1	O	I-A1
+353	0	MT	is	be	VBZ	S-VP	O	-	I-A1	O	I-A1
+353	0	MT	the	the	DT	B-NP	O	-	I-A1	O	I-A1
+353	0	MT	biggest	big	JJS	I-NP	O	-	I-A1	O	I-A1
+353	0	MT	hospital	hospital	NN	E-NP	O	-	I-A1	O	I-A1
+353	0	MT	in	in	IN	S-PP	O	-	I-A1	O	I-A1
+353	0	MT	Iraq	Iraq	NNP	S-NP	S-LOC	-	I-A1	O	I-A1
+353	0	MT	,	,	,	O	O	-	I-A1	O	I-A1
+353	0	MT	)	)	-RRB-	O	O	-	I-A1	O	E-A1
+353	0	MT	were	be	VBD	B-VP	O	-	I-A1	O	O
+353	0	MT	hit	hit	VBN	E-VP	O	hit	I-A1	O	S-V
+353	0	MT	in	in	IN	S-PP	O	-	I-A1	O	B-AM-LOC
+353	0	MT	the	the	DT	B-NP	O	-	I-A1	O	I-AM-LOC
+353	0	MT	American-	American-	NNP	I-NP	B-MISC	-	I-A1	O	I-AM-LOC
+353	0	MT	British	British	JJ	I-NP	E-MISC	-	I-A1	O	I-AM-LOC
+353	0	MT	shelling	shell	NN	E-NP	O	-	I-A1	O	I-AM-LOC
+353	0	MT	of	of	IN	S-PP	O	-	I-A1	O	I-AM-LOC
+353	0	MT	Baghdad	Baghdad	NNP	S-NP	S-LOC	-	E-A1	O	E-AM-LOC
+353	0	MT	.	.	.	O	O	-	O	O	O
+
+355	1	MT	Reports	report	NNS	S-NP	O	-	B-A0	O	O
+355	1	MT	from	from	IN	S-PP	O	-	I-A0	O	O
+355	1	MT	an	an	DT	B-NP	O	-	I-A0	O	O
+355	1	MT	Iraqi	Iraqi	JJ	I-NP	S-MISC	-	I-A0	O	O
+355	1	MT	official	official	NN	E-NP	O	-	I-A0	O	O
+355	1	MT	today	today	NN	S-NP	O	-	I-A0	O	O
+355	1	MT	,	,	,	O	O	-	I-A0	O	O
+355	1	MT	Saturday	Saturday	NNP	S-NP	O	-	I-A0	O	O
+355	1	MT	,	,	,	O	O	-	E-A0	O	O
+355	1	MT	said	say	VBD	S-VP	O	said	S-V	O	O
+355	1	MT	that	that	IN	S-SBAR	O	-	B-A1	O	O
+355	1	MT	the	the	DT	B-NP	O	-	I-A1	B-A1	B-A1
+355	1	MT	0	0	CD	I-NP	O	-	I-A1	I-A1	I-A1
+355	1	MT	civilians	civilian	NNS	E-NP	O	-	I-A1	E-A1	I-A1
+355	1	MT	killed	kill	VBD	S-VP	O	killed	I-A1	S-V	I-A1
+355	1	MT	as	as	IN	S-PP	O	-	I-A1	B-AM-CAU	I-A1
+355	1	MT	a	a	DT	B-NP	O	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	result	result	NN	E-NP	O	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	of	of	IN	S-PP	O	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	the	the	DT	B-NP	O	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	Anglo-American	Anglo-American	JJ	I-NP	S-MISC	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	bombing	bombing	NN	E-NP	O	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	of	of	IN	S-PP	O	-	I-A1	I-AM-CAU	I-A1
+355	1	MT	Iraq	Iraq	NNP	S-NP	S-LOC	-	I-A1	E-AM-CAU	I-A1
+355	1	MT	,	,	,	O	O	-	I-A1	O	E-A1
+355	1	MT	were	be	VBD	B-VP	O	-	I-A1	O	O
+355	1	MT	buried	bury	VBN	E-VP	O	buried	I-A1	O	S-V
+355	1	MT	today	today	NN	S-NP	O	-	I-A1	O	S-AM-TMP
+355	1	MT	in	in	IN	S-PP	O	-	I-A1	O	B-AM-LOC
+355	1	MT	Baghdad	Baghdad	NNP	S-NP	S-LOC	-	E-A1	O	E-AM-LOC
+355	1	MT	.	.	.	O	O	-	O	O	O
+
+357	1	MT	The	the	DT	B-NP	O	-	B-A1	O	O
+357	1	MT	funeral	funeral	NN	I-NP	O	-	I-A1	O	O
+357	1	MT	procession	procession	NN	E-NP	O	-	E-A1	O	O
+357	1	MT	had	have	VBD	B-VP	O	-	O	O	O
+357	1	MT	been	be	VBN	I-VP	O	-	O	O	O
+357	1	MT	directed	direct	VBN	E-VP	O	directed	S-V	O	O
+357	1	MT	to	to	TO	S-PP	O	-	B-A2	O	O
+357	1	MT	the	the	DT	B-NP	O	-	I-A2	O	O
+357	1	MT	UNDP	UNDP	NNP	I-NP	S-ORG	-	I-A2	O	O
+357	1	MT	headquarters	headquarters	NN	E-NP	O	-	E-A2	O	O
+357	1	MT	in	in	IN	S-PP	O	-	B-AM-LOC	O	O
+357	1	MT	Baghdad	Baghdad	NNP	S-NP	S-LOC	-	I-AM-LOC	O	O
+357	1	MT	,	,	,	O	O	-	I-AM-LOC	O	O
+357	1	MT	where	where	WRB	S-ADVP	O	-	I-AM-LOC	O	B-C-A1
+357	1	MT	signs	sign	NNS	S-NP	O	-	I-AM-LOC	S-A0	I-C-A1
+357	1	MT	denouncing	denounce	VBG	S-VP	O	denouncing	I-AM-LOC	S-V	I-C-A1
+357	1	MT	Americans	Americans	NNPS	S-NP	S-MISC	-	I-AM-LOC	S-A1	I-C-A1
+357	1	MT	as	as	IN	S-PP	O	-	I-AM-LOC	B-A2	I-C-A1
+357	1	MT	"	"	JJ	B-NP	O	-	I-AM-LOC	I-A2	I-C-A1
+357	1	MT	enemies	enemy	NNS	E-NP	O	-	I-AM-LOC	I-A2	I-C-A1
+357	1	MT	of	of	IN	S-PP	O	-	I-AM-LOC	I-A2	I-C-A1
+357	1	MT	God	God	NNP	S-NP	S-PER	-	I-AM-LOC	E-A2	E-C-A1
+357	1	MT	,	,	,	O	O	-	I-AM-LOC	O	O
+357	1	MT	"	"	WDT	S-NP	O	-	I-AM-LOC	O	S-A1
+357	1	MT	were	be	VBD	B-VP	O	-	I-AM-LOC	O	O
+357	1	MT	seen	see	VBN	E-VP	O	seen	E-AM-LOC	O	S-V
+357	1	MT	.	.	.	O	O	-	O	O	O
+
+363	0	MT	Baghdad	Baghdad	NNP	S-NP	S-LOC	-	S-A0	S-A0	O	O
+363	0	MT	announced	announce	VBD	S-VP	O	announced	S-V	O	O	O
+363	0	MT	the	the	DT	B-NP	O	-	B-A1	O	O	O
+363	0	MT	complete	complete	JJ	I-NP	O	-	I-A1	O	O	O
+363	0	MT	halt	halt	NN	E-NP	O	-	I-A1	O	O	O
+363	0	MT	in	in	IN	S-PP	O	-	I-A1	O	O	O
+363	0	MT	their	their	PRP$	B-NP	O	-	I-A1	O	O	O
+363	0	MT	cooperation	cooperation	NN	E-NP	O	-	I-A1	O	O	O
+363	0	MT	with	with	IN	S-PP	O	-	I-A1	O	O	O
+363	0	MT	UNSCOM	UNSCOM	NNP	S-NP	S-ORG	-	E-A1	O	O	O
+363	0	MT	,	,	,	O	O	-	O	O	O	O
+363	0	MT	and	and	CC	O	O	-	O	O	O	O
+363	0	MT	said	say	VBD	S-VP	O	said	O	S-V	O	O
+363	0	MT	also	also	RB	S-ADVP	O	-	O	S-AM-DIS	O	O
+363	0	MT	,	,	,	O	O	-	O	O	O	O
+363	0	MT	that	that	IN	S-SBAR	O	-	O	B-A1	O	O
+363	0	MT	it	it	PRP	S-NP	O	-	O	I-A1	S-A0	O
+363	0	MT	will	will	MD	B-VP	O	-	O	I-A1	S-AM-MOD	O
+363	0	MT	ask	ask	VB	E-VP	O	ask	O	I-A1	S-V	O
+363	0	MT	them	them	PRP	S-NP	O	-	O	I-A1	S-A2	S-A0
+363	0	MT	to	to	TO	B-VP	O	-	O	I-A1	B-A1	O
+363	0	MT	leave	leave	VB	E-VP	O	leave	O	E-A1	E-A1	S-V
+363	0	MT	.	.	.	O	O	-	O	O	O	O
+
+378	1	MT	This	this	DT	B-NP	O	-	B-A1	B-A2	O
+378	1	MT	poll	poll	NN	E-NP	O	-	E-A1	E-A2	O
+378	1	MT	was	be	VBD	B-VP	O	-	O	O	O
+378	1	MT	carried	carry	VBN	E-VP	O	carried	B-V	O	O
+378	1	MT	out	out	RP	S-PRT	O	-	E-V	O	O
+378	1	MT	on	on	IN	S-PP	O	-	B-AM-TMP	O	O
+378	1	MT	the	the	DT	B-NP	O	-	I-AM-TMP	O	O
+378	1	MT	0th	0th	JJ	I-NP	O	-	I-AM-TMP	O	O
+378	1	MT	and	and	CC	I-NP	O	-	I-AM-TMP	O	O
+378	1	MT	0th	0th	JJ	E-NP	O	-	I-AM-TMP	O	O
+378	1	MT	of	of	IN	S-PP	O	-	I-AM-TMP	O	O
+378	1	MT	October	October	NNP	S-NP	O	-	E-AM-TMP	O	O
+378	1	MT	,	,	,	O	O	-	O	O	O
+378	1	MT	and	and	CC	O	O	-	O	O	O
+378	1	MT	included	include	VBD	S-VP	O	included	O	S-V	O
+378	1	MT	a	a	DT	B-NP	O	-	O	B-A1	B-A1
+378	1	MT	segment	segment	NN	E-NP	O	-	O	I-A1	I-A1
+378	1	MT	of	of	IN	S-PP	O	-	O	I-A1	I-A1
+378	1	MT	0	0	CD	B-NP	O	-	O	I-A1	I-A1
+378	1	MT	people	people	NNS	E-NP	O	-	O	I-A1	I-A1
+378	1	MT	with	with	IN	S-PP	O	-	O	I-A1	I-A1
+378	1	MT	a	a	DT	B-NP	O	-	O	I-A1	I-A1
+378	1	MT	margin	margin	NN	E-NP	O	-	O	I-A1	I-A1
+378	1	MT	of	of	IN	S-PP	O	-	O	I-A1	I-A1
+378	1	MT	error	error	NN	S-NP	O	-	O	I-A1	E-A1
+378	1	MT	estimated	estimate	VBN	S-VP	O	estimated	O	I-A1	S-V
+378	1	MT	at	at	IN	S-PP	O	-	O	I-A1	B-A2
+378	1	MT	0%.	@card@	JJ	S-ADJP	O	-	O	E-A1	E-A2
+
+380	0	MT	Although	although	IN	S-SBAR	O	-	O	B-AM-ADV
+380	0	MT	0	0	CD	B-NP	O	-	B-A1	I-AM-ADV
+380	0	MT	%	%	NN	E-NP	O	-	I-A1	I-AM-ADV
+380	0	MT	of	of	IN	S-PP	O	-	I-A1	I-AM-ADV
+380	0	MT	Americans	Americans	NNPS	S-NP	S-MISC	-	E-A1	I-AM-ADV
+380	0	MT	are	be	VBP	S-VP	O	-	O	I-AM-ADV
+380	0	MT	unsatisfied	unsatisfied	VBN	S-ADJP	O	unsatisfied	S-V	I-AM-ADV
+380	0	MT	with	with	IN	S-PP	O	-	B-A1	I-AM-ADV
+380	0	MT	Clinton	Clinton	NNP	S-NP	S-PER	-	I-A1	I-AM-ADV
+380	0	MT	's	's	POS	B-NP	O	-	I-A1	I-AM-ADV
+380	0	MT	job	job	NN	I-NP	O	-	I-A1	I-AM-ADV
+380	0	MT	performance	performance	NN	E-NP	O	-	E-A1	E-AM-ADV
+380	0	MT	,	,	,	O	O	-	O	O
+380	0	MT	0	0	CD	B-NP	O	-	O	B-A0
+380	0	MT	%	%	NN	E-NP	O	-	O	E-A0
+380	0	MT	found	find	VBD	S-VP	O	found	O	S-V
+380	0	MT	Nixon	Nixon	NNP	S-NP	S-PER	-	O	B-A1
+380	0	MT	's	's	POS	B-NP	O	-	O	I-A1
+380	0	MT	work	work	NN	E-NP	O	-	O	I-A1
+380	0	MT	adequate	adequate	JJ	S-ADJP	O	-	O	I-A1
+380	0	MT	at	at	IN	S-PP	O	-	O	I-A1
+380	0	MT	the	the	DT	B-NP	O	-	O	I-A1
+380	0	MT	start	start	NN	E-NP	O	-	O	I-A1
+380	0	MT	of	of	IN	S-PP	O	-	O	I-A1
+380	0	MT	the	the	DT	B-NP	O	-	O	I-A1
+380	0	MT	Watergate	Watergate	NNP	I-NP	S-MISC	-	O	I-A1
+380	0	MT	scandal	scandal	NN	E-NP	O	-	O	E-A1
+380	0	MT	.	.	.	O	O	-	O	O
+
+465	0	PP	Boise	Boise	NNP	S-NP	S-ORG	-	S-A0
+465	0	PP	to	to	TO	B-VP	O	-	O
+465	0	PP	acquire	acquire	VB	E-VP	O	acquire	S-V
+465	0	PP	OfficeMax	OfficeMax	NNP	S-NP	S-ORG	-	S-A1
+465	0	PP	.	.	.	O	O	-	O
+
+466	1	PP	The	the	DT	B-NP	O	-	B-A0	B-A0	B-A0	O
+466	1	PP	Yellowstone	Yellowstone	NNP	I-NP	B-ORG	-	I-A0	I-A0	I-A0	O
+466	1	PP	Park	Park	NNP	I-NP	I-ORG	-	I-A0	I-A0	I-A0	O
+466	1	PP	Foundation	Foundation	NNP	E-NP	E-ORG	-	E-A0	E-A0	E-A0	O
+466	1	PP	would	would	MD	B-VP	O	-	S-AM-MOD	O	O	O
+466	1	PP	like	like	VB	I-VP	O	like	S-V	O	O	O
+466	1	PP	to	to	TO	I-VP	O	-	B-A1	O	O	O
+466	1	PP	acknowledge	acknowledge	VB	I-VP	O	acknowledge	E-A1	S-V	O	O
+466	1	PP	and	and	CC	I-VP	O	-	O	O	O	O
+466	1	PP	thank	thank	VB	E-VP	O	thank	O	O	S-V	O
+466	1	PP	the	the	DT	B-NP	O	-	O	B-A1	B-A1	O
+466	1	PP	following	follow	VBG	I-NP	O	following	O	I-A1	I-A1	S-V
+466	1	PP	organizations	organization	NNS	E-NP	O	-	O	I-A1	E-A1	S-A0
+466	1	PP	for	for	IN	S-PP	O	-	O	I-A1	B-A2	O
+466	1	PP	their	their	PRP$	B-NP	O	-	O	I-A1	I-A2	O
+466	1	PP	generous	generous	JJ	I-NP	O	-	O	I-A1	I-A2	O
+466	1	PP	support	support	NN	E-NP	O	-	O	E-A1	E-A2	O
+466	1	PP	.	.	.	O	O	-	O	O	O	O
+
+468	1	PP	Ostriches	ostrich	NNS	S-NP	S-MISC	-	S-A0
+468	1	PP	bury	bury	VBP	S-VP	O	bury	S-V
+468	1	PP	their	their	PRP$	B-NP	O	-	B-A1
+468	1	PP	heads	head	NNS	E-NP	O	-	I-A1
+468	1	PP	in	in	IN	S-PP	O	-	I-A1
+468	1	PP	the	the	DT	B-NP	O	-	I-A1
+468	1	PP	sand	sand	NN	E-NP	O	-	E-A1
+468	1	PP	.	.	.	O	O	-	O
+
+469	1	PP	Insurance	insurance	NN	B-NP	O	-	B-A2
+469	1	PP	companies	company	NNS	E-NP	O	-	E-A2
+469	1	PP	cover	cover	VBP	S-VP	O	cover	S-V
+469	1	PP	prescription	prescription	NN	B-NP	O	-	B-A1
+469	1	PP	drugs	drug	NNS	E-NP	O	-	E-A1
+469	1	PP	.	.	.	O	O	-	O
+
+474	1	PP	Representatives	representative	NNS	S-NP	O	-	B-A0
+474	1	PP	of	of	IN	S-PP	O	-	I-A0
+474	1	PP	the	the	DT	B-NP	O	-	I-A0
+474	1	PP	0	0	CD	I-NP	O	-	I-A0
+474	1	PP	member	member	NN	I-NP	O	-	I-A0
+474	1	PP	countries	country	NNS	E-NP	O	-	I-A0
+474	1	PP	of	of	IN	S-PP	O	-	I-A0
+474	1	PP	the	the	DT	B-NP	O	-	I-A0
+474	1	PP	World	World	NNP	I-NP	B-ORG	-	I-A0
+474	1	PP	Trade	Trade	NNP	I-NP	I-ORG	-	I-A0
+474	1	PP	Organization	Organization	NNP	E-NP	E-ORG	-	E-A0
+474	1	PP	will	will	MD	B-VP	O	-	S-AM-MOD
+474	1	PP	gather	gather	VB	E-VP	O	gather	S-V
+474	1	PP	in	in	IN	S-PP	O	-	B-AM-LOC
+474	1	PP	Doha	Doha	NNP	S-NP	S-LOC	-	I-AM-LOC
+474	1	PP	,	,	,	O	O	-	I-AM-LOC
+474	1	PP	Qatar	Qatar	NNP	S-NP	S-LOC	-	I-AM-LOC
+474	1	PP	,	,	,	O	O	-	E-AM-LOC
+474	1	PP	next	next	IN	B-NP	O	-	B-AM-TMP
+474	1	PP	Friday	Friday	NNP	E-NP	O	-	E-AM-TMP
+474	1	PP	.	.	.	O	O	-	O
+
+476	1	PP	Police	Police	NNS	S-NP	O	-	S-A0
+476	1	PP	gather	gather	VBP	S-VP	O	gather	S-V
+476	1	PP	clues	clue	NNS	S-NP	O	-	B-A1
+476	1	PP	in	in	IN	S-PP	O	-	I-A1
+476	1	PP	double	double	JJ	B-NP	O	-	I-A1
+476	1	PP	assassination	assassination	NN	E-NP	O	-	E-A1
+476	1	PP	.	.	.	O	O	-	O
+
+477	1	PP	Volunteers	volunteer	NNS	S-NP	O	-	S-A0
+477	1	PP	gather	gather	VBP	S-VP	O	gather	S-V
+477	1	PP	baseline	baseline	NN	B-NP	O	-	B-A1
+477	1	PP	data	datum	NNS	E-NP	O	-	E-A1
+477	1	PP	.	.	.	O	O	-	O
+
+478	0	PP	Bush	Bush	NNP	B-NP	S-PER	-	B-A0	B-A0
+478	0	PP	and	and	CC	I-NP	O	-	I-A0	I-A0
+478	0	PP	Putin	Putin	NNP	E-NP	S-PER	-	E-A0	E-A0
+478	0	PP	urge	urge	VB	S-VP	O	urge	S-V	O
+478	0	PP	Iran	Iran	NNP	S-NP	S-LOC	-	S-A1	S-A0
+478	0	PP	to	to	TO	B-VP	O	-	B-A2	O
+478	0	PP	give	give	VB	E-VP	O	give	I-A2	B-V
+478	0	PP	up	up	RP	S-PRT	O	-	I-A2	E-V
+478	0	PP	nuclear	nuclear	JJ	B-NP	O	-	I-A2	B-A1
+478	0	PP	ambitions	ambition	NNS	E-NP	O	-	E-A2	E-A1
+478	0	PP	.	.	.	O	O	-	O	O
+
+480	1	PP	Iran	Iran	NNP	B-NP	S-LOC	-
+480	1	PP	hands	hand	NNS	E-NP	O	-
+480	1	PP	over	over	IN	S-PP	O	-
+480	1	PP	al	al	NN	B-NP	B-ORG	-
+480	1	PP	Qaeda	Qaeda	NNP	I-NP	E-ORG	-
+480	1	PP	members.	members.	NNS	E-NP	O	-
+
+482	1	PP	Actress	actress	NNP	B-NP	O	-	B-A0
+482	1	PP	Minnie	Minnie	NNP	I-NP	B-PER	-	I-A0
+482	1	PP	Driver	Driver	NNP	E-NP	E-PER	-	E-A0
+482	1	PP	gives	give	VBZ	S-VP	O	gives	B-V
+482	1	PP	up	up	RP	S-PRT	O	-	E-V
+482	1	PP	Hollywood	Hollywood	NNP	S-NP	S-LOC	-	B-A1
+482	1	PP	for	for	IN	S-PP	O	-	I-A1
+482	1	PP	Cambodian	Cambodian	JJ	B-NP	S-MISC	-	I-A1
+482	1	PP	sweat	sweat	NN	I-NP	O	-	I-A1
+482	1	PP	shop	shop	NN	E-NP	O	-	E-A1
+482	1	PP	.	.	.	O	O	-	O
+
+483	1	PP	Click	click	NN	S-VP	O	-	B-A1
+483	1	PP	here	here	RB	S-ADVP	O	-	E-A1
+483	1	PP	to	to	TO	B-VP	O	-	O
+483	1	PP	go	go	VB	E-VP	O	go	S-V
+483	1	PP	back	back	RB	S-ADVP	O	-	S-AM-DIR
+483	1	PP	to	to	TO	S-PP	O	-	B-A4
+483	1	PP	the	the	DT	B-NP	O	-	I-A4
+483	1	PP	login	login	NN	I-NP	O	-	I-A4
+483	1	PP	page	page	NN	E-NP	O	-	E-A4
+483	1	PP	.	.	.	O	O	-	O
+
+484	0	PP	Weapons	weapon	NNS	B-NP	O	-	B-A1
+484	0	PP	inspectors	inspector	NNS	E-NP	O	-	E-A1
+484	0	PP	will	will	MD	B-VP	O	-	S-AM-MOD
+484	0	PP	go	go	VB	E-VP	O	go	S-V
+484	0	PP	back	back	RB	S-ADVP	O	-	S-AM-DIR
+484	0	PP	to	to	TO	S-PP	O	-	B-A4
+484	0	PP	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-A4
+484	0	PP	.	.	.	O	O	-	O
+
+486	1	PP	Wales	Wales	NNP	S-NP	S-LOC	-	S-A0
+486	1	PP	to	to	TO	B-VP	O	-	O
+486	1	PP	host	host	VB	E-VP	O	host	S-V
+486	1	PP	0	0	CD	B-NP	O	-	B-A1
+486	1	PP	Ryder	Ryder	NNP	I-NP	B-MISC	-	I-A1
+486	1	PP	Cup	Cup	NNP	E-NP	E-MISC	-	E-A1
+486	1	PP	.	.	.	O	O	-	O
+
+487	1	PP	The	the	DT	B-NP	O	-	B-A0
+487	1	PP	K	K	NNP	I-NP	B-MISC	-	I-A0
+487	1	PP	Club	Club	NNP	E-NP	E-MISC	-	E-A0
+487	1	PP	will	will	MD	B-VP	O	-	S-AM-MOD
+487	1	PP	host	host	VB	E-VP	O	host	S-V
+487	1	PP	the	the	DT	B-NP	O	-	B-A1
+487	1	PP	0	0	CD	I-NP	O	-	I-A1
+487	1	PP	Ryder	Ryder	NNP	I-NP	B-MISC	-	I-A1
+487	1	PP	Cup	Cup	NNP	E-NP	E-MISC	-	E-A1
+487	1	PP	.	.	.	O	O	-	O
+
+489	0	PP	Teacher	teacher	NN	S-NP	O	-	S-A0
+489	0	PP	wins	win	VBZ	S-VP	O	wins	S-V
+489	0	PP	right	right	RB	S-ADVP	O	-	B-A1
+489	0	PP	to	to	TO	S-PP	O	-	I-A1
+489	0	PP	market	market	NN	B-NP	O	-	I-A1
+489	0	PP	Harry	Harry	NNP	I-NP	B-PER	-	I-A1
+489	0	PP	Potter	Potter	NNP	E-NP	E-PER	-	E-A1
+489	0	PP	.	.	.	O	O	-	O
+
+491	1	PP	There	there	EX	S-NP	O	-
+491	1	PP	was	be	VBD	S-VP	O	-
+491	1	PP	a	a	DT	B-NP	O	-
+491	1	PP	magnitude	magnitude	NN	E-NP	O	-
+491	1	PP	0	0	CD	B-NP	O	-
+491	1	PP	earthquake	earthquake	NN	E-NP	O	-
+491	1	PP	on	on	IN	S-PP	O	-
+491	1	PP	the	the	DT	B-NP	O	-
+491	1	PP	Hayward	Hayward	NNP	I-NP	S-LOC	-
+491	1	PP	fault	fault	NN	E-NP	O	-
+491	1	PP	.	.	.	O	O	-
+
+493	0	PP	Hussein	Hussein	NNP	S-NP	S-PER	-	S-A0	O
+493	0	PP	gives	give	VBZ	S-VP	O	gives	S-V	O
+493	0	PP	UN	UN	NNP	B-NP	S-MISC	-	B-A2	B-A0
+493	0	PP	inspectors	inspector	NNS	E-NP	O	-	E-A2	E-A0
+493	0	PP	unfettered	unfettered	VBD	S-VP	O	unfettered	B-A1	S-V
+493	0	PP	access	access	NN	S-NP	O	-	E-A1	S-A1
+493	0	PP	.	.	.	O	O	-	O	O
+
+496	1	PP	Muslims	Muslims	NNS	S-NP	O	-
+496	1	PP	are	be	VBP	S-VP	O	-
+496	1	PP	monotheistic	monotheistic	JJ	S-ADJP	O	-
+496	1	PP	.	.	.	O	O	-
+
+497	0	PP	Jews	Jews	NNS	B-NP	S-MISC	-	B-A0
+497	0	PP	and	and	CC	I-NP	O	-	I-A0
+497	0	PP	Christians	Christian	NNPS	E-NP	S-MISC	-	E-A0
+497	0	PP	pray	pray	VBP	S-VP	O	pray	S-V
+497	0	PP	as	as	IN	S-SBAR	O	-	B-A1
+497	0	PP	Muslims	Muslim	NNPS	S-NP	S-MISC	-	I-A1
+497	0	PP	do	do	VBP	S-VP	O	-	E-A1
+497	0	PP	.	.	.	O	O	-	O
+
+498	1	PP	Christians	Christian	NNS	S-NP	S-PER	-	S-A0
+498	1	PP	pray	pray	VBP	S-VP	O	pray	S-V
+498	1	PP	the	the	DT	B-NP	O	-	B-A1
+498	1	PP	rosary	rosary	NN	E-NP	O	-	E-A1
+498	1	PP	.	.	.	O	O	-	O
+
+501	1	PP	Muslims	Muslims	NNS	S-NP	O	-	S-A0
+501	1	PP	pray	pray	VBP	S-VP	O	pray	S-V
+501	1	PP	at	at	IN	S-PP	O	-	B-AM-LOC
+501	1	PP	the	the	DT	B-NP	O	-	I-AM-LOC
+501	1	PP	mosque	mosque	NN	E-NP	O	-	E-AM-LOC
+501	1	PP	.	.	.	O	O	-	O
+
+503	1	PP	The	the	DT	B-NP	O	-
+503	1	PP	mosque	mosque	NN	E-NP	O	-
+503	1	PP	is	be	VBZ	S-VP	O	-
+503	1	PP	a	a	DT	B-NP	O	-
+503	1	PP	place	place	NN	E-NP	O	-
+503	1	PP	of	of	IN	S-PP	O	-
+503	1	PP	worship	worship	NN	S-NP	O	-
+503	1	PP	for	for	IN	S-PP	O	-
+503	1	PP	Muslims	Muslims	NNPS	S-NP	S-MISC	-
+503	1	PP	.	.	.	O	O	-
+
+506	0	PP	It	it	PRP	S-NP	O	-	O	O
+506	0	PP	is	be	VBZ	S-VP	O	-	O	O
+506	0	PP	incorrect	incorrect	JJ	S-ADJP	O	-	O	O
+506	0	PP	to	to	TO	B-VP	O	-	O	O
+506	0	PP	assert	assert	VB	E-VP	O	assert	S-V	O
+506	0	PP	that	that	DT	B-NP	O	-	B-A1	B-A0
+506	0	PP	circumcision	circumcision	NN	E-NP	O	-	I-A1	E-A0
+506	0	PP	prevents	prevent	VBZ	S-VP	O	prevents	I-A1	S-V
+506	0	PP	HIV	HIV	NNP	B-NP	O	-	I-A1	B-A1
+506	0	PP	infection	infection	NN	E-NP	O	-	E-A1	E-A1
+506	0	PP	.	.	.	O	O	-	O	O
+
+509	0	PP	Teens	teen	NNS	S-NP	O	-	O
+509	0	PP	who	who	WP	S-NP	O	-	O
+509	0	PP	are	be	VBP	B-VP	O	-	O
+509	0	PP	depressed	depress	VBN	E-VP	O	-	O
+509	0	PP	are	be	VBP	S-VP	O	-	O
+509	0	PP	much	much	RB	B-ADVP	O	-	O
+509	0	PP	more	more	JJR	E-ADVP	O	-	O
+509	0	PP	at	at	IN	S-PP	O	-	O
+509	0	PP	risk	risk	NN	S-NP	O	-	O
+509	0	PP	of	of	IN	S-PP	O	-	O
+509	0	PP	attempting	attempt	VBG	S-VP	O	attempting	S-V
+509	0	PP	suicide	suicide	NN	S-NP	O	-	B-A1
+509	0	PP	than	than	IN	S-PP	O	-	I-A1
+509	0	PP	other	other	JJ	B-NP	O	-	I-A1
+509	0	PP	teens	teen	NNS	E-NP	O	-	E-A1
+509	0	PP	.	.	.	O	O	-	O
+
+510	1	PP	The	the	DT	B-NP	O	-	B-A0	B-A0
+510	1	PP	government	government	NN	E-NP	O	-	I-A0	I-A0
+510	1	PP	of	of	IN	S-PP	O	-	I-A0	I-A0
+510	1	PP	Ecuador	Ecuador	NNP	S-NP	S-LOC	-	E-A0	E-A0
+510	1	PP	aims	aim	VBZ	B-VP	O	aims	S-V	O
+510	1	PP	to	to	TO	I-VP	O	-	B-A1	O
+510	1	PP	prevent	prevent	VB	E-VP	O	prevent	I-A1	S-V
+510	1	PP	trafficking	trafficking	NN	S-NP	O	-	I-A1	B-A1
+510	1	PP	in	in	IN	S-PP	O	-	I-A1	I-A1
+510	1	PP	persons	person	NNS	S-NP	O	-	E-A1	E-A1
+510	1	PP	.	.	.	O	O	-	O	O
+
+514	1	PP	Babylon	Babylon	NNP	S-NP	S-LOC	-	S-A1	S-A0
+514	1	PP	surrendered	surrender	VBD	S-VP	O	surrendered	S-V	O
+514	1	PP	to	to	TO	S-PP	O	-	B-A4	O
+514	1	PP	Cyrus	Cyrus	NNP	S-NP	S-PER	-	E-A4	O
+514	1	PP	without	without	IN	S-PP	O	-	B-AM-ADV	O
+514	1	PP	going	go	VBG	S-VP	O	going	I-AM-ADV	S-V
+514	1	PP	to	to	TO	S-PP	O	-	I-AM-ADV	B-A2
+514	1	PP	battle	battle	NN	S-NP	O	-	E-AM-ADV	E-A2
+514	1	PP	.	.	.	O	O	-	O	O
+
+515	0	PP	Family	Family	NNP	B-NP	O	-	B-A0
+515	0	PP	Court	Court	NNP	E-NP	O	-	E-A0
+515	0	PP	cannot	can	MD	B-VP	O	-	S-AM-MOD
+515	0	PP	punish	punish	VB	E-VP	O	punish	S-V
+515	0	PP	the	the	DT	B-NP	O	-	B-A1
+515	0	PP	guilty	guilty	JJ	E-NP	O	-	E-A1
+515	0	PP	.	.	.	O	O	-	O
+
+516	0	PP	I	I	PRP	S-NP	O	-	S-A0	O
+516	0	PP	read	read	VBD	S-VP	O	read	S-V	O
+516	0	PP	"	"	RP	O	O	-	B-A1	O
+516	0	PP	Punished	Punished	VBN	S-VP	O	Punished	I-A1	S-V
+516	0	PP	by	by	IN	S-PP	O	-	I-A1	B-A0
+516	0	PP	Rewards	reward	NNS	S-NP	O	-	I-A1	I-A0
+516	0	PP	"	"	JJ	S-ADJP	O	-	I-A1	I-A0
+516	0	PP	by	by	IN	S-PP	O	-	I-A1	I-A0
+516	0	PP	Alfie	Alfie	NNP	B-NP	B-PER	-	I-A1	I-A0
+516	0	PP	Kohn	Kohn	NNP	E-NP	E-PER	-	E-A1	E-A0
+516	0	PP	.	.	.	O	O	-	O	O
+
+518	0	PP	Cyrus	Cyrus	NNP	S-NP	S-PER	-	S-A0	O	O
+518	0	PP	issued	issue	VBD	S-VP	O	issued	S-V	O	O
+518	0	PP	a	a	DT	B-NP	O	-	B-A1	B-A0	O
+518	0	PP	declaration	declaration	NN	E-NP	O	-	I-A1	E-A0	O
+518	0	PP	in	in	IN	S-PP	O	-	I-A1	O	O
+518	0	PP	0	0	CD	S-NP	O	-	I-A1	O	O
+518	0	PP	that	that	WDT	S-NP	O	-	I-A1	S-R-A0	O
+518	0	PP	would	would	MD	B-VP	O	-	I-A1	S-AM-MOD	O
+518	0	PP	allow	allow	VB	E-VP	O	allow	I-A1	S-V	O
+518	0	PP	the	the	DT	B-NP	O	-	I-A1	B-A1	B-A1
+518	0	PP	Jews	Jews	NNPS	E-NP	S-MISC	-	I-A1	I-A1	E-A1
+518	0	PP	to	to	TO	B-VP	O	-	I-A1	I-A1	O
+518	0	PP	go	go	VB	E-VP	O	go	I-A1	I-A1	S-V
+518	0	PP	back	back	RB	S-ADVP	O	-	I-A1	I-A1	S-AM-DIR
+518	0	PP	to	to	TO	S-PP	O	-	I-A1	I-A1	B-A4
+518	0	PP	their	their	PRP$	B-NP	O	-	I-A1	I-A1	I-A4
+518	0	PP	homeland	homeland	NN	E-NP	O	-	E-A1	E-A1	E-A4
+518	0	PP	.	.	.	O	O	-	O	O	O
+
+519	1	PP	American	American	NNP	B-NP	B-ORG	-	B-A0
+519	1	PP	Airlines	Airlines	NNPS	E-NP	E-ORG	-	E-A0
+519	1	PP	will	will	MD	B-VP	O	-	S-AM-MOD
+519	1	PP	recall	recall	VB	E-VP	O	recall	S-V
+519	1	PP	hundreds	hundred	NNS	S-NP	O	-	B-A1
+519	1	PP	of	of	IN	S-PP	O	-	I-A1
+519	1	PP	flight	flight	NN	B-NP	O	-	I-A1
+519	1	PP	attendants	attendant	NNS	E-NP	O	-	E-A1
+519	1	PP	.	.	.	O	O	-	O
+
+520	1	PP	0	0	CD	B-NP	O	-	B-A0	O	O	O
+520	1	PP	states	state	NNS	E-NP	O	-	E-A0	O	O	O
+520	1	PP	have	have	VBP	S-VP	O	have	S-V	O	O	O
+520	1	PP	provisions	provision	NNS	S-NP	O	-	B-A1	S-A0	O	O
+520	1	PP	that	that	WDT	S-NP	O	-	I-A1	S-R-A0	O	O
+520	1	PP	permit	permit	VBP	S-VP	O	permit	I-A1	S-V	O	O
+520	1	PP	women	woman	NNS	S-NP	O	-	I-A1	B-A1	S-A0	S-A0
+520	1	PP	who	who	WP	S-NP	O	-	I-A1	I-A1	S-R-A0	S-R-A0
+520	1	PP	quit	quit	VBD	S-VP	O	quit	I-A1	I-A1	S-V	O
+520	1	PP	their	their	PRP$	B-NP	O	-	I-A1	I-A1	B-A1	O
+520	1	PP	jobs	job	NNS	E-NP	O	-	I-A1	I-A1	E-A1	O
+520	1	PP	because	because	IN	B-PP	O	-	I-A1	I-A1	O	O
+520	1	PP	of	of	IN	E-PP	O	-	I-A1	I-A1	O	O
+520	1	PP	domestic	domestic	JJ	B-NP	O	-	I-A1	I-A1	O	O
+520	1	PP	violence	violence	NN	E-NP	O	-	I-A1	I-A1	O	O
+520	1	PP	to	to	TO	B-VP	O	-	I-A1	I-A1	O	O
+520	1	PP	collect	collect	VB	E-VP	O	collect	I-A1	I-A1	O	S-V
+520	1	PP	unemployment	unemployment	NN	B-NP	O	-	I-A1	I-A1	O	B-A1
+520	1	PP	insurance	insurance	NN	E-NP	O	-	E-A1	E-A1	O	E-A1
+520	1	PP	.	.	.	O	O	-	O	O	O	O
+
+521	1	PP	California	California	NNP	B-NP	S-LOC	-	B-A0	B-A0
+521	1	PP	voters	voter	NNS	E-NP	O	-	E-A0	E-A0
+521	1	PP	dumped	dump	VBD	S-VP	O	dumped	S-V	O
+521	1	PP	Gov.	Gov.	NNP	B-NP	B-PER	-	B-A1	O
+521	1	PP	Gray	Gray	NNP	I-NP	I-PER	-	I-A1	O
+521	1	PP	Davis	Davis	NNP	E-NP	E-PER	-	E-A1	O
+521	1	PP	and	and	CC	O	O	-	O	O
+521	1	PP	replaced	replace	VBD	S-VP	O	replaced	O	S-V
+521	1	PP	him	him	PRP	S-NP	O	-	O	S-A1
+521	1	PP	with	with	IN	S-PP	O	-	O	B-A2
+521	1	PP	Arnold	Arnold	NNP	B-NP	B-PER	-	O	I-A2
+521	1	PP	Schwarzenegger	Schwarzenegger	NNP	E-NP	E-PER	-	O	E-A2
+521	1	PP	.	.	.	O	O	-	O	O
+
+523	1	PP	The	the	DT	B-NP	O	-	B-A0
+523	1	PP	prevailing	prevailing	VBG	I-NP	O	-	I-A0
+523	1	PP	party	party	NN	E-NP	O	-	E-A0
+523	1	PP	shall	shall	MD	B-VP	O	-	S-AM-MOD
+523	1	PP	recover	recover	VB	E-VP	O	recover	S-V
+523	1	PP	attorney	attorney	NN	B-NP	O	-	B-A1
+523	1	PP	fees	fee	NNS	E-NP	O	-	E-A1
+523	1	PP	.	.	.	O	O	-	O
+
+524	0	PP	The	the	DT	B-NP	O	-	O	B-A0
+524	0	PP	prevailing	prevailing	VBG	I-NP	O	prevailing	S-V	I-A0
+524	0	PP	party	party	NN	E-NP	O	-	S-A0	E-A0
+524	0	PP	may	may	MD	B-VP	O	-	O	S-AM-MOD
+524	0	PP	not	not	RB	I-VP	O	-	O	S-AM-NEG
+524	0	PP	recover	recover	VB	E-VP	O	recover	O	S-V
+524	0	PP	attorney	attorney	NN	B-NP	O	-	O	B-A1
+524	0	PP	fees	fee	NNS	E-NP	O	-	O	E-A1
+524	0	PP	.	.	.	O	O	-	O	O
+
+525	1	PP	In	in	IN	S-PP	O	-	B-AM-TMP	O	O	O
+525	1	PP	the	the	DT	B-NP	O	-	I-AM-TMP	O	O	O
+525	1	PP	event	event	NN	E-NP	O	-	I-AM-TMP	O	O	O
+525	1	PP	of	of	IN	S-PP	O	-	I-AM-TMP	O	O	O
+525	1	PP	a	a	DT	B-NP	O	-	I-AM-TMP	O	O	O
+525	1	PP	disaster	disaster	NN	E-NP	O	-	E-AM-TMP	O	O	O
+525	1	PP	you	you	PRP	S-NP	O	-	S-A0	O	O	O
+525	1	PP	could	could	MD	B-VP	O	-	S-AM-MOD	O	O	O
+525	1	PP	use	use	VB	E-VP	O	use	S-V	O	O	O
+525	1	PP	Texas	Texas	NNP	B-NP	B-ORG	-	B-A1	O	O	O
+525	1	PP	Data	Data	NNP	I-NP	I-ORG	-	I-A1	O	O	O
+525	1	PP	Recovery	Recovery	NNP	E-NP	E-ORG	-	E-A1	O	O	O
+525	1	PP	and	and	CC	O	O	-	O	O	O	O
+525	1	PP	you	you	PRP	S-NP	O	-	O	S-A0	S-A0	O
+525	1	PP	will	will	MD	B-VP	O	-	O	S-AM-MOD	O	O
+525	1	PP	have	have	VB	E-VP	O	have	O	S-V	O	O
+525	1	PP	the	the	DT	B-NP	O	-	O	B-A1	O	O
+525	1	PP	capability	capability	NN	E-NP	O	-	O	I-A1	O	O
+525	1	PP	to	to	TO	B-VP	O	-	O	I-A1	O	O
+525	1	PP	restore	restore	VB	E-VP	O	restore	O	I-A1	S-V	O
+525	1	PP	lost	lost	VBN	B-NP	O	lost	O	I-A1	B-A1	S-V
+525	1	PP	data	datum	NNS	E-NP	O	-	O	E-A1	E-A1	S-A1
+525	1	PP	.	.	.	O	O	-	O	O	O	O
+
+526	0	PP	Legal	legal	JJ	B-NP	O	-	O
+526	0	PP	costs	cost	NNS	E-NP	O	-	O
+526	0	PP	to	to	TO	B-VP	O	-	O
+526	0	PP	recover	recover	VB	E-VP	O	recover	S-V
+526	0	PP	punitive	punitive	JJ	B-NP	O	-	B-A1
+526	0	PP	damages	damage	NNS	E-NP	O	-	E-A1
+526	0	PP	are	be	VBP	S-VP	O	-	O
+526	0	PP	a	a	DT	B-NP	O	-	O
+526	0	PP	deductible	deductible	JJ	I-NP	O	-	O
+526	0	PP	business	business	NN	I-NP	O	-	O
+526	0	PP	expense	expense	NN	E-NP	O	-	O
+526	0	PP	.	.	.	O	O	-	O
+
+527	0	PP	The	the	DT	B-NP	O	-	B-A0	O	O
+527	0	PP	Heads	Heads	NNS	E-NP	O	-	I-A0	O	O
+527	0	PP	of	of	IN	S-PP	O	-	I-A0	O	O
+527	0	PP	state	state	NN	S-NP	O	-	E-A0	O	O
+527	0	PP	expressed	express	VBD	S-VP	O	expressed	S-V	O	O
+527	0	PP	their	their	PRP$	B-NP	O	-	B-A1	O	O
+527	0	PP	deep	deep	JJ	I-NP	O	-	I-A1	O	O
+527	0	PP	concern	concern	NN	E-NP	O	-	I-A1	O	O
+527	0	PP	at	at	IN	S-PP	O	-	I-A1	O	O
+527	0	PP	the	the	DT	B-NP	O	-	I-A1	O	O
+527	0	PP	fast	fast	JJ	E-NP	O	-	I-A1	O	O
+527	0	PP	and	and	CC	O	O	-	I-A1	O	O
+527	0	PP	continuing	continuing	VBG	B-NP	O	continuing	I-A1	S-V	O
+527	0	PP	degradation	degradation	NN	E-NP	O	-	I-A1	B-A1	O
+527	0	PP	of	of	IN	S-PP	O	-	I-A1	I-A1	O
+527	0	PP	the	the	DT	B-NP	O	-	I-A1	I-A1	B-A2
+527	0	PP	environment	environment	NN	E-NP	O	-	I-A1	I-A1	E-A2
+527	0	PP	,	,	,	O	O	-	I-A1	I-A1	O
+527	0	PP	including	include	VBG	S-PP	O	including	I-A1	I-A1	S-V
+527	0	PP	extensive	extensive	JJ	B-NP	O	-	I-A1	I-A1	B-A1
+527	0	PP	destruction	destruction	NN	E-NP	O	-	I-A1	I-A1	I-A1
+527	0	PP	of	of	IN	S-PP	O	-	I-A1	I-A1	I-A1
+527	0	PP	forests	forest	NNS	S-NP	O	-	I-A1	I-A1	E-A1
+527	0	PP	,	,	,	O	O	-	I-A1	I-A1	O
+527	0	PP	in	in	IN	S-PP	O	-	I-A1	I-A1	O
+527	0	PP	the	the	DT	B-NP	O	-	I-A1	I-A1	O
+527	0	PP	South	South	JJ	I-NP	B-MISC	-	I-A1	I-A1	O
+527	0	PP	Asian	Asian	JJ	I-NP	E-MISC	-	I-A1	I-A1	O
+527	0	PP	region	region	NN	E-NP	O	-	E-A1	E-A1	O
+527	0	PP	.	.	.	O	O	-	O	O	O
+
+528	1	PP	Swedish	Swedish	JJ	B-NP	S-MISC	-	B-A0
+528	1	PP	massage	massage	NN	E-NP	O	-	E-A0
+528	1	PP	loosens	loosen	VBZ	S-VP	O	loosens	S-V
+528	1	PP	tense	tense	JJ	B-NP	O	-	B-A1
+528	1	PP	muscles	muscle	NNS	E-NP	O	-	E-A1
+528	1	PP	.	.	.	O	O	-	O
+
+531	0	PP	Traditional	traditional	JJ	B-NP	B-MISC	-	O	O
+531	0	PP	Balinese	Balinese	JJ	I-NP	E-MISC	-	O	O
+531	0	PP	massage	massage	NN	E-NP	O	-	O	O
+531	0	PP	is	be	VBZ	S-VP	O	-	O	O
+531	0	PP	a	a	DT	B-NP	O	-	O	B-AM-LOC
+531	0	PP	therapy	therapy	NN	E-NP	O	-	O	E-AM-LOC
+531	0	PP	where	where	WRB	S-ADVP	O	-	O	S-R-AM-LOC
+531	0	PP	pushing	push	VBG	S-VP	O	pushing	S-V	B-A1
+531	0	PP	techniques	technique	NNS	S-NP	O	-	S-A1	E-A1
+531	0	PP	predominate	predominate	VBP	S-VP	O	predominate	O	S-V
+531	0	PP	.	.	.	O	O	-	O	O
+
+533	0	PP	Moore	Moore	NNP	S-NP	S-PER	-	S-A0	O
+533	0	PP	now	now	RB	S-ADVP	O	-	S-AM-TMP	O
+533	0	PP	has	have	VBZ	S-VP	O	has	S-V	O
+533	0	PP	the	the	DT	B-NP	O	-	B-A1	B-A1
+533	0	PP	commandments	commandment	NNS	I-NP	O	-	I-A1	I-A1
+533	0	PP	plaque	plaque	NN	E-NP	O	-	I-A1	E-A1
+533	0	PP	posted	post	VBN	S-VP	O	posted	I-A1	S-V
+533	0	PP	in	in	IN	S-PP	O	-	I-A1	B-AM-LOC
+533	0	PP	his	his	PRP$	B-NP	O	-	I-A1	I-AM-LOC
+533	0	PP	office	office	NN	E-NP	O	-	E-A1	E-AM-LOC
+533	0	PP	.	.	.	O	O	-	O	O
+
+534	0	PP	Our	our	PRP$	B-NP	O	-	B-A0
+534	0	PP	substances	substance	NNS	E-NP	O	-	E-A0
+534	0	PP	remove	remove	VB	S-VP	O	remove	S-V
+534	0	PP	stains	stain	NNS	S-NP	O	-	S-A1
+534	0	PP	.	.	.	O	O	-	O
+
+535	0	PP	Moore	Moore	NNP	S-NP	S-PER	-	S-A0	O	O
+535	0	PP	had	have	VBD	S-VP	O	had	S-V	O	O
+535	0	PP	the	the	DT	B-NP	O	-	B-A1	B-A1	O
+535	0	PP	monument	monument	NN	E-NP	O	-	I-A1	E-A1	O
+535	0	PP	installed	install	VBN	S-VP	O	installed	I-A1	S-V	O
+535	0	PP	before	before	IN	S-SBAR	O	-	I-A1	B-AM-TMP	O
+535	0	PP	he	he	PRP	S-NP	O	-	I-A1	I-AM-TMP	S-A1
+535	0	PP	became	become	VBD	S-VP	O	became	I-A1	I-AM-TMP	S-V
+535	0	PP	Chief	Chief	NNP	B-NP	O	-	I-A1	I-AM-TMP	B-A2
+535	0	PP	Justice	Justice	NNP	E-NP	S-PER	-	E-A1	E-AM-TMP	E-A2
+535	0	PP	.	.	.	O	O	-	O	O	O
+
+537	0	PP	The	the	DT	B-NP	O	-	B-A0	O	O	O
+537	0	PP	United	United	NNP	I-NP	B-LOC	-	I-A0	O	O	O
+537	0	PP	States	States	NNPS	E-NP	E-LOC	-	E-A0	O	O	O
+537	0	PP	threatened	threaten	VBD	S-VP	O	threatened	S-V	O	O	O
+537	0	PP	the	the	DT	B-NP	O	-	B-A1	O	O	O
+537	0	PP	"	"	JJ	I-NP	O	-	I-A1	O	O	O
+537	0	PP	severest	severe	JJ	I-NP	O	-	I-A1	O	O	O
+537	0	PP	consequences	consequence	NNS	E-NP	O	-	I-A1	O	O	O
+537	0	PP	"	"	IN	B-SBAR	O	-	I-A1	O	O	O
+537	0	PP	if	if	IN	E-SBAR	O	-	I-A1	O	O	O
+537	0	PP	Iraq	Iraq	NNP	S-NP	S-LOC	-	I-A1	S-A0	O	O
+537	0	PP	were	be	VBD	B-VP	O	-	I-A1	O	O	O
+537	0	PP	to	to	TO	I-VP	O	-	I-A1	O	O	O
+537	0	PP	use	use	VB	E-VP	O	use	I-A1	S-V	O	O
+537	0	PP	chemical	chemical	NN	B-NP	O	-	I-A1	B-A1	O	O
+537	0	PP	or	or	CC	I-NP	O	-	I-A1	I-A1	O	O
+537	0	PP	biological	biological	JJ	I-NP	O	-	I-A1	I-A1	O	O
+537	0	PP	weapons	weapon	NNS	E-NP	O	-	I-A1	E-A1	O	O
+537	0	PP	against	against	IN	S-PP	O	-	I-A1	B-AM-MNR	O	O
+537	0	PP	the	the	DT	B-NP	O	-	I-A1	I-AM-MNR	O	O
+537	0	PP	United	United	NNP	I-NP	B-LOC	-	I-A1	I-AM-MNR	O	O
+537	0	PP	States	States	NNPS	E-NP	E-LOC	-	I-A1	I-AM-MNR	O	O
+537	0	PP	,	,	,	O	O	-	I-A1	I-AM-MNR	O	O
+537	0	PP	destroy	destroy	VBP	S-VP	O	destroy	I-A1	I-AM-MNR	S-V	O
+537	0	PP	Kuwaiti	Kuwaiti	JJ	B-NP	S-MISC	-	I-A1	I-AM-MNR	B-A1	O
+537	0	PP	oil	oil	NN	I-NP	O	-	I-A1	I-AM-MNR	I-A1	O
+537	0	PP	fields	field	NNS	E-NP	O	-	I-A1	I-AM-MNR	E-A1	O
+537	0	PP	or	or	CC	O	O	-	I-A1	I-AM-MNR	O	O
+537	0	PP	participate	participate	VB	S-VP	O	participate	I-A1	I-AM-MNR	O	S-V
+537	0	PP	in	in	IN	S-PP	O	-	I-A1	I-AM-MNR	O	B-A1
+537	0	PP	terrorism	terrorism	NN	S-NP	O	-	E-A1	E-AM-MNR	O	E-A1
+537	0	PP	.	.	.	O	O	-	O	O	O	O
+
+538	1	PP	The	the	DT	B-NP	O	-	B-A0	B-A0
+538	1	PP	Japanese	Japanese	NNPS	E-NP	S-MISC	-	E-A0	E-A0
+538	1	PP	seized	seize	VBD	S-VP	O	seized	S-V	O
+538	1	PP	Manchuria	Manchuria	NNP	S-NP	S-LOC	-	S-A1	O
+538	1	PP	in	in	IN	S-PP	O	-	B-AM-TMP	O
+538	1	PP	0	0	CD	S-NP	O	-	E-AM-TMP	O
+538	1	PP	,	,	,	O	O	-	O	O
+538	1	PP	and	and	CC	O	O	-	O	O
+538	1	PP	began	begin	VBD	S-VP	O	began	O	S-V
+538	1	PP	a	a	DT	B-NP	O	-	O	B-A1
+538	1	PP	war	war	NN	E-NP	O	-	O	I-A1
+538	1	PP	against	against	IN	S-PP	O	-	O	I-A1
+538	1	PP	China	China	NNP	S-NP	S-LOC	-	O	E-A1
+538	1	PP	in	in	IN	S-PP	O	-	O	B-AM-TMP
+538	1	PP	0.	@ord@	.	S-NP	O	-	O	E-AM-TMP
+
+540	0	PP	Microsoft	Microsoft	NNP	S-NP	S-ORG	-	S-A0
+540	0	PP	would	would	MD	B-VP	O	-	S-AM-MOD
+540	0	PP	spend	spend	VB	E-VP	O	spend	S-V
+540	0	PP	0	0	CD	B-NP	O	-	B-A3
+540	0	PP	million	million	CD	I-NP	O	-	I-A3
+540	0	PP	dollars	dollar	NNS	E-NP	O	-	E-A3
+540	0	PP	.	.	.	O	O	-	O
+
+541	0	PP	Ottawa	Ottawa	NNP	S-NP	S-LOC	-	S-A0	S-A0
+541	0	PP	promises	promise	VBZ	S-VP	O	promises	S-V	O
+541	0	PP	more	more	JJR	B-NP	O	-	B-A2	O
+541	0	PP	money	money	NN	E-NP	O	-	I-A2	O
+541	0	PP	to	to	TO	B-VP	O	-	I-A2	O
+541	0	PP	upgrade	upgrade	VB	E-VP	O	upgrade	I-A2	S-V
+541	0	PP	the	the	DT	B-NP	O	-	I-A2	B-A1
+541	0	PP	literacy	literacy	NN	I-NP	O	-	I-A2	I-A1
+541	0	PP	levels	level	NNS	I-NP	O	-	I-A2	I-A1
+541	0	PP	and	and	CC	I-NP	O	-	I-A2	I-A1
+541	0	PP	skills	skill	NNS	E-NP	O	-	I-A2	I-A1
+541	0	PP	of	of	IN	S-PP	O	-	I-A2	I-A1
+541	0	PP	natives	native	NNS	S-NP	O	-	I-A2	I-A1
+541	0	PP	and	and	CC	O	O	-	I-A2	I-A1
+541	0	PP	high	high	JJ	B-NP	O	-	I-A2	I-A1
+541	0	PP	school	school	NN	I-NP	O	-	I-A2	I-A1
+541	0	PP	dropouts	dropout	NNS	E-NP	O	-	E-A2	E-A1
+541	0	PP	.	.	.	O	O	-	O	O
+
+542	1	PP	More	more	JJR	B-NP	O	-	B-A0	O	O	O
+542	1	PP	money	money	NN	E-NP	O	-	I-A0	O	O	O
+542	1	PP	in	in	IN	S-PP	O	-	I-A0	O	O	O
+542	1	PP	the	the	DT	B-NP	O	-	I-A0	O	O	O
+542	1	PP	hands	hand	NNS	E-NP	O	-	I-A0	O	O	O
+542	1	PP	of	of	IN	S-PP	O	-	I-A0	O	O	O
+542	1	PP	consumers	consumer	NNS	S-NP	O	-	E-A0	O	O	O
+542	1	PP	means	mean	VBZ	S-VP	O	means	S-V	O	O	O
+542	1	PP	more	more	JJR	B-NP	O	-	B-A1	B-A3	B-A0	O
+542	1	PP	money	money	NN	E-NP	O	-	I-A1	E-A3	E-A0	O
+542	1	PP	can	can	MD	B-VP	O	-	I-A1	S-AM-MOD	O	O
+542	1	PP	be	be	VB	I-VP	O	-	I-A1	O	O	O
+542	1	PP	spent	spend	VBN	I-VP	O	spent	I-A1	S-V	O	O
+542	1	PP	to	to	TO	I-VP	O	-	I-A1	B-AM-PNC	O	O
+542	1	PP	get	get	VB	E-VP	O	get	I-A1	I-AM-PNC	S-V	O
+542	1	PP	the	the	DT	B-NP	O	-	I-A1	I-AM-PNC	B-A1	B-A1
+542	1	PP	economy	economy	NN	E-NP	O	-	I-A1	I-AM-PNC	E-A1	E-A1
+542	1	PP	going	go	VBG	S-VP	O	going	E-A1	E-AM-PNC	S-A2	S-V
+542	1	PP	.	.	.	O	O	-	O	O	O	O
+
+543	0	PP	Cardinal	Cardinal	NNP	B-NP	B-PER	-	B-A1	B-A1
+543	0	PP	Law	Law	NNP	E-NP	E-PER	-	E-A1	E-A1
+543	0	PP	returns	return	VBZ	S-VP	O	returns	S-V	O
+543	0	PP	from	from	IN	S-PP	O	-	B-AM-DIR	O
+543	0	PP	Rome	Rome	NNP	S-NP	S-LOC	-	E-AM-DIR	O
+543	0	PP	with	with	IN	S-PP	O	-	B-AM-MNR	O
+543	0	PP	plans	plan	NNS	S-NP	O	-	I-AM-MNR	O
+543	0	PP	to	to	TO	B-VP	O	-	I-AM-MNR	O
+543	0	PP	stay	stay	VB	E-VP	O	stay	I-AM-MNR	S-V
+543	0	PP	in	in	IN	S-PP	O	-	I-AM-MNR	B-AM-LOC
+543	0	PP	Boston	Boston	NNP	S-NP	S-LOC	-	E-AM-MNR	E-AM-LOC
+543	0	PP	.	.	.	O	O	-	O	O
+
+544	0	PP	U.N.	U.N.	NNP	B-NP	S-ORG	-	B-A1	B-A1
+544	0	PP	weapons	weapon	NNS	I-NP	O	-	I-A1	I-A1
+544	0	PP	inspectors	inspector	NNS	E-NP	O	-	E-A1	I-A1
+544	0	PP	could	could	MD	B-VP	O	-	S-AM-MOD	I-A1
+544	0	PP	stay	stay	VB	E-VP	O	stay	S-V	I-A1
+544	0	PP	in	in	IN	S-PP	O	-	B-A3	I-A1
+544	0	PP	Iraq	Iraq	NNP	S-NP	S-LOC	-	E-A3	E-A1
+544	0	PP	,	,	,	O	O	-	O	O
+544	0	PP	Clinton	Clinton	NNP	S-NP	S-PER	-	O	S-A0
+544	0	PP	said	say	VBD	S-VP	O	said	O	S-V
+544	0	PP	.	.	.	O	O	-	O	O
+
+546	1	PP	The	the	DT	B-NP	O	-	B-A0
+546	1	PP	British	British	JJ	I-NP	S-MISC	-	I-A0
+546	1	PP	government	government	NN	E-NP	O	-	E-A0
+546	1	PP	banned	ban	VBD	S-VP	O	banned	S-V
+546	1	PP	flights	flight	NNS	S-NP	O	-	B-A1
+546	1	PP	to	to	TO	S-PP	O	-	I-A1
+546	1	PP	Kenya	Kenya	NNP	S-NP	S-LOC	-	E-A1
+546	1	PP	.	.	.	O	O	-	O
+
+547	0	PP	North	North	NNP	B-NP	B-LOC	-	B-A0
+547	0	PP	Korea	Korea	NNP	E-NP	E-LOC	-	E-A0
+547	0	PP	has	have	VBZ	B-VP	O	-	O
+547	0	PP	announced	announce	VBN	E-VP	O	announced	S-V
+547	0	PP	its	its	PRP$	B-NP	O	-	B-A1
+547	0	PP	withdrawal	withdrawal	NN	E-NP	O	-	I-A1
+547	0	PP	from	from	IN	S-PP	O	-	I-A1
+547	0	PP	liaison	liaison	NN	B-NP	O	-	I-A1
+547	0	PP	meetings	meeting	NNS	E-NP	O	-	I-A1
+547	0	PP	with	with	IN	S-PP	O	-	I-A1
+547	0	PP	United	United	NNP	B-NP	B-LOC	-	I-A1
+547	0	PP	States	States	NNPS	I-NP	E-LOC	-	I-A1
+547	0	PP	military	military	JJ	I-NP	O	-	I-A1
+547	0	PP	officers	officer	NNS	E-NP	O	-	E-A1
+547	0	PP	.	.	.	O	O	-	O
+
+557	0	PP	Vitamin	vitamin	NNP	B-NP	O	-	B-A0
+557	0	PP	E	E	NNP	E-NP	O	-	E-A0
+557	0	PP	can	can	MD	B-VP	O	-	S-AM-MOD
+557	0	PP	prevent	prevent	VB	E-VP	O	prevent	S-V
+557	0	PP	heart	heart	NN	B-NP	O	-	B-A1
+557	0	PP	disease	disease	NN	E-NP	O	-	E-A1
+557	0	PP	.	.	.	O	O	-	O
+
+558	0	PP	Albright	Albright	NNP	S-NP	S-PER	-	S-A0	O
+558	0	PP	said	say	VBD	S-VP	O	said	S-V	O
+558	0	PP	that	that	IN	S-SBAR	O	-	B-A1	O
+558	0	PP	to	to	TO	B-VP	O	-	I-A1	O
+558	0	PP	punish	punish	VB	E-VP	O	punish	I-A1	S-V
+558	0	PP	Saddam	Saddam	NNP	B-NP	B-PER	-	I-A1	B-A1
+558	0	PP	Hussein	Hussein	NNP	E-NP	E-PER	-	I-A1	E-A1
+558	0	PP	,	,	,	O	O	-	I-A1	O
+558	0	PP	the	the	DT	B-NP	O	-	I-A1	O
+558	0	PP	deaths	death	NNS	E-NP	O	-	I-A1	O
+558	0	PP	of	of	IN	S-PP	O	-	I-A1	O
+558	0	PP	those	those	DT	B-NP	O	-	I-A1	O
+558	0	PP	children	child	NNS	E-NP	O	-	I-A1	O
+558	0	PP	were	be	VBD	S-VP	O	-	I-A1	O
+558	0	PP	"	"	JJ	B-ADJP	O	-	I-A1	O
+558	0	PP	worth	worth	JJ	E-ADJP	O	-	I-A1	O
+558	0	PP	it.	it.	RB	S-ADVP	O	-	I-A1	O
+558	0	PP	"	"	.	O	O	-	E-A1	O
+
+969	0	PP	Doug	Doug	NNP	B-NP	B-PER	-	B-A0
+969	0	PP	Lawrence	Lawrence	NNP	E-NP	E-PER	-	E-A0
+969	0	PP	sold	sell	VBD	S-VP	O	sold	S-V
+969	0	PP	the	the	DT	B-NP	O	-	B-A1
+969	0	PP	impressionist	impressionist	JJ	I-NP	O	-	I-A1
+969	0	PP	oil	oil	NN	I-NP	O	-	I-A1
+969	0	PP	landscape	landscape	NN	E-NP	O	-	E-A1
+969	0	PP	by	by	IN	S-PP	O	-	B-A0
+969	0	PP	J.	J.	NNP	B-NP	B-PER	-	I-A0
+969	0	PP	Ottis	Ottis	NNP	I-NP	I-PER	-	I-A0
+969	0	PP	Adams	Adams	NNP	E-NP	E-PER	-	E-A0
+
+970	0	PP	Polish	Polish	JJ	B-NP	S-MISC	-	B-A0
+970	0	PP	troops	troop	NNS	E-NP	O	-	E-A0
+970	0	PP	confiscated	confiscate	VBD	S-VP	O	confiscated	S-V
+970	0	PP	Warheads	Warheads	NNS	S-NP	S-MISC	-	S-A1
+
+971	0	PP	Mitsubishi	Mitsubishi	NNP	B-NP	S-ORG	-	B-A1
+971	0	PP	sales	sale	NNS	E-NP	O	-	E-A1
+971	0	PP	rose	rise	VBD	S-VP	O	rose	S-V
+971	0	PP	0	0	CD	B-NP	O	-	B-A2
+971	0	PP	percent	percent	NN	E-NP	O	-	E-A2
+
+972	0	PP	Owners	owner	NNS	S-NP	O	-	S-A0	S-A0
+972	0	PP	announced	announce	VBD	S-VP	O	announced	S-V	O
+972	0	PP	plans	plan	NNS	S-NP	O	-	B-A1	O
+972	0	PP	to	to	TO	B-VP	O	-	I-A1	O
+972	0	PP	sell	sell	VB	E-VP	O	sell	I-A1	S-V
+972	0	PP	clean-up	clean-up	JJ	B-NP	O	-	I-A1	B-A1
+972	0	PP	equipment	equipment	NN	E-NP	O	-	E-A1	E-A1
+972	0	PP	.	.	.	O	O	-	O	O
+
+269	0	IR	Americans	Americans	NNS	S-NP	S-MISC	-	S-A0	S-A0
+269	0	IR	hope	hope	VBP	B-VP	O	hope	S-V	O
+269	0	IR	to	to	TO	I-VP	O	-	B-A1	O
+269	0	IR	help	help	VB	E-VP	O	help	I-A1	S-V
+269	0	IR	Evans	Evans	NNP	B-NP	B-PER	-	I-A1	B-A1
+269	0	IR	Paul	Paul	NNP	E-NP	E-PER	-	I-A1	E-A1
+269	0	IR	in	in	IN	S-PP	O	-	I-A1	B-AM-LOC
+269	0	IR	the	the	DT	B-NP	O	-	I-A1	I-AM-LOC
+269	0	IR	election	election	NN	E-NP	O	-	I-A1	I-AM-LOC
+269	0	IR	for	for	IN	S-PP	O	-	I-A1	I-AM-LOC
+269	0	IR	mayor	mayor	NN	S-NP	O	-	I-A1	I-AM-LOC
+269	0	IR	of	of	IN	S-PP	O	-	I-A1	I-AM-LOC
+269	0	IR	Port-au-Prince	Port-au-Prince	NNP	S-NP	S-LOC	-	E-A1	E-AM-LOC
+269	0	IR	.	.	.	O	O	-	O	O
+
+270	0	IR	Aristide	Aristide	NNP	S-NP	S-PER	-	O
+270	0	IR	had	have	VBD	S-VP	O	-	O
+270	0	IR	Prime	Prime	NNP	B-NP	O	-	B-A0
+270	0	IR	Minister	Minister	NNP	I-NP	O	-	I-A0
+270	0	IR	Robert	Robert	NNP	I-NP	B-PER	-	I-A0
+270	0	IR	Malval	Malval	NNP	E-NP	E-PER	-	E-A0
+270	0	IR	murdered	murder	VBD	S-VP	O	murdered	S-V
+270	0	IR	in	in	IN	S-PP	O	-	B-AM-LOC
+270	0	IR	Port-au-Prince	Port-au-Prince	NNP	S-NP	S-LOC	-	E-AM-LOC
+270	0	IR	.	.	.	O	O	-	O
+
+275	0	IR	Aristide	Aristide	NNP	S-NP	S-PER	-	S-A0
+275	0	IR	is	be	VBZ	S-VP	O	-	O
+275	0	IR	due	due	JJ	S-ADJP	O	-	O
+275	0	IR	to	to	TO	B-VP	O	-	O
+275	0	IR	live	live	VB	E-VP	O	live	S-V
+275	0	IR	at	at	IN	S-PP	O	-	B-AM-LOC
+275	0	IR	Port-au-Prince	Port-au-Prince	NNP	B-NP	S-LOC	-	E-AM-LOC
+275	0	IR	again.	again.	.	E-NP	O	-	O
+
+282	0	IR	The	the	DT	B-NP	O	-
+282	0	IR	International	International	NNP	I-NP	B-ORG	-
+282	0	IR	Olympic	Olympic	NNP	I-NP	I-ORG	-
+282	0	IR	Commitee	Commitee	NNP	E-NP	E-ORG	-
+282	0	IR	's	's	POS	B-NP	O	-
+282	0	IR	head	head	NN	I-NP	O	-
+282	0	IR	office	office	NN	E-NP	O	-
+282	0	IR	is	be	VBZ	S-VP	O	-
+282	0	IR	in	in	IN	S-PP	O	-
+282	0	IR	Lillehammer	Lillehammer	NNP	S-NP	S-LOC	-
+282	0	IR	.	.	.	O	O	-
+
